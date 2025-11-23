@@ -1,3 +1,6 @@
 #ignore large file
 /imagery/
+
+#ignore env folder
+/env
 .env
