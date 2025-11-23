@@ -3,6 +3,7 @@
 # Training: Data 2024
 # Aplikasi: Data 2024 & 2020
 # ===============================================================
+
 # 1. Muat library
 library(terra)
 library(sf)
