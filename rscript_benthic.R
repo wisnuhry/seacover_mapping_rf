@@ -1,7 +1,7 @@
 # ===============================================================
 # R SCRIPT KLASIFIKASI LULC L4 (Revisi - Batas Sampel)
 # Training: Data 2024
-# Aplikasi: Data 2024 & 2020
+# Aplikasi: Time Series Data
 # ===============================================================
 
 # 1. Muat library
