@@ -1,0 +1,847 @@
+FID,ID_Originak,Team,ID_Transek,ID_Titik,Filename,Latitude,Longitude,Lokasi,URL,Class_1,Class_2,Cluster
+1,1,A,T1,D1T1-1,D1T1 (1).JPG,-0.619196485,120.0655085,Tandaigi,https://lh3.googleusercontent.com/d/1dMR78sSPvffsv6nS9OE6nE_Rs5C5gnDy,Terumbu karang,Terumbu karang kondisi baik,7
+2,2,A,T1,D1T1-2,D1T1 (2).JPG,-0.619213333,120.0653709,Tandaigi,https://lh3.googleusercontent.com/d/186Ow3hC_7ceRYSqqjVY9eRHvmwt0YOJX,Terumbu karang,Terumbu karang kondisi baik,7
+3,3,A,T1,D1T1-3,D1T1 (3).JPG,-0.619293333,120.0653017,Tandaigi,https://lh3.googleusercontent.com/d/1dZEhyF6dKpu4YuzuQTeRpWiLag4cvR9V,Terumbu karang,Bleaching,7
+4,4,A,T1,D1T1-4,D1T1 (4).JPG,-0.619336667,120.0652117,Tandaigi,https://lh3.googleusercontent.com/d/1gT3b4iIINccfqjUSll7x6b6O2YNkfs8W,Terumbu karang,Terumbu karang kondisi baik,7
+5,5,A,T1,D1T1-5,D1T1 (5).JPG,-0.619356667,120.0651583,Tandaigi,https://lh3.googleusercontent.com/d/14WtLtpP3kLcRuAOWUMVTHsSriPa8dYCx,Terumbu karang,Terumbu karang kondisi baik,7
+6,6,A,T1,D1T1-6,D1T1 (6).JPG,-0.619381667,120.0651017,Tandaigi,https://lh3.googleusercontent.com/d/1IpRDalR-sKV0O-TWvfB-NlKuUiCil-EW,Terumbu karang,Terumbu karang kondisi baik,7
+7,7,A,T1,D1T1-7,D1T1 (7).JPG,-0.619372296,120.0650167,Tandaigi,https://lh3.googleusercontent.com/d/16Ghz_JJ40zJi4nZFGUbMHjU9M1-5XJ70,Terumbu karang,Terumbu karang kondisi baik,7
+8,8,A,T1,D1T1-8,D1T1 (8).JPG,-0.619375,120.0649633,Tandaigi,https://lh3.googleusercontent.com/d/1wsWoxfH9DgxHarJOQ2edqutZh2TEhST2,Terumbu karang,Pecahan karang,7
+9,9,A,T1,D1T1-9,D1T1 (9).JPG,-0.619376667,120.0649283,Tandaigi,https://lh3.googleusercontent.com/d/1DhpdVxTmsJNwYtkIuCpbHix6htgxa4my,Substrat terbuka,Pecahan karang,7
+10,10,A,T1,D1T1-10,D1T1 (10).JPG,-0.61938,120.0648771,Tandaigi,https://lh3.googleusercontent.com/d/1WvOKNtXv_uWt_2y_uVJUQb86V1o6g1rN,Substrat terbuka,Terumbu karang kondisi baik,7
+11,11,A,T1,D1T1-11,D1T1 (11).JPG,-0.619371667,120.064795,Tandaigi,https://lh3.googleusercontent.com/d/1xxL--5BLjauSAfD6gkgo15wm7VHhbgz7,Substrat terbuka,Terumbu karang kondisi baik,7
+12,12,A,T1,D1T1-12,D1T1 (12).JPG,-0.619271098,120.0643356,Tandaigi,https://lh3.googleusercontent.com/d/1Jz0YJ5K-mUQv2MGfAUC2kH2qSWWgqdKn,Substrat terbuka,Bleaching,7
+13,13,A,T1,D1T1-13,D1T1 (13).JPG,-0.619405,120.0645417,Tandaigi,https://lh3.googleusercontent.com/d/1uT6_2DfE0NdFixwH4W0y79J6vdimavJx,Substrat terbuka,Terumbu karang kondisi baik,7
+14,14,A,T1,D1T1-14,D1T1 (14).JPG,-0.619410523,120.064665,Tandaigi,https://lh3.googleusercontent.com/d/1xGca35u3QxCJYU2uxKNADQcOybqvq7hr,Substrat terbuka,Terumbu karang kondisi baik,7
+15,15,A,T1,D1T1-15,D1T1 (15).JPG,-0.619521667,120.0647683,Tandaigi,https://lh3.googleusercontent.com/d/1lygrbMbRyWHeJv_WiW4vfgZob0M6y5eU,Substrat terbuka,Terumbu karang kondisi baik,7
+16,16,A,T1,D1T1-16,D1T1 (16).JPG,-0.619495,120.06486,Tandaigi,https://lh3.googleusercontent.com/d/1BYUSkJxrw_lkiWyeMl6SELWQoJMiCuA0,Substrat terbuka,Rumput laut,7
+17,17,A,T1,D1T1-17,D1T1 (17).JPG,-0.619511507,120.0649467,Tandaigi,https://lh3.googleusercontent.com/d/1jVh_LuLZVOQeg7coceCbGp4fUgjdEBUg,Terumbu karang,Substrat terbuka,7
+18,18,A,T1,D1T1-18,D1T1 (18).JPG,-0.619528333,120.0650367,Tandaigi,https://lh3.googleusercontent.com/d/1aJk5oIgEaQyHLb1S9F4XYwgt9VvBjuWu,Terumbu karang,Lamun,7
+19,19,A,T1,D1T1-19,D1T1 (19).JPG,-0.619513333,120.0650933,Tandaigi,https://lh3.googleusercontent.com/d/1C0ql80w9xNv3IBrik4cmFUdBaxE-bWZZ,Terumbu karang,Lamun,7
+20,20,A,T1,D1T1-20,D1T1 (20).JPG,-0.619458333,120.0651917,Tandaigi,https://lh3.googleusercontent.com/d/1gEEiFi8zguTyag3AgndTIu9LZd9mKx_T,Terumbu karang,Lamun,7
+21,21,A,T1,D1T1-21,D1T1 (21).JPG,-0.619371667,120.06521,Tandaigi,https://lh3.googleusercontent.com/d/1xAk75TpNpt350ecz6cSM12VjKTD5Zhva,Terumbu karang,Lamun,7
+22,22,A,T1,D1T1-22,D1T1 (22).JPG,-0.619266667,120.0652783,Tandaigi,https://lh3.googleusercontent.com/d/1lZb2GZUqypfEMrxfKuv8IZTN3ElYA10H,Terumbu karang,Lamun,7
+23,23,A,T1,D1T1-23,D1T1 (23).JPG,-0.619223273,120.0653583,Tandaigi,https://lh3.googleusercontent.com/d/1LVVv1StJMlKUttWTStx48THHoIWpwZkm,Terumbu karang,Lamun,7
+24,24,A,T1,D1T1-24,D1T1 (24).JPG,-0.619065,120.0654533,Tandaigi,https://lh3.googleusercontent.com/d/1ufvpKHkhcxjzoVkgyf0pRF-tHc9TEEoq,Terumbu karang,Lamun,7
+25,25,A,T1,D1T1-25,D1T1 (25).JPG,-0.619078302,120.0655283,Tandaigi,https://lh3.googleusercontent.com/d/1jQQu3AasZ8aWxupgJ5Yb2FMWCx0ArFw7,Terumbu karang,Lamun,7
+26,26,A,T2,D1T2-1,D1T2 (1).JPG,-0.606038333,120.0615083,Tandaigi,https://lh3.googleusercontent.com/d/1CMQaaJNrj5I79dc5sAxFCOuJ15mZuJeO,Padang lamun,Lamun,6
+27,27,A,T2,D1T2-2,D1T2 (2).JPG,-0.60601,120.06156,Tandaigi,https://lh3.googleusercontent.com/d/13wQ79J7Dwxvkyjj2nq34tgiRbe9X547y,Padang lamun,Lamun,6
+28,28,A,T2,D1T2-3,D1T2 (3).JPG,-0.606015,120.061665,Tandaigi,https://lh3.googleusercontent.com/d/1gYCSREbHR5lyCBz1g6fTJPkpUzu0f3na,Padang lamun,Lamun,6
+29,29,A,T2,D1T2-4,D1T2 (4).JPG,-0.60606,120.0616633,Tandaigi,https://lh3.googleusercontent.com/d/1Vwh6iTW9ZfN0Pcrfx0hgqK5bVT1xSU-e,Padang lamun,Lamun,6
+30,30,A,T2,D1T2-5,D1T2 (5).JPG,-0.606108333,120.0616967,Tandaigi,https://lh3.googleusercontent.com/d/13BESDw34CakyAxtDhfeneXSw_o7C-Kr8,Padang lamun,Lamun,6
+31,31,A,T2,D1T2-6,D1T2 (6).JPG,-0.606143333,120.06172,Tandaigi,https://lh3.googleusercontent.com/d/1LErIlJk_3Ijc8HkZ3J7S6mOwbb40O65v,Padang lamun,Lamun,6
+32,32,A,T2,D1T2-7,D1T2 (7).JPG,-0.606221667,120.06172,Tandaigi,https://lh3.googleusercontent.com/d/1wxPm7mQ5DP9wXQNmygoJ9y6OLrBX9gNz,Padang lamun,Padang lamun campur rumput laut,6
+33,33,A,T2,D1T2-8,D1T2 (8).JPG,-0.606295,120.0617167,Tandaigi,https://lh3.googleusercontent.com/d/1lhzgME1UpiDbhH5vYGJlSpAWgWWURAUD,Padang lamun,Rumput laut,6
+34,34,A,T2,D1T2-9,D1T2 (9).JPG,-0.606343333,120.0617383,Tandaigi,https://lh3.googleusercontent.com/d/1MFHq32e-D19RqyC04N5QmSwmpBxm2IaA,Padang lamun,Rumput laut,6
+35,35,A,T2,D1T2-10,D1T2 (10).JPG,-0.606363333,120.0616633,Tandaigi,https://lh3.googleusercontent.com/d/1d9ATHqYTGLu00YgYduk4agIoxELW41dJ,Padang lamun,Terumbu karang kondisi baik,6
+36,36,A,T2,D1T2-11,D1T2 (11).JPG,-0.60641,120.06161,Tandaigi,https://lh3.googleusercontent.com/d/1kv1yswnF5MFovfL912IcIkcuRHiArtaV,Padang lamun,Terumbu karang kondisi baik,6
+37,37,A,T2,D1T2-12,D1T2 (12).JPG,-0.606461667,120.0615983,Tandaigi,https://lh3.googleusercontent.com/d/1PWh-C7dOlE4xF0NF7zMcNKlcyipEzLJs,Padang lamun,Terumbu karang kondisi baik,6
+38,38,A,T2,D1T2-13,D1T2 (13).JPG,-0.606515,120.0616083,Tandaigi,https://lh3.googleusercontent.com/d/1OY8HM-7HBELcugz45PXfXYvWpdvb48HP,Padang lamun,Terumbu karang kondisi baik,6
+39,39,A,T2,D1T2-14,D1T2 (14).JPG,-0.606593978,120.0616673,Tandaigi,https://lh3.googleusercontent.com/d/1ant4ozFexywo9xzN9GMDPz_gWMrBib9H,Padang lamun,Terumbu karang kondisi baik,6
+40,40,A,T2,D1T2-15,D1T2 (15).JPG,-0.606615905,120.0615783,Tandaigi,https://lh3.googleusercontent.com/d/1g063tiqYlq_IQ-NxDihsBASs9qb94E11,Padang lamun,Terumbu karang kondisi baik,6
+41,41,A,T2,D1T2-16,D1T2 (16).JPG,-0.606625,120.06152,Tandaigi,https://lh3.googleusercontent.com/d/1LJnzNn3UFQOrJ3V5xnNOG6x33yw3XZ-I,Padang lamun,Terumbu karang kondisi baik,6
+42,42,A,T2,D1T2-17,D1T2 (17).JPG,-0.60662,120.0614933,Tandaigi,https://lh3.googleusercontent.com/d/1VwJslg9OfE0Hu20rySg2vpNtyuslxNfR,Padang lamun,Pecahan karang,6
+43,43,A,T2,D1T2-18,D1T2 (18).JPG,-0.606548333,120.061485,Tandaigi,https://lh3.googleusercontent.com/d/1-Z-2Aj96c9rOAPfiPj-7bYZ57f3E_2DJ,Padang lamun,Terumbu karang kondisi baik,6
+44,44,A,T2,D1T2-19,D1T2 (19).JPG,-0.606495,120.0614983,Tandaigi,https://lh3.googleusercontent.com/d/1-cpxB-M-0F6ZupRuToAHq-Wa2q0yIsVC,Padang lamun,Pecahan karang,6
+45,45,A,T2,D1T2-20,D1T2 (20).JPG,-0.606455,120.0614883,Tandaigi,https://lh3.googleusercontent.com/d/1_llvQHXDCKzE21ReWea1TXQUf-RiO3Fu,Padang lamun,Substrat terbuka,6
+46,46,A,T2,D1T2-21,D1T2 (21).JPG,-0.606388333,120.0614933,Tandaigi,https://lh3.googleusercontent.com/d/1AC-9rJulPzRX--rNUK3LodVpLWt5qHpQ,Padang lamun,Terumbu karang kondisi baik,6
+47,47,A,T2,D1T2-22,D1T2 (22).JPG,-0.606331667,120.0615067,Tandaigi,https://lh3.googleusercontent.com/d/108GJjqjTbqn06qaBdmePSz4CLawZKZQ1,Padang lamun,Pecahan karang,6
+48,48,A,T2,D1T2-23,D1T2 (23).JPG,-0.60627,120.0615033,Tandaigi,https://lh3.googleusercontent.com/d/1JBzfySGn3PXslFIJ1wOWgjuPTSR4dh9b,Padang lamun,Terumbu karang kondisi baik,6
+49,49,A,T2,D1T2-24,D1T2 (24).JPG,-0.606211667,120.0615033,Tandaigi,https://lh3.googleusercontent.com/d/12ysrQppbWxf4zfB_6omcagfpMY6Qf0Af,Padang lamun,Terumbu karang kondisi baik,6
+50,50,A,T2,D1T2-25,D1T2 (25).JPG,-0.606156667,120.0615167,Tandaigi,https://lh3.googleusercontent.com/d/1SgK6wZoOp0lNgbqwGWnGv26ppzrF8u3h,Padang lamun,Terumbu karang kondisi baik,6
+51,51,A,T2,D1T2-26,D1T2 (26).JPG,-0.606095,120.0615417,Tandaigi,https://lh3.googleusercontent.com/d/1FdBdaUiKp9q0hBSJfAAeu1v_ViXJMiNn,Padang lamun,Terumbu karang kondisi baik,6
+52,52,A,T3,D1T3-1,D1T3 (1).JPG,-0.605908333,120.0617733,Tandaigi,https://lh3.googleusercontent.com/d/1fTeM3KdH9irDYpTO3VI8UG8GL3xKGLYZ,Makroalga,Terumbu karang kondisi baik,6
+53,53,A,T3,D1T3-2,D1T3 (2).JPG,-0.60596,120.061885,Tandaigi,https://lh3.googleusercontent.com/d/1Ls-tlgd_DV8F0dXXe-ZPmts-uiwhhQLi,Padang lamun,Terumbu karang kondisi baik,6
+54,54,A,T3,D1T3-3,D1T3 (3).JPG,-0.605958333,120.0619933,Tandaigi,https://lh3.googleusercontent.com/d/1NNAIB_xzFWk6zn-5tWkEBak5d1dJNgO7,Padang lamun,Terumbu karang kondisi baik,6
+55,55,A,T3,D1T3-4,D1T3 (4).JPG,-0.605931667,120.062085,Tandaigi,https://lh3.googleusercontent.com/d/1MBcmGEghk2YurtpKmRASZmsYXaQaENps,Padang lamun,Terumbu karang kondisi baik,6
+56,56,A,T3,D1T3-5,D1T3 (5).JPG,-0.605938333,120.0621483,Tandaigi,https://lh3.googleusercontent.com/d/1LxtC0XlgV3CsOWn_2_JbsR0uqL0APL2A,Padang lamun,Terumbu karang kondisi baik,6
+57,57,A,T3,D1T3-6,D1T3 (6).JPG,-0.605916667,120.0624633,Tandaigi,https://lh3.googleusercontent.com/d/1mnHD8ZS4F2O_mKWXIG839zd_QGucUEQN,Substrat terbuka,Terumbu karang kondisi baik,6
+58,58,A,T3,D1T3-7,D1T3 (7).JPG,-0.605911667,120.0625683,Tandaigi,https://lh3.googleusercontent.com/d/1QA2iqMDENTW8UwIzsu7MtNQBZBJc-vMf,Terumbu karang,Terumbu karang kondisi baik,6
+59,59,A,T3,D1T3-8,D1T3 (8).JPG,-0.6059,120.0626417,Tandaigi,https://lh3.googleusercontent.com/d/1XTC9t7M38HMtL3js2swLhsndMUIr0wMN,Terumbu karang,Terumbu karang kondisi baik,6
+60,60,A,T3,D1T3-9,D1T3 (9).JPG,-0.605893333,120.0627467,Tandaigi,https://lh3.googleusercontent.com/d/1LSzuLOkcPPayBvTMFTZjNBZymgDlBxkX,Terumbu karang,Terumbu karang kondisi baik,6
+61,61,A,T3,D1T3-10,D1T3 (10).JPG,-0.605928333,120.0627883,Tandaigi,https://lh3.googleusercontent.com/d/1DSTBAVMYkUr0pZZZ91GZgQ3NEC3g1TFX,Terumbu karang,Terumbu karang kondisi baik,6
+62,62,A,T3,D1T3-11,D1T3 (11).JPG,-0.6059218,120.0628601,Tandaigi,https://lh3.googleusercontent.com/d/1GplaK2IlcoEUZtR634NQ0Nh_gIqMuq44,Terumbu karang,Terumbu karang kondisi baik,6
+63,63,A,T4,D2T4-1,D2T1 (1).JPG,-0.600858333,120.0613683,Tandaigi,https://lh3.googleusercontent.com/d/16UpzEhO09N-J6q8TzKGT8gAUSX-VnYqK,Terumbu karang,Terumbu karang kondisi baik,6
+64,64,A,T4,D2T4-2,D2T1 (2).JPG,-0.600885,120.0613267,Tandaigi,https://lh3.googleusercontent.com/d/1B6XDl2Xnuwf2bzHdb6eNc2zuwfIhEPos,Terumbu karang,Terumbu karang kondisi baik,6
+65,65,A,T4,D2T4-3,D2T1 (3).JPG,-0.60094,120.0612333,Tandaigi,https://lh3.googleusercontent.com/d/1vO7C5vnu3v7X9SXT_U0Op_AGyKNh0WWx,Substrat terbuka,Terumbu karang kondisi baik,6
+66,66,A,T4,D2T4-4,D2T1 (4).JPG,-0.600916667,120.061195,Tandaigi,https://lh3.googleusercontent.com/d/1hDFHbMuDuugFRcKJw0i_oGZmxBddZlOe,Padang lamun,Terumbu karang kondisi baik,6
+67,67,A,T4,D2T4-5,D2T1 (5).JPG,-0.60091,120.0611367,Tandaigi,https://lh3.googleusercontent.com/d/17K8MScTJCthcWXTQA1chaRzcjCSSXgiA,Substrat terbuka,Terumbu karang kondisi baik,6
+68,68,A,T4,D2T4-6,D2T1 (6).JPG,-0.600891667,120.0610683,Tandaigi,https://lh3.googleusercontent.com/d/1gbhVVbArJp_i8SDL_G-fDY3qNShX6iiS,Substrat terbuka,Pecahan karang,6
+69,69,A,T4,D2T4-7,D2T1 (7).JPG,-0.600923333,120.0610351,Tandaigi,https://lh3.googleusercontent.com/d/1wePrMwtT8uazB-A6IBN7WPFU4o1M54Yl,Substrat terbuka,Pecahan karang,6
+70,70,A,T4,D2T4-8,D2T1 (8).JPG,-0.600953333,120.060965,Tandaigi,https://lh3.googleusercontent.com/d/1yoSjyDtzOkWVoVGx-58QBfrvBJPEQoUu,Padang lamun,Pecahan karang,6
+71,71,A,T4,D2T4-9,D2T1 (9).JPG,-0.600968333,120.0609017,Tandaigi,https://lh3.googleusercontent.com/d/13cKHfJ947rCxIun8y5qByCXHsajVeTnG,Padang lamun,Pecahan karang,6
+72,72,A,T4,D2T4-10,D2T1 (10).JPG,-0.600946942,120.0608733,Tandaigi,https://lh3.googleusercontent.com/d/1xaTrW4-Pa4sm7ymQVEvjYQnCywa5CNd2,Substrat terbuka,Bleaching,6
+73,73,A,T4,D2T4-11,D2T1 (11).JPG,-0.600941667,120.0608367,Tandaigi,https://lh3.googleusercontent.com/d/1P9GRjtP7RYfdh70skroNUOrl28p-RE0d,Substrat terbuka,Bleaching,6
+74,74,A,T4,D2T4-12,D2T1 (12).JPG,-0.600951667,120.0608017,Tandaigi,https://lh3.googleusercontent.com/d/1vI4t2aER51rTYvMKfVNuFjOKY2L0osG6,Padang lamun,Bleaching,6
+75,75,A,T4,D2T4-13,D2T1 (13).JPG,-0.60089,120.0608083,Tandaigi,https://lh3.googleusercontent.com/d/1rFLnXnQOsfWkPKgj2u-0n8H4DYAaWk1n,Padang lamun,Terumbu karang kondisi baik,6
+76,76,A,T4,D2T4-14,D2T1 (14).JPG,-0.600875,120.0608067,Tandaigi,https://lh3.googleusercontent.com/d/13SiO6t53_odgnn8NUmsmZQ99eN8gkPDP,Makroalga,Terumbu karang kondisi baik,6
+77,77,A,T4,D2T4-15,D2T1 (15).JPG,-0.600788333,120.060825,Tandaigi,https://lh3.googleusercontent.com/d/1q66rONN0Uspfe8y6tLJdkra_og_5sa51,Substrat terbuka,Terumbu karang kondisi baik,6
+78,78,A,T4,D2T4-16,D2T1 (16).JPG,-0.600683333,120.0608867,Tandaigi,https://lh3.googleusercontent.com/d/1H8zzWdqAXH_H-lLSO61_xl2xJ4XIOKYi,Padang lamun,Terumbu karang kondisi baik,6
+79,79,A,T4,D2T4-17,D2T1 (17).JPG,-0.600665,120.0608667,Tandaigi,https://lh3.googleusercontent.com/d/1HkezaI9tRcTJtP-8iZKzS05NXcuS6WDW,Terumbu karang,Terumbu karang kondisi baik,6
+80,80,A,T4,D2T4-18,D2T1 (18).JPG,-0.600625,120.06085,Tandaigi,https://lh3.googleusercontent.com/d/1QiyXiabj3JxRycudZSOMdOpBefefq4RF,Terumbu karang,Bleaching,6
+81,81,A,T4,D2T4-19,D2T1 (19).JPG,-0.600545,120.060835,Tandaigi,https://lh3.googleusercontent.com/d/19OefWOyZ5qshFr75UVKsoas0-RBI73bB,Terumbu karang,Terumbu karang kondisi baik,6
+82,82,A,T4,D2T4-20,D2T1 (20).JPG,-0.60044,120.060945,Tandaigi,https://lh3.googleusercontent.com/d/1wBdlqnV0Vc6KgWZ4T8wLU-y0hXjjsw4F,Terumbu karang,Bleaching,6
+83,83,A,T4,D2T4-21,D2T1 (21).JPG,-0.600373333,120.0609417,Tandaigi,https://lh3.googleusercontent.com/d/1Oh1sp1wrt_l3NM-ZP9ihI80iCmowUR44,Terumbu karang,Terumbu karang kondisi baik,6
+84,84,A,T4,D2T4-22,D2T1 (22).JPG,-0.600425,120.0610167,Tandaigi,https://lh3.googleusercontent.com/d/1jjwvn0RLYFMKBVOzAZ8rqTSh18uu0uae,Terumbu karang,Terumbu karang kondisi baik,6
+85,85,A,T4,D2T4-23,D2T1 (23).JPG,-0.600505,120.0610483,Tandaigi,https://lh3.googleusercontent.com/d/1c4YhVkEOnC8xSAkE7WHzbY4fmb_cm01T,Terumbu karang,Terumbu karang kondisi baik,6
+86,86,A,T4,D2T4-24,D2T1 (24).JPG,-0.60059,120.0610917,Tandaigi,https://lh3.googleusercontent.com/d/1fFaFh_hGgGwMY29TZ0_xri6NCEb7cIck,Terumbu karang,Terumbu karang kondisi baik,6
+87,87,A,T4,D2T4-25,D2T1 (25).JPG,-0.60073,120.0612783,Tandaigi,https://lh3.googleusercontent.com/d/12md-4fG7kjSZ9-4ES0slqomzi0siTQhc,Terumbu karang,Terumbu karang kondisi baik,6
+88,88,A,T4,D2T4-26,D2T1 (26).JPG,-0.600831316,120.0613492,Tandaigi,https://lh3.googleusercontent.com/d/1Wno9FrzyE92JTyx5Lf17nT5rWYbCFaUL,Terumbu karang,Terumbu karang kondisi baik,6
+89,89,A,T5,D2T5-1,D2T2 (1).JPG,-0.625105,120.0621321,Tandaigi,https://lh3.googleusercontent.com/d/1IKl036uTTeAQkr3jLfXVxR_TQa0yCu0B,Terumbu karang,Terumbu karang kondisi baik,7
+90,90,A,T5,D2T5-2,D2T2 (2).JPG,-0.625168333,120.0620683,Tandaigi,https://lh3.googleusercontent.com/d/1HY_smm6CoPtWiajdsm1V7CUUpMQA1qOn,Terumbu karang,Terumbu karang kondisi baik,7
+91,91,A,T5,D2T5-3,D2T2 (3).JPG,-0.625276667,120.0620617,Tandaigi,https://lh3.googleusercontent.com/d/1F4JkXl7ijBD_pPaxp_3j9Ym7Gdo5IxPJ,Terumbu karang,Terumbu karang kondisi baik,7
+92,92,A,T5,D2T5-4,D2T2 (4).JPG,-0.625386667,120.0620317,Tandaigi,https://lh3.googleusercontent.com/d/1toK_Klpd0OnrOVg-m7j2lHH40Y3uXBgn,Terumbu karang,Terumbu karang kondisi baik,7
+93,93,A,T5,D2T5-5,D2T2 (5).JPG,-0.625503333,120.061945,Tandaigi,https://lh3.googleusercontent.com/d/1cvbqtxrLd8TnVDeXkkJYhybQ5IR-P5A0,Terumbu karang,Bleaching,7
+94,94,A,T5,D2T5-6,D2T2 (6).JPG,-0.625671667,120.061925,Tandaigi,https://lh3.googleusercontent.com/d/1qDMqbGFjsWvJFlnrstbDJjbo274xJ1W8,Terumbu karang,Bleaching,7
+95,95,A,T5,D2T5-7,D2T2 (7).JPG,-0.625783333,120.0618583,Tandaigi,https://lh3.googleusercontent.com/d/1xeHAg-KOlI_6sgiKF87Wl9IdpbXxxA45,Terumbu karang,Terumbu karang kondisi baik,7
+96,96,A,T5,D2T5-8,D2T2 (8).JPG,-0.625905,120.0618233,Tandaigi,https://lh3.googleusercontent.com/d/1Xu64NZqy6mVIGODe390bYnUTWMfh2c5h,Substrat terbuka,Terumbu karang kondisi baik,7
+97,97,A,T5,D2T5-9,D2T2 (9).JPG,-0.626023333,120.0617783,Tandaigi,https://lh3.googleusercontent.com/d/1lpNNBTrIBTo03L2U7m-pNqXbovzizYec,Substrat terbuka,Terumbu karang kondisi baik,7
+98,98,A,T5,D2T5-10,D2T2 (10).JPG,-0.626165,120.0617317,Tandaigi,https://lh3.googleusercontent.com/d/15TXt5yVWcbiC-4CCWGQvcigSCxrrTPv0,Terumbu karang,Bleaching,7
+99,99,A,T5,D2T5-11,D2T2 (11).JPG,-0.626348333,120.0616783,Tandaigi,https://lh3.googleusercontent.com/d/1uUL_LCk6-AZsoBkkhz1raZVn8CqlomBj,Terumbu karang,Terumbu karang kondisi baik,7
+100,100,A,T5,D2T5-12,D2T2 (12).JPG,-0.626401667,120.06169,Tandaigi,https://lh3.googleusercontent.com/d/1DcabYU1XsSptiROwokTm0LUWXAmCoDeo,Terumbu karang,Terumbu karang kondisi baik,7
+101,101,A,T5,D2T5-13,D2T2 (13).JPG,-0.626553333,120.0615683,Tandaigi,https://lh3.googleusercontent.com/d/1gmN2kMWc30tKJlLz2pXriMjh8h1n7D5l,Terumbu karang,Terumbu karang kondisi baik,7
+102,102,A,T5,D2T5-14,D2T2 (14).JPG,-0.626487666,120.0614493,Tandaigi,https://lh3.googleusercontent.com/d/1FSDdaBHoy1P4BOSvigl51JmZDNeJUdDX,Terumbu karang,Terumbu karang kondisi baik,7
+103,103,A,T5,D2T5-15,D2T2 (15).JPG,-0.62640189,120.0612179,Tandaigi,https://lh3.googleusercontent.com/d/1R1MC1f9aY9ZehSJIyuB-eJh5zVZoOp2G,Terumbu karang,Terumbu karang kondisi baik,7
+104,104,A,T5,D2T5-16,D2T2 (16).JPG,-0.626393333,120.0611583,Tandaigi,https://lh3.googleusercontent.com/d/1BLfAtKiDRZ1ykiE4srxnaSclaOIQZCNa,Makroalga,Terumbu karang kondisi baik,7
+105,105,A,T5,D2T5-17,D2T2 (17).JPG,-0.626373333,120.0610817,Tandaigi,https://lh3.googleusercontent.com/d/1ALY2x_k_gYTmM6cFsmw_VnnO9smi_x63,Substrat terbuka,Terumbu karang kondisi baik,7
+106,106,A,T5,D2T5-18,D2T2 (18).JPG,-0.62635,120.0609907,Tandaigi,https://lh3.googleusercontent.com/d/12YBoD2Z5IDfi415kd_pKMdDhOidqfFTs,Padang lamun,Terumbu karang kondisi baik,7
+107,107,A,T5,D2T5-19,D2T2 (19).JPG,-0.626311667,120.0609417,Tandaigi,https://lh3.googleusercontent.com/d/1FcYW8ChK63tkTLdBIJE_W1R2d8sptb72,Padang lamun,Terumbu karang kondisi baik,7
+108,108,A,T6,D2T6-1,D2T3 (1).JPG,-0.61972,120.06275,Tandaigi,https://lh3.googleusercontent.com/d/11yGnTu_YT5hdkR_VGuNSK8rNs0598zJA,Padang lamun,Terumbu karang kondisi baik,7
+109,109,A,T6,D2T6-2,D2T3 (2).JPG,-0.619668333,120.0627717,Tandaigi,https://lh3.googleusercontent.com/d/1KanPywSxs8E5SE9to0bg9-xgPco0oPd-,Padang lamun,Terumbu karang kondisi baik,7
+110,110,A,T6,D2T6-3,D2T3 (3).JPG,-0.619558333,120.0628083,Tandaigi,https://lh3.googleusercontent.com/d/1wDtNM0KAv-2nApiBYAzX7XKgoeZJ4dVa,Padang lamun,Terumbu karang kondisi baik,7
+111,111,A,T6,D2T6-4,D2T3 (4).JPG,-0.619458333,120.06282,Tandaigi,https://lh3.googleusercontent.com/d/1EvZsYo8Lo2VVAVfISNb6199LGbHU8h11,Padang lamun,Terumbu karang kondisi baik,7
+112,112,A,T6,D2T6-5,D2T3 (5).JPG,-0.619368333,120.0628083,Tandaigi,https://lh3.googleusercontent.com/d/1bFd9SxF6zWpbtnbTtEtxqz7Mn8zSLg-V,Padang lamun,Terumbu karang kondisi baik,7
+113,113,A,T6,D2T6-6,D2T3 (6).JPG,-0.61928,120.062825,Tandaigi,https://lh3.googleusercontent.com/d/1yPWusMHF9yOe-Qu0yLnxodANczZbklBQ,Padang lamun,Terumbu karang kondisi baik,7
+114,114,A,T6,D2T6-7,D2T3 (7).JPG,-0.619168333,120.06287,Tandaigi,https://lh3.googleusercontent.com/d/1TbrXuK7zFGuzglAJJSTkxu0Dfgs0lVYr,Padang lamun,Terumbu karang kondisi baik,7
+115,115,A,T6,D2T6-8,D2T3 (8).JPG,-0.619101667,120.0628733,Tandaigi,https://lh3.googleusercontent.com/d/1Adzb_7Z3076jxzrjU6p515Ztg2sAqurE,Padang lamun,Terumbu karang kondisi baik,7
+116,116,A,T6,D2T6-9,D2T3 (9).JPG,-0.618981887,120.062865,Tandaigi,https://lh3.googleusercontent.com/d/18XP8JZeBaNial8QtwWAGxagEXZu3OZqH,Padang lamun,Bleaching,7
+117,117,A,T6,D2T6-10,D2T3 (10).JPG,-0.618841667,120.0628733,Tandaigi,https://lh3.googleusercontent.com/d/15Sq-LC20WFphckOf5PcmKRr-Orq6b-WP,Padang lamun,Terumbu karang kondisi baik,7
+118,118,A,T6,D2T6-11,D2T3 (11).JPG,-0.618725,120.0629683,Tandaigi,https://lh3.googleusercontent.com/d/1Q0xkcUcddVSvabS8nrXBiU6ivx9xjbAe,Padang lamun,Terumbu karang kondisi baik,7
+119,119,A,T6,D2T6-12,D2T3 (12).JPG,-0.618701667,120.0630587,Tandaigi,https://lh3.googleusercontent.com/d/1V398UMu5U9FOQJ7MCeKTWB2RC2Iqiz-N,Padang lamun,Terumbu karang kondisi baik,7
+120,120,A,T6,D2T6-13,D2T3 (13).JPG,-0.618695,120.0631417,Tandaigi,https://lh3.googleusercontent.com/d/1zRMj90zY2SYYMzBfuQIKLUeFFylzsng0,Padang lamun,Terumbu karang kondisi baik,7
+121,121,A,T6,D2T6-14,D2T3 (14).JPG,-0.618741667,120.0632133,Tandaigi,https://lh3.googleusercontent.com/d/1op04Weybr1Dh9eSJNscfNRR7yPQcj7rm,Makroalga,Terumbu karang kondisi baik,7
+122,122,A,T6,D2T6-15,D2T3 (15).JPG,-0.619046667,120.0631067,Tandaigi,https://lh3.googleusercontent.com/d/1Adi4ZMwc05qyPSj1utfyHrIF9RUzikA1,Makroalga,Pecahan karang,7
+123,123,A,T7,,D3T1 (1).JPG,-0.744962339,120.1295223,Pelawa Baru,https://lh3.googleusercontent.com/d/18udDxK6rUXys1YrbGOK08OWDFbwC8ZAT,Terumbu karang,Pecahan karang,8
+124,124,A,T7,,D3T1 (2).JPG,-0.745065,120.1295583,Pelawa Baru,https://lh3.googleusercontent.com/d/1Lq9sa_WVtvkqVbB7nQQ9jtmSwA_zh6WB,Terumbu karang,Pecahan karang,8
+125,125,A,T7,,D3T1 (3).JPG,-0.74518,120.1294983,Pelawa Baru,https://lh3.googleusercontent.com/d/1dAhDGE-w_851URGM0Jryx3M8RPv_n-7w,Terumbu karang,Terumbu karang kondisi baik,8
+126,126,A,T7,,D3T1 (4).JPG,-0.745275,120.1294367,Pelawa Baru,https://lh3.googleusercontent.com/d/1MxR5Pf9cJ23QBNjzkQbgc34v-99hBRo7,Terumbu karang,Terumbu karang kondisi baik,8
+127,127,A,T7,,D3T1 (5).JPG,-0.745396667,120.12943,Pelawa Baru,https://lh3.googleusercontent.com/d/1peTwacR-Jiy3YfTdv4HlWBwX8aIIgX3Z,Terumbu karang,Terumbu karang kondisi baik,8
+128,128,A,T7,,D3T1 (6).JPG,-0.745473333,120.1294433,Pelawa Baru,https://lh3.googleusercontent.com/d/1Vo93S6hJ8iVjI3g5Ct6KHl5-lgiEXxhg,Terumbu karang,Terumbu karang kondisi baik,8
+129,129,A,T7,,D3T1 (7).JPG,-0.745535,120.1294383,Pelawa Baru,https://lh3.googleusercontent.com/d/1CiL4cLd2a_dQ_bd6eXtgu0PTV-kii0qX,Terumbu karang,Terumbu karang kondisi baik,8
+130,130,A,T7,,D3T1 (8).JPG,-0.745608847,120.1294178,Pelawa Baru,https://lh3.googleusercontent.com/d/1n4ItiN_7leyMYL3GVJnBluonKbvlhksg,Substrat terbuka,Terumbu karang kondisi baik,8
+131,131,A,T7,,D3T1 (9).JPG,-0.745695,120.1294267,Pelawa Baru,https://lh3.googleusercontent.com/d/1Q_BnsI67EV8vRILIGA61OfGnNraccST9,Terumbu karang,Terumbu karang kondisi baik,8
+132,132,A,T7,,D3T1 (10).JPG,-0.745721667,120.1294333,Pelawa Baru,https://lh3.googleusercontent.com/d/11zDqhNTI5KMuEBBaKxIXhkjkq_BWc1Fp,Substrat terbuka,Substrat terbuka,8
+133,133,A,T7,,D3T1 (11).JPG,-0.745756667,120.1293183,Pelawa Baru,https://lh3.googleusercontent.com/d/1nVDeMj8x2QLGhMigdEp5mZH4q3qCKjez,Substrat terbuka,Substrat terbuka,8
+134,134,A,T7,,D3T1 (12).JPG,-0.745665,120.1294867,Pelawa Baru,https://lh3.googleusercontent.com/d/1LiakvMTFJjWqp4gQ5kCBRmm4dqZu29br,Terumbu karang,Pecahan karang,8
+135,135,A,T7,,D3T1 (13).JPG,-0.745618333,120.1295533,Pelawa Baru,https://lh3.googleusercontent.com/d/1fJUlw9wrAw1MSjpOahvp4Vg04djGjf-n,Substrat terbuka,Terumbu karang kondisi baik,8
+136,136,A,T7,,D3T1 (14).JPG,-0.74555,120.1296017,Pelawa Baru,https://lh3.googleusercontent.com/d/11QLjWonYGctTTO5JLkaUB79dM52r9JrU,Terumbu karang,Terumbu karang kondisi baik,8
+137,137,A,T7,,D3T1 (15).JPG,-0.745549689,120.129695,Pelawa Baru,https://lh3.googleusercontent.com/d/1lKf1NNfbl_HM9ji2OSlPVghuzoNwFdXj,Terumbu karang,Terumbu karang kondisi baik,8
+138,138,A,T7,,D3T1 (16).JPG,-0.745413333,120.1298483,Pelawa Baru,https://lh3.googleusercontent.com/d/187J2sGCyIMkGNTum-y22PMzH4KW9ubaa,Terumbu karang,Terumbu karang kondisi baik,8
+139,139,A,T7,,D3T1 (17).JPG,-0.745435,120.1298783,Pelawa Baru,https://lh3.googleusercontent.com/d/1El9p4Vxv40w0DCUPUbFjk2g_fTuAoyU0,Terumbu karang,Terumbu karang kondisi baik,8
+140,140,A,T7,,D3T1 (18).JPG,-0.7454,120.1298983,Pelawa Baru,https://lh3.googleusercontent.com/d/1pBeUKLpmXNRnSAwlT5Zj8NOkTiZRv9RF,Terumbu karang,Terumbu karang kondisi baik,8
+141,141,A,T7,,D3T1 (19).JPG,-0.745361667,120.1299917,Pelawa Baru,https://lh3.googleusercontent.com/d/1k30ZObarqw1DnfTCAKbhCAu7f1TzJ5-j,Terumbu karang,Terumbu karang kondisi baik,8
+142,142,A,T7,,D3T1 (20).JPG,-0.745371667,120.1300183,Pelawa Baru,https://lh3.googleusercontent.com/d/1JePw1uhqG8deePqs6OXnrLSdArva1hEa,Terumbu karang,Terumbu karang kondisi baik,8
+143,143,A,T7,,D3T1 (21).JPG,-0.74535,120.130135,Pelawa Baru,https://lh3.googleusercontent.com/d/1D0Yo-NLpzZqsFdYcbsoiag5WjTYe5P-6,Terumbu karang,Terumbu karang kondisi baik,8
+144,144,A,T7,,D3T1 (22).JPG,-0.745401667,120.130195,Pelawa Baru,https://lh3.googleusercontent.com/d/1dz13UpAOxZ0NIlPHo4EUxaYKe7bWG_Np,Terumbu karang,Terumbu karang kondisi baik,8
+145,145,A,T7,,D3T1 (23).JPG,-0.745361667,120.1302917,Pelawa Baru,https://lh3.googleusercontent.com/d/1Jn48XyQrH5P8gMqz44dQFtAxpZ7cb7EG,Terumbu karang,Terumbu karang kondisi baik,8
+146,146,A,T7,,D3T1 (24).JPG,-0.745275,120.1301667,Pelawa Baru,https://lh3.googleusercontent.com/d/1oAac0ykZfCryNF9HUYejoaIBc_4_tUzB,Terumbu karang,Terumbu karang kondisi baik,8
+147,147,A,T7,,D3T1 (25).JPG,-0.745243333,120.1300333,Pelawa Baru,https://lh3.googleusercontent.com/d/1a0aoaOK3S5PHSvbRkBflIXleEmaen3h8,Terumbu karang,Terumbu karang kondisi baik,8
+148,148,A,T7,,D3T1 (26).JPG,-0.745211667,120.1299367,Pelawa Baru,https://lh3.googleusercontent.com/d/18s9MQa_vHSQN6xbI7X-EXkHXTPQpltlx,Terumbu karang,Terumbu karang kondisi baik,8
+149,149,A,T7,,D3T1 (27).JPG,-0.745163825,120.129836,Pelawa Baru,https://lh3.googleusercontent.com/d/12Jagkk5bJ_FC5ghfEnJc7Y-wWpgCE6Dx,Terumbu karang,Terumbu karang kondisi baik,8
+150,150,A,T7,,D3T1 (28).JPG,-0.745078556,120.1297887,Pelawa Baru,https://lh3.googleusercontent.com/d/1NAP06Mv12KWEc7lGHQK-o8YSs3I-ByCI,Terumbu karang,Terumbu karang kondisi baik,8
+151,151,A,T7,,D3T1 (29).JPG,-0.74499,120.1297483,Pelawa Baru,https://lh3.googleusercontent.com/d/10dztjXbASpwtIydUoiTN1t20r0DIDhKv,Terumbu karang,Terumbu karang kondisi baik,8
+152,152,A,T7,,D3T1 (30).JPG,-0.744906667,120.1296483,Pelawa Baru,https://lh3.googleusercontent.com/d/1_6hXRf4K9Cbjc0KJTf-VyCb8b4QJLNpE,Terumbu karang,Terumbu karang kondisi baik,8
+153,153,A,T7,,D3T1 (31).JPG,-0.744820406,120.1295552,Pelawa Baru,https://lh3.googleusercontent.com/d/1UDgMfLX_OtRyGZEJPaaKacvFHjlUxuxi,Terumbu karang,Terumbu karang kondisi baik,8
+154,154,A,T7,,D3T1 (32).JPG,-0.744883333,120.1295133,Pelawa Baru,https://lh3.googleusercontent.com/d/1BiiovB_vmxgbaF26TtcO2H8WJTirniTk,Terumbu karang,Substrat terbuka,8
+155,155,A,T8,,D3T2 (1).JPG,-0.738008312,120.1197633,Pelawa Baru,https://lh3.googleusercontent.com/d/1cv8Gm4V4TVojqqLZsy70gznoUUe2hTbl,Terumbu karang,Substrat terbuka,8
+156,156,A,T8,,D3T2 (2).JPG,-0.73794,120.11979,Pelawa Baru,https://lh3.googleusercontent.com/d/1cBsgHyIYefgV-a9ZqN9qsEDXq_hCcTKB,Substrat terbuka,Substrat terbuka,8
+157,157,A,T8,,D3T2 (3).JPG,-0.737833333,120.1198167,Pelawa Baru,https://lh3.googleusercontent.com/d/175vs3a72eaAdajl17c_5483sVlENUtso,Substrat terbuka,Substrat terbuka,8
+158,158,A,T8,,D3T2 (4).JPG,-0.737743333,120.1199167,Pelawa Baru,https://lh3.googleusercontent.com/d/1IFNNhYTnxaMo-9DAsjuDpW7z0Tgy4HBE,Substrat terbuka,Substrat terbuka,8
+159,159,A,T8,,D3T2 (5).JPG,-0.737669835,120.1199768,Pelawa Baru,https://lh3.googleusercontent.com/d/1y0oNctiwVEmFR4-4U2mRfs-tGmqwG5LA,Substrat terbuka,Substrat terbuka,8
+160,160,A,T8,,D3T2 (6).JPG,-0.737573333,120.1200117,Pelawa Baru,https://lh3.googleusercontent.com/d/1OLgqSHV4kR6mLwPSqdhE-bs3xrcu8cGJ,Terumbu karang,Substrat terbuka,8
+161,161,A,T8,,D3T2 (7).JPG,-0.737518333,120.1199867,Pelawa Baru,https://lh3.googleusercontent.com/d/1kzXs87zMGqP9uSv8SOYbIuhESo8zaOh6,Terumbu karang,Substrat terbuka,8
+162,162,A,T8,,D3T2 (8).JPG,-0.737488401,120.1200117,Pelawa Baru,https://lh3.googleusercontent.com/d/1AZafJbEDQr-cuvbYeSFnP_kbbSS-PpjK,Terumbu karang,Substrat terbuka,8
+163,163,A,T8,,D3T2 (9).JPG,-0.737408333,120.120045,Pelawa Baru,https://lh3.googleusercontent.com/d/1w3A-NT8A8z4y9YMei3lgfI27eJ2acR09,Terumbu karang,Terumbu karang kondisi baik,8
+164,164,A,T8,,D3T2 (10).JPG,-0.737333333,120.1200933,Pelawa Baru,https://lh3.googleusercontent.com/d/1rG7akiHvd9RRZrU2GUpWeo4Ke5j4YAai,Terumbu karang,Terumbu karang kondisi baik,8
+165,165,A,T8,,D3T2 (11).JPG,-0.737241667,120.1201517,Pelawa Baru,https://lh3.googleusercontent.com/d/1npjHjsBFOx8m9rqyOKcTE9Y1GBG6Kclw,Terumbu karang,Terumbu karang kondisi baik,8
+166,166,A,T8,,D3T2 (12).JPG,-0.73713,120.1201883,Pelawa Baru,https://lh3.googleusercontent.com/d/1AF_C_chYANr-uvY-L_4W0DeNlgJoUoBR,Terumbu karang,Terumbu karang kondisi baik,8
+167,167,A,T8,,D3T2 (13).JPG,-0.737001667,120.1201683,Pelawa Baru,https://lh3.googleusercontent.com/d/1ksqJvT44kn_FIwHd0Koyo4Rviuq8hC8F,Terumbu karang,Terumbu karang kondisi baik,8
+168,168,A,T8,,D3T2 (14).JPG,-0.7369,120.1200983,Pelawa Baru,https://lh3.googleusercontent.com/d/1_mApLEJwq4ic1Xj3C-B4PUAtwCbNkI_i,Terumbu karang,Terumbu karang kondisi baik,8
+169,169,A,T8,,D3T2 (15).JPG,-0.736811667,120.1201633,Pelawa Baru,https://lh3.googleusercontent.com/d/1AcJNoavMoZNLDfpqYhfAQA9wbeK4Qe8_,Terumbu karang,Terumbu karang kondisi baik,8
+170,170,A,T8,,D3T2 (16).JPG,-0.736736667,120.1202067,Pelawa Baru,https://lh3.googleusercontent.com/d/1SeHkvyhicKNJWHEAJ1CmIbR-vZmdGnXr,Terumbu karang,Terumbu karang kondisi baik,8
+171,171,A,T8,,D3T2 (17).JPG,-0.736625784,120.1202075,Pelawa Baru,https://lh3.googleusercontent.com/d/1kQWnW5xhfdgTU_WyY5yq-IJlT_5zYJEr,Terumbu karang,Terumbu karang kondisi baik,8
+172,172,A,T8,,D3T2 (18).JPG,-0.736628333,120.1202483,Pelawa Baru,https://lh3.googleusercontent.com/d/1qavm9VlWnZuqoK2T-yReuxXRBvzUe39s,Terumbu karang,Terumbu karang kondisi baik,8
+173,173,A,T8,,D3T2 (19).JPG,-0.736426667,120.1201383,Pelawa Baru,https://lh3.googleusercontent.com/d/1bAF-Rc7OLcnjhDQOVIn5r9gZDz3pfLZb,Terumbu karang,Terumbu karang kondisi baik,8
+174,174,A,T8,,D3T2 (20).JPG,-0.736338333,120.120075,Pelawa Baru,https://lh3.googleusercontent.com/d/1eFQ9TjQZIF7uYRwIKLtGzNp_2okdphpd,Terumbu karang,Terumbu karang kondisi baik,8
+175,175,A,T8,,D3T2 (21).JPG,-0.73633,120.1200833,Pelawa Baru,https://lh3.googleusercontent.com/d/1ut49ho-rFuWLRrFeWmMnqU6L_k1Kw-A5,Terumbu karang,Terumbu karang kondisi baik,8
+176,176,A,T8,,D3T2 (22).JPG,-0.736250933,120.1201241,Pelawa Baru,https://lh3.googleusercontent.com/d/11cJAygABKo8U2SKkg8JlVRfQO1CaAn9c,Terumbu karang,Terumbu karang kondisi baik,8
+177,177,A,T8,,D3T2 (23).JPG,-0.736206667,120.1201467,Pelawa Baru,https://lh3.googleusercontent.com/d/1wkSgi2P_T4C4_impUtTEauYVvxmpT5U8,Terumbu karang,Terumbu karang kondisi baik,8
+178,178,A,T8,,D3T2 (24).JPG,-0.736138333,120.1201583,Pelawa Baru,https://lh3.googleusercontent.com/d/1a5vCOYXS0qcKxAthBQIe-fpJSU6KvQbv,Terumbu karang,Terumbu karang kondisi baik,8
+179,179,A,T8,,D3T2 (25).JPG,-0.736033671,120.1201417,Pelawa Baru,https://lh3.googleusercontent.com/d/1AQCbLEpEmckpKvGBykoLKK6mtY_iV3bd,Terumbu karang,Terumbu karang kondisi baik,8
+180,180,A,T8,,D3T2 (26).JPG,-0.735968333,120.1201417,Pelawa Baru,https://lh3.googleusercontent.com/d/1ALUQKXu2N6l9gsXyotME0kFZT3ovTolX,Terumbu karang,Terumbu karang kondisi baik,8
+181,181,A,T8,,D3T2 (27).JPG,-0.735848115,120.12016,Pelawa Baru,https://lh3.googleusercontent.com/d/1HeWVf7YEEneUVeHay0nk8rlGy7DTKlFs,Terumbu karang,Terumbu karang kondisi baik,8
+182,182,A,T8,,D3T2 (28).JPG,-0.735783333,120.1201583,Pelawa Baru,https://lh3.googleusercontent.com/d/11_xVrfBWGW2One03l8TTfHAnVl9022pt,Terumbu karang,Terumbu karang kondisi baik,8
+183,183,A,T8,,D3T2 (29).JPG,-0.735676667,120.120265,Pelawa Baru,https://lh3.googleusercontent.com/d/1rdNaHy9L0T_Lqqyfljb_IK5uAQemEiPS,Terumbu karang,Terumbu karang kondisi baik,8
+184,184,A,T8,,D3T2 (30).JPG,-0.735605,120.1203483,Pelawa Baru,https://lh3.googleusercontent.com/d/1titdUcNDq8cr60zNKPrlNlLR7OexOhPc,Terumbu karang,Bleaching,8
+185,185,A,T8,,D3T2 (31).JPG,-0.735563333,120.12043,Pelawa Baru,https://lh3.googleusercontent.com/d/1hDV5GdbY400vRS7nJRFvGVfoQern2WJP,Terumbu karang,Terumbu karang kondisi baik,8
+186,186,A,T8,,D3T2 (32).JPG,-0.735503271,120.1204749,Pelawa Baru,https://lh3.googleusercontent.com/d/1Us8AviGHflmJCpIG1bGSNxDAtKNkipfj,Terumbu karang,Terumbu karang kondisi baik,8
+187,187,A,T8,,D3T2 (33).JPG,-0.735561667,120.12074,Pelawa Baru,https://lh3.googleusercontent.com/d/1kOB6zBHIECo6cc5hhRQbz8WCgyXA6FjM,Terumbu karang,Terumbu karang kondisi baik,8
+188,188,A,T8,,D3T2 (34).JPG,-0.735618333,120.1207267,Pelawa Baru,https://lh3.googleusercontent.com/d/1tQRB-oSRwSi-3VrheLRBlyLxiRr4odfm,Terumbu karang,Terumbu karang kondisi baik,8
+189,189,A,T8,,D3T2 (35).JPG,-0.735663333,120.120695,Pelawa Baru,https://lh3.googleusercontent.com/d/14uPYBGG84CaLVZ0oBLSc69LKkCbw3lt5,Terumbu karang,Terumbu karang kondisi baik,8
+190,190,A,T8,,D3T2 (36).JPG,-0.735749427,120.1206345,Pelawa Baru,https://lh3.googleusercontent.com/d/1ZxosO4SybjIvDhHYZEUdrUiL9-Q--Qir,Terumbu karang,Terumbu karang kondisi baik,8
+191,191,A,T8,,D3T2 (37).JPG,-0.735861667,120.1206083,Pelawa Baru,https://lh3.googleusercontent.com/d/1RngcoSXOYFU5_KXW_i31rB2c5k_hETEn,Terumbu karang,Terumbu karang kondisi baik,8
+192,192,A,T8,,D3T2 (38).JPG,-0.735881667,120.1206317,Pelawa Baru,https://lh3.googleusercontent.com/d/1dsbzhiq2sJYuRcnRtDvy8WMDrdlujFtp,Terumbu karang,Terumbu karang kondisi baik,8
+193,193,A,T8,,D3T2 (39).JPG,-0.735925,120.120605,Pelawa Baru,https://lh3.googleusercontent.com/d/1ItksH6Em_D65KKpqGGktToZ5Z_EO125G,Terumbu karang,Terumbu karang kondisi baik,8
+194,194,A,T8,,D3T2 (40).JPG,-0.736015,120.1205717,Pelawa Baru,https://lh3.googleusercontent.com/d/1OLGHZtTPZfj7anWxoT7LWt0T3zc08WPH,Terumbu karang,Terumbu karang kondisi baik,8
+195,195,A,T8,,D3T2 (41).JPG,-0.736126667,120.12054,Pelawa Baru,https://lh3.googleusercontent.com/d/1iYlUgyQp_oZ-7uMbJ9EX-N5tfo9s4O_3,Terumbu karang,Terumbu karang kondisi baik,8
+196,196,A,T8,,D3T2 (42).JPG,-0.736205,120.1204817,Pelawa Baru,https://lh3.googleusercontent.com/d/1S3mpd6_D6GsQ_yf_vL-6OfGdpsaXeswe,Terumbu karang,Terumbu karang kondisi baik,8
+197,197,A,T8,,D3T2 (43).JPG,-0.736341667,120.1204917,Pelawa Baru,https://lh3.googleusercontent.com/d/1mA0V1YV7tvb1y4hVL5xpUYqtn5ztuN5e,Terumbu karang,Terumbu karang kondisi baik,8
+198,198,A,T8,,D3T2 (44).JPG,-0.736466667,120.1204733,Pelawa Baru,https://lh3.googleusercontent.com/d/1cm-X0bNTCM6Pg6px9Bllv4R87IEzoYYW,Terumbu karang,Terumbu karang kondisi baik,8
+199,199,A,T8,,D3T2 (45).JPG,-0.73654,120.1204933,Pelawa Baru,https://lh3.googleusercontent.com/d/1qCk2MmArv-77ySeDkxn4FYDuDzdS43UG,Terumbu karang,Terumbu karang kondisi baik,8
+200,200,A,T8,,D3T2 (46).JPG,-0.736643333,120.1204983,Pelawa Baru,https://lh3.googleusercontent.com/d/1pmfSKksiA1MpyqCkmTLI5S9UU0Y03gU0,Terumbu karang,Terumbu karang kondisi baik,8
+201,201,A,T8,,D3T2 (47).JPG,-0.736728333,120.1205617,Pelawa Baru,https://lh3.googleusercontent.com/d/1S5zX6g_sppkMC4EZyV-Y_WJMPjXRG6tj,Terumbu karang,Terumbu karang kondisi baik,8
+202,202,A,T8,,D3T2 (48).JPG,-0.736833333,120.12054,Pelawa Baru,https://lh3.googleusercontent.com/d/1LfVLwNhi1F-digukUEBIiQUQRcMih0M8,Terumbu karang,Terumbu karang kondisi baik,8
+203,203,A,T8,,D3T2 (49).JPG,-0.736898333,120.120565,Pelawa Baru,https://lh3.googleusercontent.com/d/1DZBfjx7flHUe_7SFO8SF8Rbrf2dtI_OL,Terumbu karang,Terumbu karang kondisi baik,8
+204,204,A,T8,,D3T2 (50).JPG,-0.737076667,120.12055,Pelawa Baru,https://lh3.googleusercontent.com/d/1YWKVuItVku06hVgiABrSeAW9o_oLv7uZ,Terumbu karang,Terumbu karang kondisi baik,8
+205,205,A,T8,,D3T2 (51).JPG,-0.737208333,120.1205467,Pelawa Baru,https://lh3.googleusercontent.com/d/18MaSBQ2YmwoxiUP-Nryn6pqoIfNNzzF-,Terumbu karang,Terumbu karang kondisi baik,8
+206,206,A,T8,,D3T2 (52).JPG,-0.737353333,120.12057,Pelawa Baru,https://lh3.googleusercontent.com/d/1EC1sUhabrPcEwXNX1Vaekz9FcIPK5FpY,Terumbu karang,Terumbu karang kondisi baik,8
+207,207,A,T8,,D3T2 (53).JPG,-0.737448333,120.1206183,Pelawa Baru,https://lh3.googleusercontent.com/d/1vJX67AOq8Q8IBNAIjojhlhnvQK-DyvNv,Terumbu karang,Terumbu karang kondisi baik,8
+208,208,A,T8,,D3T2 (54).JPG,-0.737466667,120.120635,Pelawa Baru,https://lh3.googleusercontent.com/d/1gah5de7TVaBE8RebgStxN6sCY8uy9za_,Terumbu karang,Terumbu karang kondisi baik,8
+209,209,A,T8,,D3T2 (55).JPG,-0.737626667,120.1205933,Pelawa Baru,https://lh3.googleusercontent.com/d/1orU2ZraKC0VIkiS1AVB7y5BCqKdpvAsX,Terumbu karang,Terumbu karang kondisi baik,8
+210,210,A,T8,,D3T2 (56).JPG,-0.737671667,120.1205733,Pelawa Baru,https://lh3.googleusercontent.com/d/1iUgdpTXP12EyyTiYkDC1gG9k8oC0Nrpj,Substrat terbuka,Terumbu karang kondisi baik,8
+211,211,A,T8,,D3T2 (57).JPG,-0.737748333,120.1205283,Pelawa Baru,https://lh3.googleusercontent.com/d/1CtylQ-xDrZsikPYDpAJBscO-Dzr7uh0r,Substrat terbuka,Terumbu karang kondisi baik,8
+212,212,A,T8,,D3T2 (58).JPG,-0.737801667,120.1204783,Pelawa Baru,https://lh3.googleusercontent.com/d/1fbAo4hMMJGOIg3sIKzOHygLd7v0b1Zok,Substrat terbuka,Terumbu karang kondisi baik,8
+213,213,A,T8,,D3T2 (59).JPG,-0.737896667,120.1204783,Pelawa Baru,https://lh3.googleusercontent.com/d/1lVeWFfLZ5EJhZBdWwZYxOr0IfR-30TSw,Terumbu karang,Terumbu karang kondisi baik,8
+214,214,A,T8,,D3T2 (60).JPG,-0.737966667,120.1204417,Pelawa Baru,https://lh3.googleusercontent.com/d/1QHAcR2bKVAJpDti_p-3ABhpZux8vnbKb,Terumbu karang,Terumbu karang kondisi baik,8
+215,215,A,T8,,D3T2 (61).JPG,-0.73808,120.12042,Pelawa Baru,https://lh3.googleusercontent.com/d/1HFvRx1jGxXsobzx1ysGS17Tmgh7I6Ivb,Terumbu karang,Terumbu karang kondisi baik,8
+216,216,A,T8,,D3T2 (62).JPG,-0.738146667,120.12035,Pelawa Baru,https://lh3.googleusercontent.com/d/1VoCXJR8fAADQMz88XOaSpbnuvK1-dRt6,Terumbu karang,Terumbu karang kondisi baik,8
+217,217,A,T8,,D3T2 (63).JPG,-0.738103333,120.1202733,Pelawa Baru,https://lh3.googleusercontent.com/d/1o05Va6l-YBh7krLluN_BnBVVf2duUkSL,Terumbu karang,Terumbu karang kondisi baik,8
+218,218,A,T8,,D3T2 (64).JPG,-0.738093333,120.12019,Pelawa Baru,https://lh3.googleusercontent.com/d/1Em09kR4eCzrqjqPN811Y_LcejklvbhJG,Terumbu karang,Terumbu karang kondisi baik,8
+219,219,A,T8,,D3T2 (65).JPG,-0.738081667,120.1200817,Pelawa Baru,https://lh3.googleusercontent.com/d/1YOOj7-PfOzkdy3Ykuyj7hwRmSh50Ri4x,Terumbu karang,Terumbu karang kondisi baik,8
+220,220,A,T8,,D3T2 (66).JPG,-0.738013333,120.11995,Pelawa Baru,https://lh3.googleusercontent.com/d/13qj3YSM3AFLWEB0UiLMOAvqYieFmMz5X,Substrat terbuka,Terumbu karang kondisi baik,8
+221,221,A,T8,,D3T2 (67).JPG,-0.738106667,120.1199633,Pelawa Baru,https://lh3.googleusercontent.com/d/1VHqgho36Q5UrI9UlvGD5V2KbTaSTGS55,Substrat terbuka,Terumbu karang kondisi baik,8
+222,222,A,T8,,D3T2 (68).JPG,-0.73811,120.1199033,Pelawa Baru,https://lh3.googleusercontent.com/d/1t_HArxWzt0dFO6IwZrFhygok4dWlCK4-,Substrat terbuka,Terumbu karang kondisi baik,8
+223,223,A,T8,,D3T2 (69).JPG,-0.738083333,120.11985,Pelawa Baru,https://lh3.googleusercontent.com/d/1EPL030dcf6347RSDBbjCLOhHP6CEuwv_,Terumbu karang,Terumbu karang kondisi baik,8
+224,224,A,T8,,D3T2 (70).JPG,-0.738026667,120.11978,Pelawa Baru,https://lh3.googleusercontent.com/d/1AshITUbgbDptB-8oX7xye5PzWFKRCxXA,Terumbu karang,Terumbu karang kondisi baik,8
+225,225,A,T9,,D3T3 (1).JPG,-0.738443333,120.1125367,Pelawa_Baru,https://lh3.googleusercontent.com/d/173BhD_3HOWXZGiPtSgAyt4SZYbPyY7jm,Terumbu karang,Terumbu karang kondisi baik,8
+226,226,A,T9,,D3T3 (2).JPG,-0.7385,120.1125317,Pelawa_Baru,https://lh3.googleusercontent.com/d/11y9xAU0JtPEgLHLpBeuuMJXlnNX4xOsC,Terumbu karang,Terumbu karang kondisi baik,8
+227,227,A,T9,,D3T3 (3).JPG,-0.738541667,120.1125517,Pelawa_Baru,https://lh3.googleusercontent.com/d/1Hy80M9xPt9mGxjLAmgJxviEf59VrFuzZ,Terumbu karang,Terumbu karang kondisi baik,8
+228,228,A,T9,,D3T3 (4).JPG,-0.738575,120.1125336,Pelawa_Baru,https://lh3.googleusercontent.com/d/1cGnwziEFV_zT7sVJwbx67peU7z67wd7O,Terumbu karang,Terumbu karang kondisi baik,8
+229,229,A,T9,,D3T3 (5).JPG,-0.73863,120.112535,Pelawa_Baru,https://lh3.googleusercontent.com/d/11dZRP3EuT1DXyYJWz_zsg9B5tuGNMG0M,Terumbu karang,Terumbu karang kondisi baik,8
+230,230,A,T9,,D3T3 (6).JPG,-0.738665,120.1125083,Pelawa_Baru,https://lh3.googleusercontent.com/d/1iboPC4hiuTbotXQghnUSbsBgHJcGC_99,Terumbu karang,Terumbu karang kondisi baik,8
+231,231,A,T9,,D3T3 (7).JPG,-0.738678333,120.112435,Pelawa_Baru,https://lh3.googleusercontent.com/d/1q1Pv-mFOqrvCtcaM7wZ5X5pVmoRvyPmJ,Terumbu karang,Terumbu karang kondisi baik,8
+232,232,A,T9,,D3T3 (8).JPG,-0.738673333,120.1123333,Pelawa_Baru,https://lh3.googleusercontent.com/d/1RtekzHMpFxwjIGHgXEHwj8CI3z44Nff9,Terumbu karang,Terumbu karang kondisi baik,8
+233,233,A,T9,,D3T3 (9).JPG,-0.738681667,120.1122667,Pelawa_Baru,https://lh3.googleusercontent.com/d/18sX8PeBTe0BewgN81982cajImwDvAcnZ,Terumbu karang,Terumbu karang kondisi baik,8
+234,234,A,T9,,D3T3 (10).JPG,-0.738641667,120.11223,Pelawa_Baru,https://lh3.googleusercontent.com/d/17vFfOWoaHbgCUH6cbzsGATeeYl04X7AT,Terumbu karang,Terumbu karang kondisi baik,8
+235,235,A,T9,,D3T3 (11).JPG,-0.738593333,120.1121633,Pelawa_Baru,https://lh3.googleusercontent.com/d/1j6RK3zdc2pyPpze4C4Dsod914xrU2Txq,Terumbu karang,Terumbu karang kondisi baik,8
+236,236,A,T9,,D3T3 (12).JPG,-0.738555,120.1121124,Pelawa_Baru,https://lh3.googleusercontent.com/d/1_ZAltVubbsJrJ0D47f6edkyttbcQZXV_,Terumbu karang,Terumbu karang kondisi baik,8
+237,237,A,T9,,D3T3 (13).JPG,-0.738488333,120.1121,Pelawa_Baru,https://lh3.googleusercontent.com/d/1Aopz7VywQQMM0rfWrxsVSrbNGpGicXOK,Terumbu karang,Terumbu karang kondisi baik,8
+238,238,A,T9,,D3T3 (14).JPG,-0.738436667,120.11209,Pelawa_Baru,https://lh3.googleusercontent.com/d/1VxzY82kHdODBgJH_5tkynRP8DEB2sMyv,Terumbu karang,Terumbu karang kondisi baik,8
+239,239,A,T9,,D3T3 (15).JPG,-0.738401667,120.1120367,Pelawa_Baru,https://lh3.googleusercontent.com/d/1IwO-_H9jpGu0JpKj5PQ6eVrhd-VRop1X,Terumbu karang,Terumbu karang kondisi baik,8
+240,240,A,T9,,D3T3 (16).JPG,-0.738441667,120.1119633,Pelawa_Baru,https://lh3.googleusercontent.com/d/1KQDIwrPtAKaRqfEUr-fGlj6BVodlYo1K,Terumbu karang,Terumbu karang kondisi baik,8
+241,241,A,T9,,D3T3 (17).JPG,-0.738533333,120.1119233,Pelawa_Baru,https://lh3.googleusercontent.com/d/1p7TdcaePSBzrwJPKqhLIZb4r017HCjoQ,Terumbu karang,Terumbu karang kondisi baik,8
+242,242,A,T9,,D3T3 (18).JPG,-0.738563333,120.111875,Pelawa_Baru,https://lh3.googleusercontent.com/d/13kN3LTAe8avLJtDTvJ-gONJlfp0JItbE,Substrat terbuka,Substrat terbuka,8
+243,243,A,T9,,D3T3 (19).JPG,-0.738605,120.111805,Pelawa_Baru,https://lh3.googleusercontent.com/d/1Wpwl5uzPVehPPQCKAvcPFGLwvh_8gWXU,Substrat terbuka,Substrat terbuka,8
+244,244,A,T9,,D3T3 (20).JPG,-0.738665935,120.1118063,Pelawa_Baru,https://lh3.googleusercontent.com/d/1dwscjzbSIYXTEB23A5cj5sKOhymNtOdB,Substrat terbuka,Substrat terbuka,8
+245,245,A,T9,,D3T3 (21).JPG,-0.738733333,120.1118367,Pelawa_Baru,https://lh3.googleusercontent.com/d/1BHBIlMWqz0W6ZiTxLbgD4GgYlwtGrNqA,Substrat terbuka,Substrat terbuka,8
+246,246,A,T9,,D3T3 (22).JPG,-0.73876,120.1118783,Pelawa_Baru,https://lh3.googleusercontent.com/d/1K7jxUnrpznmFvY-2VQHthtZ-KeuMR_HG,Substrat terbuka,Substrat terbuka,8
+247,247,A,T9,,D3T3 (23).JPG,-0.738766667,120.1119583,Pelawa_Baru,https://lh3.googleusercontent.com/d/1JGhcRzgZaaIu5Hy-lyzIfxO1jcFmkIZC,Substrat terbuka,Substrat terbuka,8
+248,248,A,T9,,D3T3 (24).JPG,-0.738776667,120.1120383,Pelawa_Baru,https://lh3.googleusercontent.com/d/1Is2Z3BOhXn8WjPFEwTYNw2Q-9tGZ6YZk,Substrat terbuka,Substrat terbuka,8
+249,249,A,T9,,D3T3 (25).JPG,-0.738786667,120.1121267,Pelawa_Baru,https://lh3.googleusercontent.com/d/14ApZn76z5Gf1pkTsy43rL-DAsGKeHLAk,Substrat terbuka,Substrat terbuka,8
+250,250,A,T9,,D3T3 (26).JPG,-0.73881,120.1121933,Pelawa_Baru,https://lh3.googleusercontent.com/d/1z4KfooXOllM4kiDE8sAs3_IUH9AcVv5Y,Substrat terbuka,Substrat terbuka,8
+251,251,A,T9,,D3T3 (27).JPG,-0.738426667,120.1121283,Pelawa_Baru,https://lh3.googleusercontent.com/d/1vG5QJ27yepIcG65jsm5dWWnFQI5v7EEr,Terumbu karang,Terumbu karang kondisi baik,8
+252,252,A,T9,,D3T3 (28).JPG,-0.73841,120.1122717,Pelawa_Baru,https://lh3.googleusercontent.com/d/117DCcdFoA2YuMZa1a73R-TeheRG9toMv,Terumbu karang,Terumbu karang kondisi baik,8
+253,253,A,T9,,D3T3 (29).JPG,-0.738421667,120.112315,Pelawa_Baru,https://lh3.googleusercontent.com/d/1eDUIVAcC7wVyd1oTFymWqx6kSrN2Gs4Z,Terumbu karang,Terumbu karang kondisi baik,8
+254,254,A,T9,,D3T3 (30).JPG,-0.738431667,120.1124533,Pelawa_Baru,https://lh3.googleusercontent.com/d/1idBoT-9c6IZiftTC31yHh0OsjnUcLrG-,Terumbu karang,Terumbu karang kondisi baik,8
+255,255,A,T9,,D3T3 (31).JPG,-0.738456667,120.1125267,Pelawa_Baru,https://lh3.googleusercontent.com/d/12-P7-5SKAQcXVxde8JnAAe4e6mWTohvJ,Terumbu karang,Terumbu karang kondisi baik,8
+256,256,A,T10,,D3T4 (1).JPG,-0.738416667,120.1127033,Pelawa_Baru,https://lh3.googleusercontent.com/d/1isuVQkBAJXZ5YXD1VcHozfVgjuNz2Q7e,Terumbu karang,Terumbu karang kondisi baik,8
+257,257,A,T10,,D3T4 (2).JPG,-0.738390272,120.1128167,Pelawa_Baru,https://lh3.googleusercontent.com/d/1Sb7feOIBYKSvBrRbC0DyZCz6gpe9XaGW,Terumbu karang,Terumbu karang kondisi baik,8
+258,258,A,T10,,D3T4 (3).JPG,-0.73838,120.11291,Pelawa_Baru,https://lh3.googleusercontent.com/d/1OyZgjcto8p0OjwlNTh783i8iR5X-TWUZ,Terumbu karang,Terumbu karang kondisi baik,8
+259,259,A,T10,,D3T4 (4).JPG,-0.738391667,120.1130317,Pelawa_Baru,https://lh3.googleusercontent.com/d/1VU1Eb0p13Zav_A9M2_s2i0ccjjkGGl-X,Terumbu karang,Terumbu karang kondisi baik,8
+260,260,A,T10,,D3T4 (5).JPG,-0.738428333,120.113085,Pelawa_Baru,https://lh3.googleusercontent.com/d/1jO9FdXimcZnX8tTK270dBcmwRte9d06O,Terumbu karang,Terumbu karang kondisi baik,8
+261,261,A,T10,,D3T4 (6).JPG,-0.738506667,120.1132283,Pelawa_Baru,https://lh3.googleusercontent.com/d/1pUNAImQ-6leZbxm2M4FzQfe_bnhUlHIk,Terumbu karang,Terumbu karang kondisi baik,8
+262,262,A,T10,,D3T4 (7).JPG,-0.738546667,120.113275,Pelawa_Baru,https://lh3.googleusercontent.com/d/1tiSS5TGqhptH8D8TGNPwHylMg-7rPJjP,Terumbu karang,Terumbu karang kondisi baik,8
+263,263,A,T10,,D3T4 (8).JPG,-0.73864541,120.1132868,Pelawa_Baru,https://lh3.googleusercontent.com/d/1repRpOrqg4CESzyKPS9X_r_NmAVBwjA2,Terumbu karang,Terumbu karang kondisi baik,8
+264,264,A,T10,,D3T4 (9).JPG,-0.738783333,120.1133467,Pelawa_Baru,https://lh3.googleusercontent.com/d/12h1vGJeb9Jat_T29GNB_-ZrOcnZEa9h5,Terumbu karang,Terumbu karang kondisi baik,8
+265,265,A,T10,,D3T4 (10).JPG,-0.738836667,120.11342,Pelawa_Baru,https://lh3.googleusercontent.com/d/12_VZt_g5GaXw8AaS1FoBxp6uXvfyCbgY,Terumbu karang,Terumbu karang kondisi baik,8
+266,266,A,T10,,D3T4 (11).JPG,-0.738895,120.1134267,Pelawa_Baru,https://lh3.googleusercontent.com/d/1NhamJmFK5tv_Y7bU9VuqJp4mwRx2Mno2,Terumbu karang,Terumbu karang kondisi baik,8
+267,267,A,T10,,D3T4 (12).JPG,-0.739023333,120.113405,Pelawa_Baru,https://lh3.googleusercontent.com/d/1lwFzdTGNTCAq07cfmN6ehME2d-rJ7nTH,Terumbu karang,Terumbu karang kondisi baik,8
+268,268,A,T10,,D3T4 (13).JPG,-0.739104855,120.1133247,Pelawa_Baru,https://lh3.googleusercontent.com/d/1j6QhIRvtidH03KJcF5WbHQxRiekUPhlx,Terumbu karang,Terumbu karang kondisi baik,8
+269,269,A,T10,,D3T4 (14).JPG,-0.739191667,120.1132883,Pelawa_Baru,https://lh3.googleusercontent.com/d/1bwMME5ezTjzB5pvp0514-cbu_sSHtKAE,Terumbu karang,Terumbu karang kondisi baik,8
+270,270,A,T10,,D3T4 (15).JPG,-0.73933,120.1131017,Pelawa_Baru,https://lh3.googleusercontent.com/d/1XZwhlF3lG1cDwNDbt1Vm5HuoY9aQLwju,Terumbu karang,Terumbu karang kondisi baik,8
+271,271,A,T10,,D3T4 (16).JPG,-0.739415546,120.1129845,Pelawa_Baru,https://lh3.googleusercontent.com/d/1bMGKJIsX9LAKP8DmDGLq_EaY2Kn9bbpc,Terumbu karang,Terumbu karang kondisi baik,8
+272,272,A,T10,,D3T4 (17).JPG,-0.73949,120.1129233,Pelawa_Baru,https://lh3.googleusercontent.com/d/1nlxxtEVWYH-seWSoimuwE4UwZt3hHfH7,Terumbu karang,Bleaching,8
+273,273,A,T10,,D3T4 (18).JPG,-0.739573333,120.1127617,Pelawa_Baru,https://lh3.googleusercontent.com/d/1Ut85nkJSFvgr3MJAWO9F2fyp3J8HXW6e,Terumbu karang,Terumbu karang kondisi baik,8
+274,274,A,T11,,D4T1 (1).JPG,-0.768608333,120.1381017,Pelawa Baru,https://lh3.googleusercontent.com/d/13O--hIRgq1RWPl6U_u6wJDftt4SkCPFU,Terumbu karang,Terumbu karang kondisi baik,9
+275,275,A,T11,,D4T1 (2).JPG,-0.768585,120.13819,Pelawa Baru,https://lh3.googleusercontent.com/d/1I1mQ_qpwQrU-MbKDQcOSgdBIdxsfjQ8r,Terumbu karang,Terumbu karang kondisi baik,9
+276,276,A,T11,,D4T1 (3).JPG,-0.768516667,120.1382983,Pelawa Baru,https://lh3.googleusercontent.com/d/1-zXFFa-AlMaYGGQRb2d-Q3uTtY1JUu_U,Terumbu karang,Terumbu karang kondisi baik,9
+277,277,A,T11,,D4T1 (4).JPG,-0.768463333,120.1383717,Pelawa Baru,https://lh3.googleusercontent.com/d/1MenWNayFQDN_cXzEfBup0u7U_JofIVM9,Terumbu karang,Terumbu karang kondisi baik,9
+278,278,A,T11,,D4T1 (5).JPG,-0.768424539,120.1384688,Pelawa Baru,https://lh3.googleusercontent.com/d/1PASFf8yMft8XRhV3wGapmUHvMqGeQW3v,Terumbu karang,Terumbu karang kondisi baik,9
+279,279,A,T11,,D4T1 (6).JPG,-0.768303333,120.13859,Pelawa Baru,https://lh3.googleusercontent.com/d/1RTK47MUQtQ4H_fdczgUy6FgGVO2hrRXt,Terumbu karang,Terumbu karang kondisi baik,9
+280,280,A,T11,,D4T1 (7).JPG,-0.768206667,120.1386717,Pelawa Baru,https://lh3.googleusercontent.com/d/1ZnWQMST7O5Cd_IB_bC7s2m-_HNd_nDwD,Terumbu karang,Terumbu karang kondisi baik,9
+281,281,A,T11,,D4T1 (8).JPG,-0.768136667,120.1387267,Pelawa Baru,https://lh3.googleusercontent.com/d/1QOw1PoWQKay93YyBiCGclhqFYB6KE15W,Terumbu karang,Terumbu karang kondisi baik,9
+282,282,A,T11,,D4T1 (9).JPG,-0.768033149,120.1387817,Pelawa Baru,https://lh3.googleusercontent.com/d/1wJRKHLMWf61-IjXe_aZ_cQi8LyC1RzDs,Terumbu karang,Terumbu karang kondisi baik,9
+283,283,A,T11,,D4T1 (10).JPG,-0.767963333,120.1388367,Pelawa Baru,https://lh3.googleusercontent.com/d/19dAYZb4E_uq63FXzJUh5mfdYDE5YGAeZ,Terumbu karang,Terumbu karang kondisi baik,9
+284,284,A,T11,,D4T1 (11).JPG,-0.76787,120.1389017,Pelawa Baru,https://lh3.googleusercontent.com/d/1CW4XkNlhK1QqmEk8BP2OIyDQc2HiqVF_,Terumbu karang,Terumbu karang kondisi baik,9
+285,285,A,T11,,D4T1 (12).JPG,-0.767695,120.1389533,Pelawa Baru,https://lh3.googleusercontent.com/d/1rxK5vqSJW_Ep9T93-jV_IG0Azxg251Zp,Terumbu karang,Terumbu karang kondisi baik,9
+286,286,A,T11,,D4T1 (13).JPG,-0.767593333,120.1390017,Pelawa Baru,https://lh3.googleusercontent.com/d/1Wq95GRYKyHMHKWTOdrMXHNpC4c6MJlrZ,Terumbu karang,Terumbu karang kondisi baik,9
+287,287,A,T11,,D4T1 (14).JPG,-0.76758,120.1390583,Pelawa Baru,https://lh3.googleusercontent.com/d/1sXnQq2f8_FqxAfHlI8QbIUB9mI6YRBTs,Terumbu karang,Terumbu karang kondisi baik,9
+288,288,A,T11,,D4T1 (15).JPG,-0.767535,120.1391283,Pelawa Baru,https://lh3.googleusercontent.com/d/1TnzsD2IUAKUAmvp3XCE_f1Y0YWmUUjK9,Terumbu karang,Terumbu karang kondisi baik,9
+289,289,A,T11,,D4T1 (16).JPG,-0.767465,120.1392633,Pelawa Baru,https://lh3.googleusercontent.com/d/1-1vwS4jLn_5NDUOYi_agUtn_jDWeliI7,Terumbu karang,Terumbu karang kondisi baik,9
+290,290,A,T11,,D4T1 (17).JPG,-0.767428333,120.1393283,Pelawa Baru,https://lh3.googleusercontent.com/d/1od35c8XtYAJ4k0e2NxJmN7EIMbVfMFJg,Terumbu karang,Terumbu karang kondisi baik,9
+291,291,A,T11,,D4T1 (18).JPG,-0.76737,120.1395033,Pelawa Baru,https://lh3.googleusercontent.com/d/17OMYFXG2si4PrYP9fZ06mO90_KFiwQqz,Terumbu karang,Terumbu karang kondisi baik,9
+292,292,A,T11,,D4T1 (19).JPG,-0.767346667,120.1395433,Pelawa Baru,https://lh3.googleusercontent.com/d/147pXrUjmxYV-CleVvZidxFIPm-AuMo-i,Terumbu karang,Terumbu karang kondisi baik,9
+293,293,A,T11,,D4T1 (20).JPG,-0.767331667,120.1396,Pelawa Baru,https://lh3.googleusercontent.com/d/1qatdIO8GwxnP5FSGnZEx2CGO-UI-kDtk,Terumbu karang,Terumbu karang kondisi baik,9
+294,294,A,T11,,D4T1 (21).JPG,-0.767281667,120.1397683,Pelawa Baru,https://lh3.googleusercontent.com/d/1fbMys3wsyvIksIjJCSKndEDcC4xstonU,Terumbu karang,Terumbu karang kondisi baik,9
+295,295,A,T11,,D4T1 (22).JPG,-0.767245799,120.1398429,Pelawa Baru,https://lh3.googleusercontent.com/d/1CTUKo6LvD2mdRd7G0IbuPZtPNsFePnAy,Terumbu karang,Terumbu karang kondisi baik,9
+296,296,A,T11,,D4T1 (23).JPG,-0.767113333,120.1401233,Pelawa Baru,https://lh3.googleusercontent.com/d/1G_Nifc9pFkXAhRv0s_xKGgT4asj-yYeR,Terumbu karang,Terumbu karang kondisi baik,9
+297,297,A,T11,,D4T1 (24).JPG,-0.767011667,120.140285,Pelawa Baru,https://lh3.googleusercontent.com/d/1FpCMAUcdRsnnV5rOZfcrPplE8G3Fec-J,Terumbu karang,Terumbu karang kondisi baik,9
+298,298,A,T11,,D4T1 (25).JPG,-0.766976667,120.14045,Pelawa Baru,https://lh3.googleusercontent.com/d/1v4hlV2X_I4OdaKOKTfJ67GAI-p_dB-xp,Terumbu karang,Terumbu karang kondisi baik,9
+299,299,A,T11,,D4T1 (26).JPG,-0.766896667,120.1405867,Pelawa Baru,https://lh3.googleusercontent.com/d/1gp0FYJfoibmVy8PdTV_frLShMu7YyAkP,Terumbu karang,Terumbu karang kondisi baik,9
+300,300,A,T11,,D4T1 (27).JPG,-0.766818333,120.1407667,Pelawa Baru,https://lh3.googleusercontent.com/d/1zT1MT7kjBE4bIMujzNWjH6GeDhkY-D58,Terumbu karang,Terumbu karang kondisi baik,9
+301,301,A,T11,,D4T1 (28).JPG,-0.766776667,120.1408067,Pelawa Baru,https://lh3.googleusercontent.com/d/1sEs6XGb4udvbrBlFJFv3R4Gbujcyv-FX,Terumbu karang,Terumbu karang kondisi baik,9
+302,302,A,T11,,D4T1 (29).JPG,-0.76664,120.1409983,Pelawa Baru,https://lh3.googleusercontent.com/d/1iMsTgzwJ_E4NM-IFfLo9zgCb1yj3bxI8,Terumbu karang,Terumbu karang kondisi baik,9
+303,303,A,T11,,D4T1 (30).JPG,-0.766556667,120.1411417,Pelawa Baru,https://lh3.googleusercontent.com/d/1dyZ1Qt7N_ATz6wE-yKr8gbiwo7_befox,Terumbu karang,Terumbu karang kondisi baik,9
+304,304,A,T11,,D4T1 (31).JPG,-0.766476667,120.1412017,Pelawa Baru,https://lh3.googleusercontent.com/d/1zBH0fC17Yx0bozqvteiUOx_UGmmDKaYH,Terumbu karang,Terumbu karang kondisi baik,9
+305,305,A,T11,,D4T1 (32).JPG,-0.766416667,120.1412567,Pelawa Baru,https://lh3.googleusercontent.com/d/1G-5USwWdRAoCIddPkeMV1dRUPA9sL2sq,Terumbu karang,Terumbu karang kondisi baik,9
+306,306,A,T11,,D4T1 (33).JPG,-0.766373333,120.1413667,Pelawa Baru,https://lh3.googleusercontent.com/d/1v4CxmfnRl_XzpJK8FbmfknD7rFTgcM4T,Terumbu karang,Terumbu karang kondisi baik,9
+307,307,A,T11,,D4T1 (34).JPG,-0.766348333,120.1414483,Pelawa Baru,https://lh3.googleusercontent.com/d/1baWJk0zzytT6cbFJO5QXNR-RION1nq9v,Terumbu karang,Terumbu karang kondisi baik,9
+308,308,A,T11,,D4T1 (35).JPG,-0.766305,120.1415467,Pelawa Baru,https://lh3.googleusercontent.com/d/1okBwEpnlk3glmcSXNDbiJaqIpyXJyQqJ,Terumbu karang,Terumbu karang kondisi baik,9
+309,309,A,T11,,D4T1 (36).JPG,-0.766285,120.1416083,Pelawa Baru,https://lh3.googleusercontent.com/d/1iIqVohp1puTV5UqrjMhFD0ovrH2rVcBG,Terumbu karang,Terumbu karang kondisi baik,9
+310,310,A,T11,,D4T1 (37).JPG,-0.76625,120.1417383,Pelawa Baru,https://lh3.googleusercontent.com/d/1SeQOs5IRWSnDUSWJ9XhQiirhHtdm0SSa,Terumbu karang,Terumbu karang kondisi baik,9
+311,311,A,T11,,D4T1 (38).JPG,-0.766236667,120.1418333,Pelawa Baru,https://lh3.googleusercontent.com/d/19v0-loMq_W2jaRkaQWejaiVR6jE84CnW,Terumbu karang,Terumbu karang kondisi baik,9
+312,312,A,T11,,D4T1 (39).JPG,-0.766238333,120.1418883,Pelawa Baru,https://lh3.googleusercontent.com/d/1blgSKFASUQ9OtYvlyX5dThkCURKFpEie,Terumbu karang,Terumbu karang kondisi baik,9
+313,313,A,T11,,D4T1 (40).JPG,-0.76627,120.1420283,Pelawa Baru,https://lh3.googleusercontent.com/d/1yLBCB0SeUV5RPdi7B2S_omPSigH0Nl2j,Terumbu karang,Terumbu karang kondisi baik,9
+314,314,A,T11,,D4T1 (41).JPG,-0.766255,120.1420717,Pelawa Baru,https://lh3.googleusercontent.com/d/1hEOH-zcDGSpSPScKjwSms5HjnL0KeLHu,Terumbu karang,Terumbu karang kondisi baik,9
+315,315,A,T11,,D4T1 (42).JPG,-0.766275,120.142175,Pelawa Baru,https://lh3.googleusercontent.com/d/1a8l-S6GbpL6DDS65gZ7atttyfqM5OagE,Terumbu karang,Terumbu karang kondisi baik,9
+316,316,A,T11,,D4T1 (43).JPG,-0.76625,120.1422667,Pelawa Baru,https://lh3.googleusercontent.com/d/1AFC7DNrBxDWCOzgf3nIkhbLtD8sEOjPU,Terumbu karang,Terumbu karang kondisi baik,9
+317,317,A,T11,,D4T1 (44).JPG,-0.766215,120.1423917,Pelawa Baru,https://lh3.googleusercontent.com/d/1ej-hxuulc1eTwAs_6BNV-kAP2Nk-Ep6L,Terumbu karang,Terumbu karang kondisi baik,9
+318,318,A,T11,,D4T1 (45).JPG,-0.766166667,120.142505,Pelawa Baru,https://lh3.googleusercontent.com/d/1M7FHwzWyh0206O87mhqNNp01gsNl9pYI,Terumbu karang,Terumbu karang kondisi baik,9
+319,319,A,T11,,D4T1 (46).JPG,-0.766121667,120.1425917,Pelawa Baru,https://lh3.googleusercontent.com/d/1rRS0gr_VpWp7C_jxyl_jiqLF2ACZ-ZSF,Terumbu karang,Terumbu karang kondisi baik,9
+320,320,A,T11,,D4T1 (47).JPG,-0.766038333,120.1427033,Pelawa Baru,https://lh3.googleusercontent.com/d/1zLsT91-yD0rZ8WFv-7yFeyUvxYTOEJmn,Terumbu karang,Terumbu karang kondisi baik,9
+321,321,A,T11,,D4T1 (48).JPG,-0.765975,120.1427383,Pelawa Baru,https://lh3.googleusercontent.com/d/1d-U1WhjfGW5lNSu9ZHAmifYwhKboDOmk,Terumbu karang,Terumbu karang kondisi baik,9
+322,322,A,T11,,D4T1 (49).JPG,-0.766048333,120.1426683,Pelawa Baru,https://lh3.googleusercontent.com/d/1TPs4Ldav5yVYui8qdNDx0UlMtsF1dxjh,Terumbu karang,Terumbu karang kondisi baik,9
+323,323,A,T11,,D4T1 (50).JPG,-0.766113333,120.1426217,Pelawa Baru,https://lh3.googleusercontent.com/d/144KwX2qLzdWqn9XlQPbHU08RVKnLzA08,Terumbu karang,Terumbu karang kondisi baik,9
+324,1,B,D1T1A,D1T1A-1,D1T1B (1).JPG,-0.229207,120.006352,Donggulu ,https://lh3.googleusercontent.com/d/10yO_rAVr5-944yvpwow5-ZbHC5O6fzIK,Terumbu karang,Terumbu karang kondisi baik,5
+325,2,B,D1T1A,D1T1A-2,D1T1B (2).JPG,-0.229225,120.006321,Donggulu ,https://lh3.googleusercontent.com/d/1BnLfeytsmLxPevMgNq3bEkMSzTyU2qlf,Terumbu karang,Terumbu karang kondisi baik,5
+326,3,B,D1T1A,D1T1A-3,D1T1B (3).JPG,-0.229243,120.00629,Donggulu ,https://lh3.googleusercontent.com/d/1kiN3omWZ7Q10Sd_WMVXNFqglvHeVzG_3,Terumbu karang,Terumbu karang kondisi baik,5
+327,4,B,D1T1A,D1T1A-4,D1T1B (4).JPG,-0.229261,120.006258,Donggulu ,https://lh3.googleusercontent.com/d/1UU-dsZ43ApBghILATt1As_esIST2jUDe,Terumbu karang,Terumbu karang kondisi baik,5
+328,5,B,D1T1A,D1T1A-5,D1T1B (5).JPG,-0.229279,120.006227,Donggulu ,https://lh3.googleusercontent.com/d/1I02JxHQafWByQ15MQD7f-pqfhBCOH4yA,Terumbu karang,Terumbu karang kondisi baik,5
+329,6,B,D1T1A,D1T1A-6,D1T1B (6).JPG,-0.229297,120.006196,Donggulu ,https://lh3.googleusercontent.com/d/1NvRIkhx0lDxW28TgDvZudy8wr7oMQMv0,Terumbu karang,Terumbu karang kondisi baik,5
+330,7,B,D1T1A,D1T1A-7,D1T1B (7).JPG,-0.229315,120.006165,Donggulu ,https://lh3.googleusercontent.com/d/1QZzX_nXlommPn9F7xyYW8ysI8H6Kx1zy,Terumbu karang,Terumbu karang kondisi baik,5
+331,8,B,D1T1A,D1T1A-8,D1T1B (8).JPG,-0.229333,120.006134,Donggulu ,https://lh3.googleusercontent.com/d/14nyBZJBZF1_nHdTEIBKnC77LArX7aO8k,Terumbu karang,Terumbu karang kondisi baik,5
+332,9,B,D1T1A,D1T1A-9,D1T1B (9).JPG,-0.229351,120.006103,Donggulu ,https://lh3.googleusercontent.com/d/1evo0U0tLnqTVvCfKJT4iZn-pSK_D3IL2,Terumbu karang,Terumbu karang kondisi baik,5
+333,10,B,D1T1A,D1T1A-10,D1T1B (10).JPG,-0.229369,120.006072,Donggulu ,https://lh3.googleusercontent.com/d/1WBi7oyTIDLz-_sLEZz6rfnVYNpx5j8DB,Terumbu karang,Terumbu karang kondisi baik,5
+334,11,B,D1T1A,D1T1A-11,D1T1B (11).JPG,-0.229387,120.006041,Donggulu ,https://lh3.googleusercontent.com/d/1nl9OzMVxrY8_9rvCHwuE86P2B03smrE0,Terumbu karang,Terumbu karang kondisi baik,5
+335,12,B,D1T1A,D1T1A-12,D1T1B (12).JPG,-0.229405,120.00601,Donggulu ,https://lh3.googleusercontent.com/d/1oQfQIKqMk9ZQNW5KSJufzi_B4rh31vDQ,Terumbu karang,Terumbu karang kondisi baik,5
+336,13,B,D1T1A,D1T1A-13,D1T1B (13).JPG,-0.229423,120.005979,Donggulu ,https://lh3.googleusercontent.com/d/16IyBalq7iXxhA3LzwBWL2fs-Bj2ureXt,Terumbu karang,Terumbu karang kondisi baik,5
+337,14,B,D1T1A,D1T1A-14,D1T1B (14).JPG,-0.229441,120.005948,Donggulu ,https://lh3.googleusercontent.com/d/1sStLVXKbEJUbMhbIsmfeh7gqPYbK4OxW,Terumbu karang,Terumbu karang kondisi baik,5
+338,15,B,D1T1A,D1T1A-15,D1T1B (15).JPG,-0.229459,120.005916,Donggulu ,https://lh3.googleusercontent.com/d/1PCUqqku0GPn3wq5R1loedBi4P9uf6thv,Terumbu karang,Terumbu karang kondisi baik,5
+339,16,B,D1T1A,D1T1A-16,D1T1B (16).JPG,-0.229478,120.005885,Donggulu ,https://lh3.googleusercontent.com/d/1sPZOpDgwnZTDgd1IdhkSEfWbjjRhjAkw,Terumbu karang,Terumbu karang kondisi baik,5
+340,17,B,D1T1A,D1T1A-17,D1T1B (17).JPG,-0.229496,120.005854,Donggulu ,https://lh3.googleusercontent.com/d/1irWF2s8UoR1SkSd-9LreHStyoWVIJus2,Terumbu karang,Terumbu karang kondisi baik,5
+341,18,B,D1T1A,D1T1A-18,D1T1B (18).JPG,-0.229514,120.005823,Donggulu ,https://lh3.googleusercontent.com/d/1Y-fpY5cXjGN5748TlBuEA0L_iki_g8Kv,Terumbu karang,Terumbu karang kondisi baik,5
+342,19,B,D1T1A,D1T1A-19,D1T1B (19).JPG,-0.229532,120.005792,Donggulu ,https://lh3.googleusercontent.com/d/1IFQcNTm75MNh7guO4oY99Fh5DptbzaT1,Terumbu karang,Terumbu karang kondisi baik,5
+343,39,B,D2T1,D2T1-1,D2T1 (1).JPG,-0.226619,120.007053,Donggulu ,https://lh3.googleusercontent.com/d/1U7wQvfeDwOcrgUyHTs5t8PZZc0JsPBUo,Terumbu karang,low-visibility,5
+344,40,B,D2T1,D2T1-2,D2T1 (2).JPG,-0.226653,120.007041,Donggulu ,https://lh3.googleusercontent.com/d/1i7vX0ZZO2EGZhmHgxxtShCBSk3LZnsFQ,Terumbu karang,low-visibility,5
+345,41,B,D2T1,D2T1-3,D2T1 (3).JPG,-0.226687,120.007029,Donggulu ,https://lh3.googleusercontent.com/d/1E2EDKrb1PHwlErV1kHcHFSLqJMr6D3ct,Terumbu karang,low-visibility,5
+346,42,B,D2T1,D2T1-4,D2T1 (4).JPG,-0.226721,120.007016,Donggulu ,https://lh3.googleusercontent.com/d/1Vxm2qFg5kkMV2sm2U8cudB_p1PpPQfQb,Terumbu karang,low-visibility,5
+347,43,B,D2T1,D2T1-5,D2T1 (5).JPG,-0.226755,120.007004,Donggulu ,https://lh3.googleusercontent.com/d/1p5AlTu5Uz6QDrpnLqSbRRP6z_NBKibgG,Terumbu karang,low-visibility,5
+348,44,B,D2T1,D2T1-6,D2T1 (6).JPG,-0.226789,120.006992,Donggulu ,https://lh3.googleusercontent.com/d/1zWe60vx5hFQDyOTvT-kXdgxfhD-Shm6e,Terumbu karang,low-visibility,5
+349,45,B,D2T1,D2T1-7,D2T1 (7).JPG,-0.226823,120.006979,Donggulu ,https://lh3.googleusercontent.com/d/1j6O6Smr3rwa-aEDhBEytm4YeMmx_QcGn,Terumbu karang,low-visibility,5
+350,46,B,D2T1,D2T1-8,D2T1 (8).JPG,-0.226857,120.006967,Donggulu ,https://lh3.googleusercontent.com/d/1D1HQgyG5AkTX3CMRm8NLXtD346wauKQh,Terumbu karang,low-visibility,5
+351,47,B,D2T1,D2T1-9,D2T1 (9).JPG,-0.226891,120.006955,Donggulu ,https://lh3.googleusercontent.com/d/1VoKRMt803IZ3LHlP9QYVO4ZAf5ehnSDj,Terumbu karang,low-visibility,5
+352,48,B,D2T1,D2T1-10,D2T1 (10).JPG,-0.226925,120.006943,Donggulu ,https://lh3.googleusercontent.com/d/1s0y3s3_9rPw8Bbw4YUGGstBlRd3SYSJy,Terumbu karang,low-visibility,5
+353,49,B,D2T1,D2T1-11,D2T1 (11).JPG,-0.226959,120.00693,Donggulu ,https://lh3.googleusercontent.com/d/1QG4UsjjELT_bPATI0z-PdkOjkcZbp8uV,Terumbu karang,low-visibility,5
+354,50,B,D2T1,D2T1-12,D2T1 (12).JPG,-0.226993,120.006918,Donggulu ,https://lh3.googleusercontent.com/d/1_0OkCi4NNSHrij6K6Sp-3LiQz8iYPzSB,Terumbu karang,low-visibility,5
+355,51,B,D2T1,D2T1-13,D2T1 (13).JPG,-0.227027,120.006906,Donggulu ,https://lh3.googleusercontent.com/d/1dSJXa-IrktidpGrcXUY9CIk_jqK5hLCb,Terumbu karang,low-visibility,5
+356,52,B,D2T1,D2T1-14,D2T1 (14).JPG,-0.227061,120.006893,Donggulu ,https://lh3.googleusercontent.com/d/1QK1LBP8n_ZDX4DVQBbYsjnrTxFODeLEB,Terumbu karang,low-visibility,5
+357,53,B,D2T1,D2T1-15,D2T1 (15).JPG,-0.227095,120.006881,Donggulu ,https://lh3.googleusercontent.com/d/1WIhnrTghDipzS7b1Tr4hZiiq4IPh-Wse,Terumbu karang,low-visibility,5
+358,54,B,D2T1,D2T1-16,D2T1 (16).JPG,-0.227129,120.006869,Donggulu ,https://lh3.googleusercontent.com/d/1CsIWnQyo_KbwUbB4stspvonE158xzGy5,Terumbu karang,low-visibility,5
+359,55,B,D2T1,D2T1-17,D2T1 (17).JPG,-0.227162,120.006857,Donggulu ,https://lh3.googleusercontent.com/d/1tgtSIqdc9HoGR4759-6TJDrfaIieJgTV,Terumbu karang,low-visibility,5
+360,56,B,D2T1,D2T1-18,D2T1 (18).JPG,-0.227196,120.006844,Donggulu ,https://lh3.googleusercontent.com/d/1dd62ygXVu8c6k7CjOuXEkX6nfGMXiXRV,Terumbu karang,low-visibility,5
+361,57,B,D2T1,D2T1-19,D2T1 (19).JPG,-0.22723,120.006832,Donggulu ,https://lh3.googleusercontent.com/d/1mB1FFSlk37a5TkZOTFWTvDqY6RpaPj_f,Terumbu karang,Terumbu karang kondisi baik,5
+362,58,B,D2T1,D2T1-20,D2T1 (20).JPG,-0.227264,120.00682,Donggulu ,https://lh3.googleusercontent.com/d/1GDHFt2391NSXNQCec0ritX5LwVTmfaDu,Terumbu karang,Terumbu karang kondisi baik,5
+363,59,B,D2T1,D2T1-21,D2T1 (21).JPG,-0.227298,120.006807,Donggulu ,https://lh3.googleusercontent.com/d/1TOUanzZmJVORdA53qulT0CBtlnL6958S,Substrat terbuka,Pecahan karang,5
+364,60,B,D2T1,D2T1-22,D2T1 (22).JPG,-0.227332,120.006795,Donggulu ,https://lh3.googleusercontent.com/d/17BbrZ38nuCec9sJrznLTorz27E1SB1nU,Terumbu karang,Terumbu karang kondisi baik,5
+365,61,B,D2T1,D2T1-23,D2T1 (23).JPG,-0.227366,120.006783,Donggulu ,https://lh3.googleusercontent.com/d/14WyiB-iG_J6YVRt9msVwJ2bRHLk9VsLs,Terumbu karang,Terumbu karang kondisi baik,5
+366,62,B,D2T1,D2T1-24,D2T1 (24).JPG,-0.2274,120.006771,Donggulu ,https://lh3.googleusercontent.com/d/1kaDv77of2S2CVJjeh27pae31Wz3LKgRc,Terumbu karang,Terumbu karang kondisi baik,5
+367,63,B,D2T1,D2T1-25,D2T1 (25).JPG,-0.227434,120.006758,Donggulu ,https://lh3.googleusercontent.com/d/1ZraweAQGOMC4qIYuWoSBFZyEUQEZ67-j,Terumbu karang,Terumbu karang kondisi baik,5
+368,64,B,D2T1,D2T1-26,D2T1 (26).JPG,-0.227468,120.006746,Donggulu ,https://lh3.googleusercontent.com/d/1uUG4knAbFvGD93UFuAWdozAsWrGtAqGh,Terumbu karang,Terumbu karang kondisi baik,5
+369,65,B,D2T1,D2T1-27,D2T1 (27).JPG,-0.227502,120.006734,Donggulu ,https://lh3.googleusercontent.com/d/1r4sxdgKDw78McafmIDdqTrCv-W7DXDMa,Terumbu karang,Terumbu karang kondisi baik,5
+370,66,B,D2T1,D2T1-28,D2T1 (28).JPG,-0.227536,120.006721,Donggulu ,https://lh3.googleusercontent.com/d/1NNio11Y6YkeqTgOahG-RezizCzmYB0Hd,Terumbu karang,Terumbu karang kondisi baik,5
+371,67,B,D2T1,D2T1-29,D2T1 (29).JPG,-0.22757,120.006709,Donggulu ,https://lh3.googleusercontent.com/d/1ulPfqavOvosr94aHcFHFayQrNDuTMRBr,Terumbu karang,Terumbu karang kondisi baik,5
+372,68,B,D2T2,D2T2-1,D2T2 (1).JPG,-0.224255,120.008275,Donggulu ,https://lh3.googleusercontent.com/d/1Dp50Mspty1dyOdPPJxqLukE5Vkb4p588,Padang lamun,Padang lamun campur rumput laut,5
+373,69,B,D2T2,D2T2-2,D2T2 (2).JPG,-0.22422,120.008281,Donggulu ,https://lh3.googleusercontent.com/d/1G1IhqO5e4z5ox3YLSwFFaa5hh-oC7R8Y,Padang lamun,Padang lamun campur rumput laut,5
+374,70,B,D2T2,D2T2-3,D2T2 (3).JPG,-0.224184,120.008287,Donggulu ,https://lh3.googleusercontent.com/d/1FxuqBSxHAy7SEbXF257BtxKEMdsWOip-,Padang lamun,Padang lamun campur rumput laut,5
+375,71,B,D2T2,D2T2-4,D2T2 (4).JPG,-0.224148,120.008293,Donggulu ,https://lh3.googleusercontent.com/d/1dEbUIE6AiGI_-iA18NYMafYGOkBgFiWg,Padang lamun,Padang lamun campur rumput laut,5
+376,72,B,D2T2,D2T2-5,D2T2 (5).JPG,-0.224113,120.0083,Donggulu ,https://lh3.googleusercontent.com/d/1WdDSBdxtAmnsDuxLzQ6XOeTulKgX7xMr,Padang lamun,Padang lamun campur rumput laut,5
+377,73,B,D2T2,D2T2-6,D2T2 (6).JPG,-0.224077,120.008306,Donggulu ,https://lh3.googleusercontent.com/d/1KXpfipTQbKE0CHIIKh0p6GOmniaay5Tq,Padang lamun,Padang lamun campur rumput laut,5
+378,74,B,D2T2,D2T2-7,D2T2 (7).JPG,-0.224042,120.008312,Donggulu ,https://lh3.googleusercontent.com/d/1Uubf2vJGde3N8XkG5W1kiGduy1pSMN8C,Padang lamun,Padang lamun campur rumput laut,5
+379,75,B,D2T2,D2T2-8,D2T2 (8).JPG,-0.224006,120.008318,Donggulu ,https://lh3.googleusercontent.com/d/1pawNiLtPSc6Vj2YnO2w1fe0QvSAtOPab,Padang lamun,Padang lamun campur rumput laut,5
+380,76,B,D2T2,D2T2-9,D2T2 (9).JPG,-0.223971,120.008324,Donggulu ,https://lh3.googleusercontent.com/d/1nM3X7ex5yiOTe81qemBbIX4EpvZpQ8BY,Padang lamun,Padang lamun campur rumput laut,5
+381,77,B,D2T2,D2T2-10,D2T2 (10).JPG,-0.223935,120.008331,Donggulu ,https://lh3.googleusercontent.com/d/1-J01JjbZ1nX9yVDxk55XE9Cne8XfudxY,Padang lamun,Padang lamun campur rumput laut,5
+382,78,B,D2T2,D2T2-11,D2T2 (11).JPG,-0.223899,120.008337,Donggulu ,https://lh3.googleusercontent.com/d/1PesHwtuiHPCAN90mU8So8iyVvDgcglVS,Padang lamun,Padang lamun campur rumput laut,5
+383,79,B,D2T2,D2T2-12,D2T2 (12).JPG,-0.223864,120.008343,Donggulu ,https://lh3.googleusercontent.com/d/1sXDTQrtTBl1zZO7w6uY3jT5692hkRbIk,Padang lamun,Padang lamun campur rumput laut,5
+384,80,B,D2T2,D2T2-13,D2T2 (13).JPG,-0.223828,120.008349,Donggulu ,https://lh3.googleusercontent.com/d/1N29xKylY3UODbBZFpIDPJ9dgEmEdUyPF,Padang lamun,Padang lamun campur rumput laut,5
+385,81,B,D2T2,D2T2-14,D2T2 (14).JPG,-0.223793,120.008356,Donggulu ,https://lh3.googleusercontent.com/d/1gBhQlEzk1mJslEV8vD3GfRWxlHV6AdWR,Padang lamun,Padang lamun campur rumput laut,5
+386,82,B,D2T2,D2T2-15,D2T2 (15).JPG,-0.223757,120.008362,Donggulu ,https://lh3.googleusercontent.com/d/1WSsUzCHEzsDbgXEJFjX3CTif607do02V,Padang lamun,Padang lamun campur rumput laut,5
+387,83,B,D2T2,D2T2-16,D2T2 (16).JPG,-0.223721,120.008368,Donggulu ,https://lh3.googleusercontent.com/d/1IYGKO38q0fXSesAL2u6-as3qwK5W5LPV,Makroalga,Rumput laut,5
+388,84,B,D2T2,D2T2-17,D2T2 (17).JPG,-0.223686,120.008374,Donggulu ,https://lh3.googleusercontent.com/d/1VvDybwivSWhRNe8DQozmISaIBNeOQnFN,Makroalga,Rumput laut,5
+389,85,B,D2T2,D2T2-18,D2T2 (18).JPG,-0.22365,120.008381,Donggulu ,https://lh3.googleusercontent.com/d/1-zuo8t6R8doo5-Y3ansqoh5aZPD96_x_,Padang lamun,Padang lamun campur rumput laut,5
+390,86,B,D2T2,D2T2-19,D2T2 (19).JPG,-0.223615,120.008387,Donggulu ,https://lh3.googleusercontent.com/d/1DmpEBsgDjRWGImz9bghefxWIjsKHNeu_,Padang lamun,Padang lamun campur rumput laut,5
+391,87,B,D2T2,D2T2-20,D2T2 (20).JPG,-0.223579,120.008393,Donggulu ,https://lh3.googleusercontent.com/d/1dHtOdalXona63xhKVpx8DytYyrPMVe0L,Padang lamun,Padang lamun campur rumput laut,5
+392,88,B,D2T2,D2T2-21,D2T2 (21).JPG,-0.223543,120.008399,Donggulu ,https://lh3.googleusercontent.com/d/106a00-w3H2zqU9aadSzEF6ZjfndiA8XL,Padang lamun,Padang lamun campur rumput laut,5
+393,89,B,D2T2,D2T2-22,D2T2 (22).JPG,-0.223508,120.008406,Donggulu ,https://lh3.googleusercontent.com/d/1bjxwZVoWNqw6R3SkZ-Ps2_bKpDBchBsL,Padang lamun,Padang lamun campur rumput laut,5
+394,90,B,D2T2,D2T2-23,D2T2 (23).JPG,-0.223472,120.008412,Donggulu ,https://lh3.googleusercontent.com/d/1CAgxxJMtIR6mG0P3B52IXVtWdOTdr2Ls,Padang lamun,Padang lamun campur rumput laut,5
+395,91,B,D2T2,D2T2-24,D2T2 (24).JPG,-0.223437,120.008418,Donggulu ,https://lh3.googleusercontent.com/d/1IlqM31rtlTGEfgRb0LyHNc0X5ZGBXP2E,Padang lamun,Padang lamun campur rumput laut,5
+396,92,B,D2T2,D2T2-25,D2T2 (25).JPG,-0.223401,120.008424,Donggulu ,https://lh3.googleusercontent.com/d/1BNUAefQ_7skOFpoysc6TVgruBBV1pXqZ,Padang lamun,Padang lamun campur rumput laut,5
+397,93,B,D2T2,D2T2-26,D2T2 (26).JPG,-0.223366,120.008431,Donggulu ,https://lh3.googleusercontent.com/d/1xU1M_sCWTKosNVumofs2SQZHZv62k1c6,Padang lamun,Lamun,5
+398,94,B,D2T2,D2T2-27,D2T2 (27).JPG,-0.22333,120.008437,Donggulu ,https://lh3.googleusercontent.com/d/16A5AI62y2ouLKfGpb1jtterJkF3IHT6k,Makroalga,Rumput laut,5
+399,95,B,D2T2,D2T2-28,D2T2 (28).JPG,-0.223294,120.008443,Donggulu ,https://lh3.googleusercontent.com/d/1j6XB8FH3KmEg7PnuLVGVkDegmLtEzkM2,Padang lamun,Padang lamun campur rumput laut,5
+400,96,B,D2T2,D2T2-29,D2T2 (29).JPG,-0.223259,120.008449,Donggulu ,https://lh3.googleusercontent.com/d/1CzR7f2mCLqDqadz6jr9llieAGrAPg6Mw,Makroalga,Rumput laut,5
+401,97,B,D2T2,D2T2-30,D2T2 (30).JPG,-0.223223,120.008456,Donggulu ,https://lh3.googleusercontent.com/d/1ytidt4mtLurCJS3mmjyG8W-X9TCm3gg4,Makroalga,Rumput laut,5
+402,98,B,D2T2,D2T2-31,D2T2 (31).JPG,-0.223116,120.008562,Donggulu ,https://lh3.googleusercontent.com/d/1o_eqNMmkcqfzvHt-3WAIKpbdG_dWO5XI,Padang lamun,Padang lamun campur rumput laut,5
+403,99,B,D2T2,D2T2-32,D2T2 (32).JPG,-0.223152,120.008555,Donggulu ,https://lh3.googleusercontent.com/d/1OAHJzYJqrS-BgPbhbZr9zvkL0MFNusTO,Padang lamun,Padang lamun campur rumput laut,5
+404,100,B,D2T2,D2T2-33,D2T2 (33).JPG,-0.223188,120.008549,Donggulu ,https://lh3.googleusercontent.com/d/1veXSYRnOYn-bc1REZwv-owMRbeuTt5LC,Makroalga,Rumput laut,5
+405,101,B,D2T2,D2T2-34,D2T2 (34).JPG,-0.223223,120.008543,Donggulu ,https://lh3.googleusercontent.com/d/1Dwv71jDcjM-ziQ3L_ZCO2hwE4inSoURi,Makroalga,Rumput laut,5
+406,102,B,D2T2,D2T2-35,D2T2 (35).JPG,-0.223259,120.008537,Donggulu ,https://lh3.googleusercontent.com/d/1XWQW5bdEcThM3tr65tbwBiLjCteQ5yJI,Padang lamun,Padang lamun campur rumput laut,5
+407,103,B,D2T2,D2T2-36,D2T2 (36).JPG,-0.223294,120.00853,Donggulu ,https://lh3.googleusercontent.com/d/1x2z5vEJNkreUtJUitPj3HjNaWVagKNr4,Padang lamun,Padang lamun campur rumput laut,5
+408,104,B,D2T2,D2T2-37,D2T2 (37).JPG,-0.22333,120.008524,Donggulu ,https://lh3.googleusercontent.com/d/1yyO_LIFl8bA4cL5o82-FETy-EIihHJsk,Padang lamun,Padang lamun campur rumput laut,5
+409,105,B,D2T2,D2T2-38,D2T2 (38).JPG,-0.223366,120.008518,Donggulu ,https://lh3.googleusercontent.com/d/13ntC3u3R3ZcgtdA_xh9longPTeHhbQMm,Padang lamun,Padang lamun campur rumput laut,5
+410,106,B,D2T2,D2T2-39,D2T2 (39).JPG,-0.223401,120.008512,Donggulu ,https://lh3.googleusercontent.com/d/1sCI74u__nZaHw_ud13tbYwqSQLkrnd3X,Padang lamun,Lamun,5
+411,107,B,D2T2,D2T2-40,D2T2 (40).JPG,-0.223437,120.008505,Donggulu ,https://lh3.googleusercontent.com/d/1algMgwhcpOZe0l7qjE4NS_fO1j4GN50y,Padang lamun,Padang lamun campur rumput laut,5
+412,108,B,D2T2,D2T2-41,D2T2 (41).JPG,-0.223472,120.008499,Donggulu ,https://lh3.googleusercontent.com/d/1_amq1bbQPQZfTsEqBl9s64lK_AomEYqA,Padang lamun,Padang lamun campur rumput laut,5
+413,109,B,D2T2,D2T2-42,D2T2 (42).JPG,-0.223508,120.008493,Donggulu ,https://lh3.googleusercontent.com/d/14cR1wHLTAJuZYrwLVmP5pYKoq3xzHe6Z,Padang lamun,Lamun,5
+414,110,B,D2T2,D2T2-43,D2T2 (43).JPG,-0.223543,120.008487,Donggulu ,https://lh3.googleusercontent.com/d/1tpM0398aZD4nHCtEAlUs2Klh7UzhWZsE,Padang lamun,Lamun,5
+415,111,B,D2T2,D2T2-44,D2T2 (44).JPG,-0.223579,120.00848,Donggulu ,https://lh3.googleusercontent.com/d/1uwzt9MRvOUPizanZkwyZzFCnZ0-VXeBo,Padang lamun,Lamun,5
+416,112,B,D2T2,D2T2-45,D2T2 (45).JPG,-0.223615,120.008474,Donggulu ,https://lh3.googleusercontent.com/d/1YNpZmnGcv-oxQfCEaMPY6o9FRkDv3xuE,Makroalga,Karang berlumut,5
+417,113,B,D2T2,D2T2-46,D2T2 (46).JPG,-0.22365,120.008468,Donggulu ,https://lh3.googleusercontent.com/d/1eUUXHHiBZw8WPUo5GwHgMoEUQ4mdUfkb,Makroalga,Karang berlumut,5
+418,114,B,D2T2,D2T2-47,D2T2 (47).JPG,-0.223686,120.008462,Donggulu ,https://lh3.googleusercontent.com/d/1gOl7Zu-1olGYCBVinznw5g6ZxKxvKLie,Padang lamun,Lamun,5
+419,115,B,D2T2,D2T2-48,D2T2 (48).JPG,-0.223721,120.008456,Donggulu ,https://lh3.googleusercontent.com/d/17yCfhVncJ1RWj5hTYo5mqcCgjyylFeud,Makroalga,Karang berlumut,5
+420,116,B,D2T2,D2T2-49,D2T2 (49).JPG,-0.223757,120.008449,Donggulu ,https://lh3.googleusercontent.com/d/1F-55TaXWIHecXscNdvPe9rcWQ5rEsAc4,Padang lamun,Padang lamun campur rumput laut,5
+421,117,B,D2T2,D2T2-50,D2T2 (50).JPG,-0.223793,120.008443,Donggulu ,https://lh3.googleusercontent.com/d/1mcd0jGrUd20NzC6ouiVlcgdtGhLN4pIy,Makroalga,Rumput laut,5
+422,118,B,D2T2,D2T2-51,D2T2 (51).JPG,-0.223828,120.008437,Donggulu ,https://lh3.googleusercontent.com/d/1Nkm9kH27LZsEpCYjVkMxRDk5WflnA2Q6,Makroalga,Karang berlumut,5
+423,119,B,D2T2,D2T2-52,D2T2 (52).JPG,-0.223864,120.008431,Donggulu ,https://lh3.googleusercontent.com/d/1pe0ZP6urS_qgXVl0O6C6C7YlfSl8Mt_U,Makroalga,Karang berlumut,5
+424,120,B,D2T2,D2T2-53,D2T2 (53).JPG,-0.223899,120.008424,Donggulu ,https://lh3.googleusercontent.com/d/1AiPM3IgbDgMnb_CtbY3RsHJD7Q5dQQE5,Makroalga,Rumput laut,5
+425,121,B,D2T2,D2T2-54,D2T2 (54).JPG,-0.223935,120.008418,Donggulu ,https://lh3.googleusercontent.com/d/1NN8eqUBoYAO-d5DEkBcBl25nhhPd2tTU,Makroalga,Rumput laut,5
+426,122,B,D2T2,D2T2-55,D2T2 (55).JPG,-0.223971,120.008412,Donggulu ,https://lh3.googleusercontent.com/d/1PxbxDVs4yq_3QXRFAE6cBLCbRbv1OETg,Makroalga,Rumput laut,5
+427,123,B,D2T2,D2T2-56,D2T2 (56).JPG,-0.224006,120.008406,Donggulu ,https://lh3.googleusercontent.com/d/1zDX7g4h02tkPMlKlpLduwgkmDjZ6En_p,Makroalga,Rumput laut,5
+428,124,B,D2T2,D2T2-57,D2T2 (57).JPG,-0.224042,120.008399,Donggulu ,https://lh3.googleusercontent.com/d/1k4rtFkhK6jupLo2-ofpmOvxkQPWZIOiN,Makroalga,Rumput laut,5
+429,125,B,D2T2,D2T2-58,D2T2 (58).JPG,-0.224077,120.008393,Donggulu ,https://lh3.googleusercontent.com/d/15t1lPlevVzwTJmYILt8usU7v1s7Fyq4A,Padang lamun,Padang lamun campur rumput laut,5
+430,126,B,D2T2,D2T2-59,D2T2 (59).JPG,-0.224113,120.008387,Donggulu ,https://lh3.googleusercontent.com/d/1UCDmmgCUCkea7ahgConebslineCyKaKz,Makroalga,Rumput laut,5
+431,127,B,D2T2,D2T2-60,D2T2 (60).JPG,-0.224148,120.008381,Donggulu ,https://lh3.googleusercontent.com/d/1ciB7f-wt7qq3usX8OIDcbGMdlxvYoVqI,Makroalga,Rumput laut,5
+432,128,B,D2T2,D2T2-61,D2T2 (61).JPG,-0.224184,120.008374,Donggulu ,https://lh3.googleusercontent.com/d/1NfrF2k0TXhL5x7l7PGX0Lat05QxVLW2w,Padang lamun,Padang lamun campur rumput laut,5
+433,129,B,D2T2,D2T2-62,D2T2 (62).JPG,-0.22422,120.008368,Donggulu ,https://lh3.googleusercontent.com/d/1ZWDtI9yX_FUnFSC2VdoLuxSXGdjjIBN-,Makroalga,Rumput laut,5
+434,130,B,D2T2,D2T2-63,D2T2 (63).JPG,-0.224255,120.008362,Donggulu ,https://lh3.googleusercontent.com/d/167LHt1-Y-UGQPpHfekotDChBZ4lp3iRl,Makroalga,Rumput laut,5
+435,131,B,D2T2,D2T2-64,D2T2 (64).JPG,-0.224291,120.008356,Donggulu ,https://lh3.googleusercontent.com/d/1NiEPZNm14Z36jOMp1CkXgUwliGwBSsq8,Makroalga,Rumput laut,5
+436,132,B,D2T2,D2T2-65,D2T2 (65).JPG,-0.224326,120.008349,Donggulu ,https://lh3.googleusercontent.com/d/1B23OXXJJUHxF_zypJEKbvw3wDwfO9uds,Makroalga,Rumput laut,5
+437,133,B,D2T2,D2T2-66,D2T2 (66).JPG,-0.224362,120.008343,Donggulu ,https://lh3.googleusercontent.com/d/1sCMXXnm1pVG8tFI4EHppYuhIfh8BcyQw,Padang lamun,Padang lamun campur rumput laut,5
+438,134,B,D2T2,D2T2-67,D2T2 (67).JPG,-0.224398,120.008337,Donggulu ,https://lh3.googleusercontent.com/d/1komMPPoqT7qwMNt2zsGg2AsWZLLhwJ9n,Padang lamun,Padang lamun campur rumput laut,5
+439,135,B,D2T2,D2T2-68,D2T2 (68).JPG,-0.224433,120.008331,Donggulu ,https://lh3.googleusercontent.com/d/1q7a_Nk5FqSrOydz9HKNRqTHpqcp5QwQ1,Padang lamun,Padang lamun campur rumput laut,5
+440,136,B,D2T2,D2T2-69,D2T2 (69).JPG,-0.224469,120.008324,Donggulu ,https://lh3.googleusercontent.com/d/1Tuy77w78oqSIDxrqVB-UMInfrIZqm_X6,Padang lamun,Padang lamun campur rumput laut,5
+441,137,B,D2T2,D2T2-70,D2T2 (70).JPG,-0.224504,120.008318,Donggulu ,https://lh3.googleusercontent.com/d/1qdPvln3I_rPs5pL46mGGRYYGAnX11ciT,Makroalga,Rumput laut,5
+442,138,B,D2T2,D2T2-71,D2T2 (71).JPG,-0.22454,120.008312,Donggulu ,https://lh3.googleusercontent.com/d/1GIQLlpaTdG7JrKffssEWy8XJnhP2IK_w,Makroalga,Rumput laut,5
+443,139,B,D2T2,D2T2-72,D2T2 (72).JPG,-0.224576,120.008306,Donggulu ,https://lh3.googleusercontent.com/d/1mXZqBUSLTuz6f8_eqa6lVto4mWR30NG5,Makroalga,Rumput laut,5
+444,140,B,D2T3,D2T3-1,D2T3 (1).JPG,-0.223805,120.008515,Donggulu ,https://lh3.googleusercontent.com/d/18ayE_-ZPoJBIY3FL8rrbCSKW8i4WH2ep,Terumbu karang,Terumbu karang kondisi baik,5
+445,141,B,D2T3,D2T3-2,D2T3 (2).JPG,-0.223836,120.008533,Donggulu ,https://lh3.googleusercontent.com/d/1B49KhfbnP2Q8DYWEW6PxNjrzlW3YkHgv,Terumbu karang,Terumbu karang kondisi baik,5
+446,142,B,D2T3,D2T3-3,D2T3 (3).JPG,-0.223867,120.008551,Donggulu ,https://lh3.googleusercontent.com/d/1rNvPDqV6JsqoahAthWnOpfXI9p2_PkQa,Terumbu karang,Terumbu karang kondisi baik,5
+447,143,B,D2T3,D2T3-4,D2T3 (4).JPG,-0.223898,120.008569,Donggulu ,https://lh3.googleusercontent.com/d/1740RqpA4PD3DPy8DDRSxP-qI4f10xGxR,Terumbu karang,Terumbu karang kondisi baik,5
+448,144,B,D2T3,D2T3-5,D2T3 (5).JPG,-0.22393,120.008587,Donggulu ,https://lh3.googleusercontent.com/d/15wd4Y3SSuvOv4t9GIFcbZ9vM6Phsvo_x,Terumbu karang,Terumbu karang kondisi baik,5
+449,145,B,D2T3,D2T3-6,D2T3 (6).JPG,-0.223961,120.008605,Donggulu ,https://lh3.googleusercontent.com/d/1l3xZKBh-7qoHR59F7ZfmgN-iF5UxqVDO,Makroalga,Karang berlumut,5
+450,146,B,D2T3,D2T3-7,D2T3 (7).JPG,-0.223992,120.008623,Donggulu ,https://lh3.googleusercontent.com/d/1EDb4hR_Y7QivOJeLTPgJSQki9Y43jr0_,Makroalga,Karang berlumut,5
+451,147,B,D2T3,D2T3-8,D2T3 (8).JPG,-0.224024,120.008641,Donggulu ,https://lh3.googleusercontent.com/d/1KT-gBjHegCi5TtWuChLqHOu-hJEANd3M,Makroalga,Karang berlumut,5
+452,148,B,D2T3,D2T3-9,D2T3 (9).JPG,-0.224055,120.008659,Donggulu ,https://lh3.googleusercontent.com/d/1NWvWNkxJr04YW-drSKY3pWL-HvR9JU5X,Makroalga,Karang berlumut,5
+453,149,B,D2T3,D2T3-10,D2T3 (10).JPG,-0.224086,120.008676,Donggulu ,https://lh3.googleusercontent.com/d/1hQvDWr4MYPAO3vv2pgdGX9bBgOB0aH-O,Makroalga,Karang berlumut,5
+454,150,B,D2T3,D2T3-11,D2T3 (11).JPG,-0.224118,120.008694,Donggulu ,https://lh3.googleusercontent.com/d/1Tdme3Pocjv_BOJA35iF9V5Mz37ssFECa,Makroalga,Karang berlumut,5
+455,151,B,D2T3,D2T3-12,D2T3 (12).JPG,-0.224149,120.008712,Donggulu ,https://lh3.googleusercontent.com/d/1iAegNMLXFsz7jEBO0wMcy6YF6wEaz3El,Makroalga,Karang berlumut,5
+456,152,B,D2T3,D2T3-13,D2T3 (13).JPG,-0.22418,120.00873,Donggulu ,https://lh3.googleusercontent.com/d/1Or5JLg5ErTVlrOgeLzeN23GrrRyeb5Gq,Makroalga,Karang berlumut,5
+457,153,B,D2T3,D2T3-14,D2T3 (14).JPG,-0.224211,120.008748,Donggulu ,https://lh3.googleusercontent.com/d/1DlkmFiWL0xgKICaignd1RY-5vt97-fQz,Makroalga,Karang berlumut,5
+458,154,B,D2T3,D2T3-15,D2T3 (15).JPG,-0.224243,120.008766,Donggulu ,https://lh3.googleusercontent.com/d/1lUGDjiwOqRF0rpUdZSuL9gaCk7emuSRo,Makroalga,Karang berlumut,5
+459,155,B,D2T3,D2T3-16,D2T3 (16).JPG,-0.224274,120.008784,Donggulu ,https://lh3.googleusercontent.com/d/1EQvshK14X2BkDfWHpzNPgfWgYwLUOqcS,Makroalga,Rumput laut,5
+460,156,B,D2T3,D2T3-17,D2T3 (17).JPG,-0.224305,120.008802,Donggulu ,https://lh3.googleusercontent.com/d/1ants5ulQoh1W_jrEu_cJyEy-cdbXzkeZ,Makroalga,Rumput laut,5
+461,157,B,D2T3,D2T3-18,D2T3 (18).JPG,-0.224337,120.00882,Donggulu ,https://lh3.googleusercontent.com/d/13eAua8bSRC-Ql_rKNVSidnfpOKSMFDJX,Makroalga,Rumput laut,5
+462,158,B,D2T3,D2T3-19,D2T3 (19).JPG,-0.224368,120.008838,Donggulu ,https://lh3.googleusercontent.com/d/1HtXYT2jCbWgongIpyl3_zGbPsBRuGdsG,Makroalga,Rumput laut,5
+463,159,B,D2T3,D2T3-20,D2T3 (20).JPG,-0.224399,120.008856,Donggulu ,https://lh3.googleusercontent.com/d/1gILVrj2kH9XDBQ0hwZ_NwHSjiCO3mzk7,Makroalga,Rumput laut,5
+464,160,B,D2T3,D2T3-21,D2T3 (21).JPG,-0.224431,120.008874,Donggulu ,https://lh3.googleusercontent.com/d/1PT1ETGbLp1OQ3leTGdzotDA-jv6K7gmr,Makroalga,Karang berlumut,5
+465,161,B,D2T3,D2T3-22,D2T3 (22).JPG,-0.224462,120.008892,Donggulu ,https://lh3.googleusercontent.com/d/1sM2DwH5W6OUAPiwi2aA_5aRVjtsKO-qU,Makroalga,Karang berlumut,5
+466,162,B,D2T3,D2T3-23,D2T3 (23).JPG,-0.224493,120.00891,Donggulu ,https://lh3.googleusercontent.com/d/1E-4ZQsM4B947deJdAFWxXa8G4M2W52hO,Makroalga,Rumput laut,5
+467,163,B,D2T3,D2T3-24,D2T3 (24).JPG,-0.224524,120.008928,Donggulu ,https://lh3.googleusercontent.com/d/1Rd_P5d66UI1bOzVN3QpDeic0Tw39uGBD,Makroalga,Rumput laut,5
+468,164,B,D2T3,D2T3-25,D2T3 (25).JPG,-0.224556,120.008946,Donggulu ,https://lh3.googleusercontent.com/d/1MlFJlsRX_F0l8ATGYlsKVeRiPhPbYese,Makroalga,Rumput laut,5
+469,165,B,D2T3,D2T3-26,D2T3 (26).JPG,-0.224587,120.008964,Donggulu ,https://lh3.googleusercontent.com/d/1QCEu1xJ7ExuqfI0Jcs0CJwu_-O8e3Paj,Makroalga,Rumput laut,5
+470,166,B,D2T3,D2T3-27,D2T3 (27).JPG,-0.224618,120.008981,Donggulu ,https://lh3.googleusercontent.com/d/1CHsF1EYUzn_OnstztsSkQttOFGm4_VjO,Makroalga,Rumput laut,5
+471,167,B,D2T3,D2T3-28,D2T3 (28).JPG,-0.22465,120.008999,Donggulu ,https://lh3.googleusercontent.com/d/1O5LeaZgm1sjfw1EoX7wxeTTOiyh3MpaO,Makroalga,Rumput laut,5
+472,168,B,D2T3,D2T3-29,D2T3 (29).JPG,-0.224681,120.009017,Donggulu ,https://lh3.googleusercontent.com/d/1pnI222lDRCPVqU9HMThQ6ZpqK4axpF4C,Makroalga,Rumput laut,5
+473,169,B,D2T3,D2T3-30,D2T3 (30).JPG,-0.224712,120.009035,Donggulu ,https://lh3.googleusercontent.com/d/16NyiIsNFYrKI92OFS8laRHQlZuQqhYk0,Makroalga,Rumput laut,5
+474,170,B,D2T3,D2T3-31,D2T3 (31).JPG,-0.224744,120.009053,Donggulu ,https://lh3.googleusercontent.com/d/1_oGMsakkv8FqgK5k6bdzbhR-bNSzjwoX,Makroalga,Rumput laut,5
+475,171,B,D2T3,D2T3-32,D2T3 (32).JPG,-0.224775,120.009071,Donggulu ,https://lh3.googleusercontent.com/d/1e67lWu6I-V4buUxuVLkvtQbd87T-CApq,Makroalga,Rumput laut,5
+476,172,B,D2T4,D2T4-1,D2T4 (1).JPG,-0.223526,120.008333,Donggulu ,https://lh3.googleusercontent.com/d/1NKH845Ch1r1j7YOYpLdcWViN3J1nZJXd,Makroalga,Rumput laut,5
+477,173,B,D2T4,D2T4-2,D2T4 (2).JPG,-0.223538,120.008299,Donggulu ,https://lh3.googleusercontent.com/d/1UEX7XarZ6GZRnib7ATxhWDudrDN_jncr,Makroalga,Rumput laut,5
+478,174,B,D2T4,D2T4-3,D2T4 (3).JPG,-0.22355,120.008266,Donggulu ,https://lh3.googleusercontent.com/d/1VqpVG4vRgLy4Y1rJpnr_a9eqdfXBELMi,Makroalga,Rumput laut,5
+479,175,B,D2T4,D2T4-4,D2T4 (4).JPG,-0.223563,120.008232,Donggulu ,https://lh3.googleusercontent.com/d/11cVwIY53CHUUroYcooMld2o5TKnQFO5-,Makroalga,Rumput laut,5
+480,176,B,D2T4,D2T4-5,D2T4 (5).JPG,-0.223575,120.008198,Donggulu ,https://lh3.googleusercontent.com/d/1ZEel6DKk6IiJDJA4OIVAsSJMgZwdCFbq,Makroalga,Rumput laut,5
+481,177,B,D2T4,D2T4-6,D2T4 (6).JPG,-0.223587,120.008164,Donggulu ,https://lh3.googleusercontent.com/d/1GzD9WNAIU2KJalP-fDPA3vXfPxby0CP8,Makroalga,Rumput laut,5
+482,178,B,D2T4,D2T4-7,D2T4 (7).JPG,-0.2236,120.008131,Donggulu ,https://lh3.googleusercontent.com/d/1m5G7IObacmsSkbhQ3YzMBKR56iCxXE0n,Makroalga,Rumput laut,5
+483,179,B,D2T4,D2T4-8,D2T4 (8).JPG,-0.223612,120.008097,Donggulu ,https://lh3.googleusercontent.com/d/1aQvY-N0C0o-UWB7HPXh8zIAAJ_sJIBC1,Padang lamun,Padang lamun campur rumput laut,5
+484,180,B,D2T4,D2T4-9,D2T4 (9).JPG,-0.223624,120.008063,Donggulu ,https://lh3.googleusercontent.com/d/1iZBPrrM3KCnRZYWsVhhusx6OFN9w5BC7,Padang lamun,Padang lamun campur rumput laut,5
+485,181,B,D2T4,D2T4-10,D2T4 (10).JPG,-0.223637,120.008029,Donggulu ,https://lh3.googleusercontent.com/d/19UTpotiqtfCEnRvH3HMBb7AaDzZ-C08I,Makroalga,Rumput laut,5
+486,182,B,D2T4,D2T4-11,D2T4 (11).JPG,-0.223649,120.007996,Donggulu ,https://lh3.googleusercontent.com/d/12xdszIzqVnfXFnGGkjwIgUz_VSqF4D79,Makroalga,Rumput laut,5
+487,183,B,D2T4,D2T4-12,D2T4 (12).JPG,-0.223661,120.007962,Donggulu ,https://lh3.googleusercontent.com/d/162LWkN9xgGBQ_XGepWbtUKLrAZ8CkGQI,Makroalga,Rumput laut,5
+488,184,B,D2T4,D2T4-13,D2T4 (13).JPG,-0.223674,120.007928,Donggulu ,https://lh3.googleusercontent.com/d/1DVg5BS9uxeKedFIa6vLvEo4dSMXvLkVZ,Padang lamun,Padang lamun campur rumput laut,5
+489,185,B,D2T4,D2T4-14,D2T4 (14).JPG,-0.223686,120.007894,Donggulu ,https://lh3.googleusercontent.com/d/10LPQzZW5VzVkFJqqSj_qPRqcVcP5js5y,Makroalga,Rumput laut,5
+490,186,B,D2T4,D2T4-15,D2T4 (15).JPG,-0.223698,120.007861,Donggulu ,https://lh3.googleusercontent.com/d/183PG2VDnHGAU6jRAPPs2uqi2xdbkpKiE,Makroalga,Rumput laut,5
+491,187,B,D2T4,D2T4-16,D2T4 (16).JPG,-0.223711,120.007827,Donggulu ,https://lh3.googleusercontent.com/d/1xoc0gs_-V39XEKyAX8-OWFk2ox83wEwW,Makroalga,Rumput laut,5
+492,188,B,D2T4,D2T4-17,D2T4 (17).JPG,-0.223723,120.007793,Donggulu ,https://lh3.googleusercontent.com/d/1ogT5_tMI0zUmkKPJGaAbnIHToACEqzrc,Padang lamun,Padang lamun campur rumput laut,5
+493,189,B,D2T4,D2T4-18,D2T4 (18).JPG,-0.223736,120.00776,Donggulu ,https://lh3.googleusercontent.com/d/1AOdlhrMzOvS2RBBNKFuJf-HTPmgw3PKN,Padang lamun,Padang lamun campur rumput laut,5
+494,190,B,D2T4,D2T4-19,D2T4 (19).JPG,-0.223748,120.007726,Donggulu ,https://lh3.googleusercontent.com/d/1uiBcYZ94_E94O8GQ3fBWaGn8ruHq1rbi,Padang lamun,Padang lamun campur rumput laut,5
+495,191,B,D2T4,D2T4-20,D2T4 (20).JPG,-0.22376,120.007692,Donggulu ,https://lh3.googleusercontent.com/d/1c4-MfVu758waJqYnkfL06AeVaS_8ip7K,Padang lamun,Lamun,5
+496,192,B,D2T4,D2T4-21,D2T4 (21).JPG,-0.223773,120.007658,Donggulu ,https://lh3.googleusercontent.com/d/1RsyLMG7iO00yRmjRmZNZnk6t4KL9O6hU,Padang lamun,Padang lamun campur rumput laut,5
+497,193,B,D2T4,D2T4-22,D2T4 (22).JPG,-0.223785,120.007625,Donggulu ,https://lh3.googleusercontent.com/d/1PMGICSJqjJSil2-KnacTXeCl2NGL1Cql,Makroalga,Rumput laut,5
+498,194,B,D2T4,D2T4-23,D2T4 (23).JPG,-0.223797,120.007591,Donggulu ,https://lh3.googleusercontent.com/d/1ZoSTr14Gyki9dytDCUjxNfTqF1i4ho_8,Makroalga,Rumput laut,5
+499,195,B,D2T4,D2T4-24,D2T4 (24).JPG,-0.22381,120.007557,Donggulu ,https://lh3.googleusercontent.com/d/1R7JdngqtUjPgx548S3Ff1Kt85ymGqmYX,Padang lamun,Lamun,5
+500,196,B,D2E1,D2E1-1,D2E1 (1).JPG,-0.226973,120.006837,Donggulu ,https://lh3.googleusercontent.com/d/1_pL0XXNd7YqAc57MgOxBN_AYTK0xm6bu,Terumbu karang,Terumbu karang kondisi baik,5
+501,197,B,D2E1,D2E1-2,D2E1 (2).JPG,-0.227147,120.006792,Donggulu ,https://lh3.googleusercontent.com/d/18Vyn7Q2Zz0c5vtfuCkdvGK93ILmD7eeV,Terumbu karang,Terumbu karang kondisi baik,5
+502,198,B,D2E1,D2E1-3,D2E1 (3).JPG,-0.227182,120.006783,Donggulu ,https://lh3.googleusercontent.com/d/1RqUuFlrj8DS7Q-dOl6crKgsf4-8AcAlO,Terumbu karang,Terumbu karang kondisi baik,5
+503,199,B,D2E1,D2E1-4,D2E1 (4).JPG,-0.22717,120.006653,Donggulu ,https://lh3.googleusercontent.com/d/1gRMxEfF_DcOBJ6sq-XGJYgaSR0ZxB_KF,Terumbu karang,Terumbu karang kondisi baik,5
+504,200,B,D2E1,D2E1-5,D2E1 (5).JPG,-0.227147,120.00662,Donggulu ,https://lh3.googleusercontent.com/d/1NA3Vpv0JnPYpSxhtMezFxdoM_hLzyNU2,Padang lamun,Lamun,5
+505,201,B,D2E1,D2E1-6,D2E1 (6).JPG,-0.227138,120.006548,Donggulu ,https://lh3.googleusercontent.com/d/10QSzgLKaWJLQvBhEKuu6WYWMCrTtTPIP,Padang lamun,Padang lamun campur rumput laut,5
+506,202,B,D2E1,D2E1-7,D2E1 (7).JPG,-0.226953,120.006438,Donggulu ,https://lh3.googleusercontent.com/d/1E7knrmpKCRCLrHmX7CHRH90M0nSMJ82z,Padang lamun,Padang lamun campur rumput laut,5
+507,203,B,D2E1,D2E1-8,D2E1 (8).JPG,-0.226913,120.006489,Donggulu ,https://lh3.googleusercontent.com/d/1CcaFrFp9_KvzyxEEAUz7kOtuvlVjlR97,Padang lamun,Padang lamun campur rumput laut,5
+508,204,B,D2E1,D2E1-9,D2E1 (9).JPG,-0.226808,120.006488,Donggulu ,https://lh3.googleusercontent.com/d/1P2hvpmATHgMm15yIlagZ8YKzK8eoIQSf,Padang lamun,Padang lamun campur rumput laut,5
+509,205,B,D2E1,D2E1-10,D2E1 (10).JPG,-0.22679,120.006522,Donggulu ,https://lh3.googleusercontent.com/d/1KO2xj5y9k40gBE2h_tG0sDtkhLJAjJwA,Padang lamun,Padang lamun campur rumput laut,5
+510,206,B,D2E1,D2E1-11,D2E1 (11).JPG,-0.22672,120.006456,Donggulu ,https://lh3.googleusercontent.com/d/15sUVmvjAkXA7pqU0l_aGHA3Lo5434H4Y,Terumbu karang,Terumbu karang kondisi baik,5
+511,207,B,D2E1,D2E1-12,D2E1 (12).JPG,-0.226733,120.006493,Donggulu ,https://lh3.googleusercontent.com/d/1uqWRXzZtAeHxrZHcCATF7orHKJAnUzt_,Padang lamun,Padang lamun campur rumput laut,5
+512,208,B,D2E1,D2E1-13,D2E1 (13).JPG,-0.226655,120.006473,Donggulu ,https://lh3.googleusercontent.com/d/1wxlcv7pJr9zctSc3BizcZ8f5ZQ3yg9As,Terumbu karang,Terumbu karang kondisi baik,5
+513,209,B,D2E1,D2E1-14,D2E1 (14).JPG,-0.226393,120.006472,Donggulu ,https://lh3.googleusercontent.com/d/1FYtdfTKM8fONPzL9emB58XpNJE89d7Y9,Padang lamun,Lamun,5
+514,210,B,D2E1,D2E1-15,D2E1 (15).JPG,-0.226347,120.006533,Donggulu ,https://lh3.googleusercontent.com/d/1hBpdaTTCF1tzVhxkY4NYdtdiDjhS9D2r,Substrat terbuka,Substrat terbuka,5
+515,211,B,D2E1,D2E1-16,D2E1 (16).JPG,-0.226243,120.006585,Donggulu ,https://lh3.googleusercontent.com/d/1x81W3KunEKqre9qubdtizRbz1_l_aX7T,Substrat terbuka,Substrat terbuka,5
+516,212,B,D2E1,D2E1-17,D2E1 (17).JPG,-0.226182,120.00657,Donggulu ,https://lh3.googleusercontent.com/d/1xShoe5sySBgy_27nm7hnWUeA1MnuBFM2,Padang lamun,Padang lamun campur rumput laut,5
+517,213,B,D2E1,D2E1-18,D2E1 (18).JPG,-0.226113,120.006723,Donggulu ,https://lh3.googleusercontent.com/d/1yC49cz3Jh4QIHHTYPBVAd8MIQ7JbnxBD,Padang lamun,Padang lamun campur rumput laut,5
+518,214,B,D2E1,D2E1-19,D2E1 (19).JPG,-0.226118,120.006773,Donggulu ,https://lh3.googleusercontent.com/d/1y31Q17v42v7OuOmc3S19kD8Tdgq73_d3,Terumbu karang,Low-visibility,5
+519,215,B,D2E1,D2E1-20,D2E1 (20).JPG,-0.226085,120.006837,Donggulu ,https://lh3.googleusercontent.com/d/1ZCgW6libpmxQBqPWgkTke6B3VtnbraV4,Padang lamun,Padang lamun campur rumput laut,5
+520,216,B,D2E1,D2E1-21,D2E1 (21).JPG,-0.226053,120.006868,Donggulu ,https://lh3.googleusercontent.com/d/1raabUhQR0GjN-Pnto1QTx10m4k_JI9zr,Makroalga,Karang berlumut,5
+521,217,B,D2E1,D2E1-22,D2E1 (22).JPG,-0.225997,120.006893,Donggulu ,https://lh3.googleusercontent.com/d/1iWYC-qd8j_ToOqgk2QA-qufzf9qnxLX7,Terumbu karang,Terumbu karang kondisi baik,5
+522,218,B,D2E1,D2E1-23,D2E1 (23).JPG,-0.225993,120.00704,Donggulu ,https://lh3.googleusercontent.com/d/1UaP-bUlNTO3HY_QsZJuq9IdyzytFkWBA,Terumbu karang,Terumbu karang kondisi baik,5
+523,219,B,D2E1,D2E1-24,D2E1 (24).JPG,-0.226018,120.007043,Donggulu ,https://lh3.googleusercontent.com/d/1kwMuaeBCOzlex7-wkEfkikObIicG2Y4F,Padang lamun,Padang lamun campur rumput laut,5
+524,220,B,D2E1,D2E1-25,D2E1 (25).JPG,-0.225967,120.007095,Donggulu ,https://lh3.googleusercontent.com/d/1dhbHb9YqiN1eLzRdvkBruQ5tCApSZbUg,Padang lamun,Padang lamun campur rumput laut,5
+525,221,B,D3T1,D3T1-1,D3T1 (1).JPG,-0.083417,120.03532,Posona,https://lh3.googleusercontent.com/d/1Sm_QIcM_5vYpY6_T5RmwP1n-pN8s5LOZ,Terumbu karang,Terumbu karang kondisi baik,2
+526,222,B,D3T1,D3T1-2,D3T1 (2).JPG,-0.083435,120.035289,Posona,https://lh3.googleusercontent.com/d/1f4VrHcJ9HCsKs__bhpAEWSDvOxeS77Dy,Terumbu karang,Terumbu karang kondisi baik,2
+527,223,B,D3T1,D3T1-3,D3T1 (3).JPG,-0.083453,120.035258,Posona,https://lh3.googleusercontent.com/d/1m5beKXDfhUwBZ1vDvxVz-tl9NvW4D-JF,Terumbu karang,Terumbu karang kondisi baik,2
+528,224,B,D3T1,D3T1-4,D3T1 (4).JPG,-0.083471,120.035227,Posona,https://lh3.googleusercontent.com/d/1drqxdP7vpypULtxn6OcMgSnrzmGG2274,Terumbu karang,Terumbu karang kondisi baik,2
+529,225,B,D3T1,D3T1-5,D3T1 (5).JPG,-0.083489,120.035196,Posona,https://lh3.googleusercontent.com/d/1l7Y88crqMc3ceSIWvodegvQ2AJfqGIu-,Terumbu karang,Terumbu karang kondisi baik,2
+530,226,B,D3T1,D3T1-6,D3T1 (6).JPG,-0.083507,120.035165,Posona,https://lh3.googleusercontent.com/d/16jcq0lzJ8UnsIoS-s6cKFG0PD8nOxdCS,Terumbu karang,Terumbu karang kondisi baik,2
+531,227,B,D3T1,D3T1-7,D3T1 (7).JPG,-0.083525,120.035134,Posona,https://lh3.googleusercontent.com/d/121xgonQZNYI7iAHGSkh3Tz6CwyIqBZYR,Terumbu karang,Terumbu karang kondisi baik,2
+532,228,B,D3T1,D3T1-8,D3T1 (8).JPG,-0.083543,120.035103,Posona,https://lh3.googleusercontent.com/d/11jIDwNGuMB0FeEH67WVKx8snTdjMuG-a,Terumbu karang,Terumbu karang kondisi baik,2
+533,229,B,D3T1,D3T1-9,D3T1 (9).JPG,-0.083561,120.035071,Posona,https://lh3.googleusercontent.com/d/1aKxGsb1Uv-85IQrHdeeKs2V6E1eres9H,Terumbu karang,Terumbu karang kondisi baik,2
+534,230,B,D3T1,D3T1-10,D3T1 (10).JPG,-0.083579,120.03504,Posona,https://lh3.googleusercontent.com/d/16bnRiDa4a_oDisl2WN787st5A13SMvTU,Terumbu karang,Terumbu karang kondisi baik,2
+535,231,B,D3T1,D3T1-11,D3T1 (11).JPG,-0.083597,120.035009,Posona,https://lh3.googleusercontent.com/d/1o8_gxpQ9mDCW-npYE9amtG_8t8Dpcngx,Terumbu karang,Terumbu karang kondisi baik,2
+536,232,B,D3T1,D3T1-12,D3T1 (12).JPG,-0.083615,120.034978,Posona,https://lh3.googleusercontent.com/d/19CkqY4m25Ch_4NuuwRWcKtuREfxsXyX1,Terumbu karang,Terumbu karang kondisi baik,2
+537,233,B,D3T1,D3T1-13,D3T1 (13).JPG,-0.083633,120.034947,Posona,https://lh3.googleusercontent.com/d/1G4o63_MFuEW-NuLYatamp5F1zKbDi0D_,Terumbu karang,Terumbu karang kondisi baik,2
+538,234,B,D3T1,D3T1-14,D3T1 (14).JPG,-0.083652,120.034916,Posona,https://lh3.googleusercontent.com/d/1mhnvA61OlBXl-uRqVZQEmYaVmnlhfawu,Terumbu karang,Terumbu karang kondisi baik,2
+539,235,B,D3T1,D3T1-15,D3T1 (15).JPG,-0.08367,120.034885,Posona,https://lh3.googleusercontent.com/d/1bwgBZSQu93m_lGroW3_PHpqSSb9tVx4c,Terumbu karang,Terumbu karang kondisi baik,2
+540,236,B,D3T1,D3T1-16,D3T1 (16).JPG,-0.083688,120.034854,Posona,https://lh3.googleusercontent.com/d/1EneNQTWBuKLHrSTAXRLcddgJidXc-iyR,Terumbu karang,Terumbu karang kondisi baik,2
+541,237,B,D3T1,D3T1-17,D3T1 (17).JPG,-0.083706,120.034823,Posona,https://lh3.googleusercontent.com/d/1xTa3x76zm84uYw_MGDIsUMOMXRmDkr9G,Terumbu karang,Terumbu karang kondisi baik,2
+542,238,B,D3T1,D3T1-18,D3T1 (18).JPG,-0.083724,120.034792,Posona,https://lh3.googleusercontent.com/d/1fYcPR4NfUb6ygq-ogQcM9g6_IctdINOn,Terumbu karang,Terumbu karang kondisi baik,2
+543,239,B,D3T1,D3T1-19,D3T1 (19).JPG,-0.083742,120.034761,Posona,https://lh3.googleusercontent.com/d/15HfHu7WjBTWDdYQrpyW5bliyCTvSdoao,Terumbu karang,Terumbu karang kondisi baik,2
+544,240,B,D3T1,D3T1-20,D3T1 (20).JPG,-0.08376,120.034729,Posona,https://lh3.googleusercontent.com/d/1qRfQ3_fot4kzsoW3ySR-KAa_q0lNUyfc,Terumbu karang,Terumbu karang kondisi baik,2
+545,241,B,D3T1,D3T1-21,D3T1 (21).JPG,-0.083778,120.034698,Posona,https://lh3.googleusercontent.com/d/1XojyvFDIKDKm19PGE_u7vtToNSf83XSq,Terumbu karang,Terumbu karang kondisi baik,2
+546,242,B,D3T1,D3T1-22,D3T1 (22).JPG,-0.083796,120.034667,Posona,https://lh3.googleusercontent.com/d/17EMhydkGlBuuDcOGfreKAughxv0y7twt,Terumbu karang,Terumbu karang kondisi baik,2
+547,243,B,D3T1,D3T1-23,D3T1 (23).JPG,-0.083814,120.034636,Posona,https://lh3.googleusercontent.com/d/1AH7gqMg4LPGunqmJj1346DeXKp0lpKm6,Terumbu karang,Terumbu karang kondisi baik,2
+548,244,B,D3T1,D3T1-24,D3T1 (24).JPG,-0.083832,120.034605,Posona,https://lh3.googleusercontent.com/d/1RLZnomFm4574kWq9Pg3NVcaPiePtAqc8,Terumbu karang,Terumbu karang kondisi baik,2
+549,245,B,D3T1,D3T1-25,D3T1 (25).JPG,-0.08385,120.034574,Posona,https://lh3.googleusercontent.com/d/1Kqu93EErTlvtET0VEyDFrHkvboa70vcI,Terumbu karang,Terumbu karang kondisi baik,2
+550,246,B,D3T1,D3T1-26,D3T1 (26).JPG,-0.083868,120.034543,Posona,https://lh3.googleusercontent.com/d/1eCPxBcXZElQKOTvKKYezPiNWEAwB85a9,Terumbu karang,Terumbu karang kondisi baik,2
+551,247,B,D3T1,D3T1-27,D3T1 (27).JPG,-0.083886,120.034512,Posona,https://lh3.googleusercontent.com/d/1SYJvNdxoFhD321MmHg7RxgpvkZRLElX0,Terumbu karang,Terumbu karang kondisi baik,2
+552,248,B,D3T1,D3T1-28,D3T1 (28).JPG,-0.083905,120.034481,Posona,https://lh3.googleusercontent.com/d/1Tg7VFnpf675tDzC3qlILVZBsnZOJSV8Q,Terumbu karang,Terumbu karang kondisi baik,2
+553,249,B,D3T1,D3T1-29,D3T1 (29).JPG,-0.083923,120.03445,Posona,https://lh3.googleusercontent.com/d/1Z2X_vBTC0cXbZJjyXpk4GiOeHfC_gujM,Terumbu karang,Terumbu karang kondisi baik,2
+554,250,B,D3T1,D3T1-30,D3T1 (30).JPG,-0.083941,120.034419,Posona,https://lh3.googleusercontent.com/d/1uSXVPVuRxZSfHteHIsAh627vThxLGHqq,Terumbu karang,Terumbu karang kondisi baik,2
+555,251,B,D3T2,D3T2-1,D3T2 (1).JPG,-0.084122,120.03437,Posona,https://lh3.googleusercontent.com/d/1eJCxgNHw3SbT7OujcjUAcG1ps6QWccwy,Terumbu karang,Terumbu karang kondisi baik,2
+556,252,B,D3T2,D3T2-2,D3T2 (2).JPG,-0.084104,120.034401,Posona,https://lh3.googleusercontent.com/d/1AMs4VEmpptte-mD5qsyOql6hYOwnJYsd,Terumbu karang,Terumbu karang kondisi baik,2
+557,253,B,D3T2,D3T2-3,D3T2 (3).JPG,-0.084086,120.034432,Posona,https://lh3.googleusercontent.com/d/1zeY196pPzU3_HJXAiPNPvCasymB88107,Terumbu karang,Terumbu karang kondisi baik,2
+558,254,B,D3T2,D3T2-4,D3T2 (4).JPG,-0.084068,120.034463,Posona,https://lh3.googleusercontent.com/d/1SNi2oTeQRxYl9iCDUz3AAtG3OqL6kkJd,Terumbu karang,Terumbu karang kondisi baik,2
+559,255,B,D3T2,D3T2-5,D3T2 (5).JPG,-0.08405,120.034494,Posona,https://lh3.googleusercontent.com/d/1zD4FZxlBLJLiHBB-xPxfMFn6NwT2Eehf,Terumbu karang,Terumbu karang kondisi baik,2
+560,256,B,D3T2,D3T2-6,D3T2 (6).JPG,-0.084032,120.034525,Posona,https://lh3.googleusercontent.com/d/12GTxi05bueH6cUNxpQ8FFWA0GSA9dEhS,Terumbu karang,Terumbu karang kondisi baik,2
+561,257,B,D3T2,D3T2-7,D3T2 (7).JPG,-0.084014,120.034556,Posona,https://lh3.googleusercontent.com/d/1-jC_Nj-rFYhTDHJXTDYjz5sLVRzR-UrY,Terumbu karang,Terumbu karang kondisi baik,2
+562,258,B,D3T2,D3T2-8,D3T2 (8).JPG,-0.083996,120.034587,Posona,https://lh3.googleusercontent.com/d/1dYtJxBl8LnqV_wMBPSPpzZ1yPT9VQW5k,Terumbu karang,Terumbu karang kondisi baik,2
+563,259,B,D3T2,D3T2-9,D3T2 (9).JPG,-0.083978,120.034619,Posona,https://lh3.googleusercontent.com/d/1O_GMifCH-fbhoT32tP2f6IC408EDBI3q,Terumbu karang,Terumbu karang kondisi baik,2
+564,260,B,D3T2,D3T2-10,D3T2 (10).JPG,-0.08396,120.03465,Posona,https://lh3.googleusercontent.com/d/1q8_cQ2JYbeTxwMrKKW4oHxiwLo5S9S4u,Terumbu karang,Terumbu karang kondisi baik,2
+565,261,B,D3T2,D3T2-11,D3T2 (11).JPG,-0.083942,120.034681,Posona,https://lh3.googleusercontent.com/d/1eoo7rcyslg5zinCZ8ya5Av_kbFaKJVZM,Terumbu karang,Terumbu karang kondisi baik,2
+566,262,B,D3T2,D3T2-12,D3T2 (12).JPG,-0.083924,120.034712,Posona,https://lh3.googleusercontent.com/d/1dgYyXFNRbAJEjbwb6QECt6-tDYgxqrro,Terumbu karang,Terumbu karang kondisi baik,2
+567,263,B,D3T2,D3T2-13,D3T2 (13).JPG,-0.083905,120.034743,Posona,https://lh3.googleusercontent.com/d/1yYi2A2X1DiZX2Cx2-wH_0kYeN3CWufoQ,Terumbu karang,Terumbu karang kondisi baik,2
+568,264,B,D3T2,D3T2-14,D3T2 (14).JPG,-0.083887,120.034774,Posona,https://lh3.googleusercontent.com/d/1foXRhTacDVUwUonvhzJo6Lkw1WiU2J0l,Terumbu karang,Terumbu karang kondisi baik,2
+569,265,B,D3T2,D3T2-15,D3T2 (15).JPG,-0.083869,120.034805,Posona,https://lh3.googleusercontent.com/d/1IfIGPLKBwC1IFs8oGG7gdiPyNJ8l5jr3,Terumbu karang,Terumbu karang kondisi baik,2
+570,266,B,D3T2,D3T2-16,D3T2 (16).JPG,-0.083851,120.034836,Posona,https://lh3.googleusercontent.com/d/1In9A0Vv4emkhUrJDdHe0iqw5zCJlYH-_,Substrat terbuka,Pecahan karang,2
+571,267,B,D3T2,D3T2-17,D3T2 (17).JPG,-0.083833,120.034867,Posona,https://lh3.googleusercontent.com/d/14qSZNOuMyRIFqdkfi6Qs0F0fXloYFayh,Terumbu karang,Terumbu karang kondisi baik,2
+572,268,B,D3T2,D3T2-18,D3T2 (18).JPG,-0.083815,120.034898,Posona,https://lh3.googleusercontent.com/d/1WyMxvUQHBWUY5ZnZ67JM-xb4jXgChBC2,Terumbu karang,Terumbu karang kondisi baik,2
+573,269,B,D3T2,D3T2-19,D3T2 (19).JPG,-0.083797,120.034929,Posona,https://lh3.googleusercontent.com/d/1jzg9zZJRu_dl8wArSXi9dfsGzBTZ9RY5,Terumbu karang,Terumbu karang kondisi baik,2
+574,270,B,D3T2,D3T2-20,D3T2 (20).JPG,-0.083779,120.034961,Posona,https://lh3.googleusercontent.com/d/19KH11H22IHskWtDlsDDhzKPGdYm0YPPu,Substrat terbuka,Pecahan karang,2
+575,271,B,D3T2,D3T2-21,D3T2 (21).JPG,-0.083761,120.034992,Posona,https://lh3.googleusercontent.com/d/1uo9JM-3dj_Z1IG6lL2UOXFYLv1MLaKEB,Substrat terbuka,Pecahan karang,2
+576,272,B,D3T3,D3T3-1,D3T3 (1).JPG,-0.083364,120.035371,Posona,https://lh3.googleusercontent.com/d/14-6A0bnAmRmQ0EBHrzXNX0p7Lg-PxwL7,Terumbu karang,Terumbu karang kondisi baik,2
+577,273,B,D3T3,D3T3-2,D3T3 (2).JPG,-0.083344,120.0354,Posona,https://lh3.googleusercontent.com/d/1QsUx8HWVh6MYZbQISgeRJP5Pw95gJ3-e,Terumbu karang,Terumbu karang kondisi baik,2
+578,274,B,D3T3,D3T3-3,D3T3 (3).JPG,-0.083323,120.035429,Posona,https://lh3.googleusercontent.com/d/1EsxP4fbeodBGDHjSELp3Uawh8tAOTtIy,Terumbu karang,Terumbu karang kondisi baik,2
+579,275,B,D3T3,D3T3-4,D3T3 (4).JPG,-0.083302,120.035459,Posona,https://lh3.googleusercontent.com/d/1dUpikat8kT7Nir9UugItPIFwlNLq0vzW,Terumbu karang,Terumbu karang kondisi baik,2
+580,276,B,D3T3,D3T3-5,D3T3 (5).JPG,-0.083281,120.035488,Posona,https://lh3.googleusercontent.com/d/1EfjRRYoZXxrkaNz5ZtIF3t9innTb0qUO,Terumbu karang,Terumbu karang kondisi baik,2
+581,277,B,D3T3,D3T3-6,D3T3 (6).JPG,-0.083261,120.035518,Posona,https://lh3.googleusercontent.com/d/1B-CnlowFCAMLW4B3us-c6tCsevw43dq5,Terumbu karang,Terumbu karang kondisi baik,2
+582,278,B,D3T3,D3T3-7,D3T3 (7).JPG,-0.08324,120.035547,Posona,https://lh3.googleusercontent.com/d/1FjmWTAFA7qNkz96pTpmc1LJecBDla12R,Terumbu karang,Terumbu karang kondisi baik,2
+583,279,B,D3T3,D3T3-8,D3T3 (8).JPG,-0.083219,120.035576,Posona,https://lh3.googleusercontent.com/d/1GlEK9b_gtL7h-V0d_NkjcCi6UEm5QMBv,Terumbu karang,Bleaching,2
+584,280,B,D3T3,D3T3-9,D3T3 (9).JPG,-0.083198,120.035606,Posona,https://lh3.googleusercontent.com/d/1JzyinILvbOPWIzcbabl7UN2ykyKAoLsF,Terumbu karang,Bleaching,2
+585,281,B,D3T3,D3T3-10,D3T3 (10).JPG,-0.083178,120.035635,Posona,https://lh3.googleusercontent.com/d/1i5srbaFz-tVeV2kT9LbzusBYfH4CrMHn,Terumbu karang,Terumbu karang kondisi baik,2
+586,282,B,D3T3,D3T3-11,D3T3 (11).JPG,-0.083157,120.035665,Posona,https://lh3.googleusercontent.com/d/1FJshohwx4TxpxiSVkVu8OeNK_Q3XZOR9,Terumbu karang,Bleaching,2
+587,283,B,D3T3,D3T3-12,D3T3 (12).JPG,-0.083136,120.035694,Posona,https://lh3.googleusercontent.com/d/1JYzhKIgrWUPt2qU18szRcW0psDzCjJsA,Terumbu karang,Bleaching,2
+588,284,B,D3T3,D3T3-13,D3T3 (13).JPG,-0.083116,120.035723,Posona,https://lh3.googleusercontent.com/d/1MtOBhgjj_SYHIHyJPEkLXZvHoll38fvy,Substrat terbuka,Pecahan karang,2
+589,285,B,D3T3,D3T3-14,D3T3 (14).JPG,-0.083095,120.035753,Posona,https://lh3.googleusercontent.com/d/18XZcYabjzxzQLTjj8-eJweQeRkQDUcjG,Substrat terbuka,Pecahan karang,2
+590,286,B,D3T3,D3T3-15,D3T3 (15).JPG,-0.083074,120.035782,Posona,https://lh3.googleusercontent.com/d/1xtERJk8BADBTXHEVakJRpWOU4SjQ5Ecg,Substrat terbuka,Pecahan karang,2
+591,287,B,D3T3,D3T3-16,D3T3 (16).JPG,-0.083053,120.035812,Posona,https://lh3.googleusercontent.com/d/1mWXTlqaDMiOojYZ_LDM0CBhhP7eKnCYF,Terumbu karang,Terumbu karang kondisi baik,2
+592,288,B,D3T3,D3T3-17,D3T3 (17).JPG,-0.083033,120.035841,Posona,https://lh3.googleusercontent.com/d/1bAssh0kPo7fSMaHTbkG30e88JYigsO_j,Terumbu karang,Terumbu karang kondisi baik,2
+593,289,B,D3T3,D3T3-18,D3T3 (18).JPG,-0.083012,120.03587,Posona,https://lh3.googleusercontent.com/d/1Ds3bPFRGDYZ9cLlBP00bBOikVMguCP5z,Terumbu karang,Terumbu karang kondisi baik,2
+594,290,B,D3T3,D3T3-19,D3T3 (19).JPG,-0.082991,120.0359,Posona,https://lh3.googleusercontent.com/d/1QQArogArFmeBRZ5QKeulrJXYXVAu0TmM,Terumbu karang,Terumbu karang kondisi baik,2
+595,291,B,D3T3,D3T3-20,D3T3 (20).JPG,-0.08297,120.035929,Posona,https://lh3.googleusercontent.com/d/13Zjy0SPVrpwhOHOS71DGHIre_ywuNIRt,Terumbu karang,Bleaching,2
+596,292,B,D3T3,D3T3-21,D3T3 (21).JPG,-0.08295,120.035959,Posona,https://lh3.googleusercontent.com/d/1ErB9TD12zCfFPFRj1B794x2mopRyz4li,Terumbu karang,Terumbu karang kondisi baik,2
+597,293,B,D3T3,D3T3-22,D3T3 (22).JPG,-0.082929,120.035988,Posona,https://lh3.googleusercontent.com/d/1gudXeCAxA9rTZq_oc7x0ivnJGUgJKDyj,Terumbu karang,Terumbu karang kondisi baik,2
+598,294,B,D3T3,D3T3-23,D3T3 (23).JPG,-0.082908,120.036018,Posona,https://lh3.googleusercontent.com/d/1nIKCnutxXodwPN4SWUTs88Oz7q5IQzO7,Terumbu karang,Terumbu karang kondisi baik,2
+599,295,B,D3T3,D3T3-24,D3T3 (24).JPG,-0.082888,120.036047,Posona,https://lh3.googleusercontent.com/d/12GHe1fuwS87YxAxSRqFtbYS4Nje7_USi,Terumbu karang,Terumbu karang kondisi baik,2
+600,296,B,D3T3,D3T3-25,D3T3 (25).JPG,-0.082867,120.036076,Posona,https://lh3.googleusercontent.com/d/1ye5crqboshSduy6ju37LdWq9mQ7lI9Y0,Terumbu karang,Terumbu karang kondisi baik,2
+601,297,B,D3T3,D3T3-26,D3T3 (26).JPG,-0.082867,120.036076,Posona,https://lh3.googleusercontent.com/d/190l0WSJxud3wzug5MogXc7gVtah2EtLg,Terumbu karang,Terumbu karang kondisi baik,2
+602,298,B,D3T4,D3T4-1,D3T4 (1).JPG,-0.083254,120.035332,Posona,https://lh3.googleusercontent.com/d/1kNe5k96ejrfdcGiYOzAKHhJ4eC20JH-t,Terumbu karang,Terumbu karang kondisi baik,2
+603,299,B,D3T4,D3T4-2,D3T4 (2).JPG,-0.083247,120.035297,Posona,https://lh3.googleusercontent.com/d/1UKB05MFaMCtMcQQn-fjQXY8SxgUHKS03,Terumbu karang,Terumbu karang kondisi baik,2
+604,300,B,D3T4,D3T4-3,D3T4 (3).JPG,-0.083241,120.035262,Posona,https://lh3.googleusercontent.com/d/1-U1DACllaam9lM63EqrG41AOZY0kbGvu,Terumbu karang,Terumbu karang kondisi baik,2
+605,301,B,D3T4,D3T4-4,D3T4 (4).JPG,-0.083235,120.035226,Posona,https://lh3.googleusercontent.com/d/1znb3_6G_04M5iKj0Jy32bLBPdtynFvL9,Terumbu karang,Terumbu karang kondisi baik,2
+606,302,B,D3T4,D3T4-5,D3T4 (5).JPG,-0.083228,120.035191,Posona,https://lh3.googleusercontent.com/d/1zFRHECHouk9h4MiygbPhKICGYHF6j_Gu,Terumbu karang,Terumbu karang kondisi baik,2
+607,303,B,D3T4,D3T4-6,D3T4 (6).JPG,-0.083222,120.035155,Posona,https://lh3.googleusercontent.com/d/1MqnVU5-srBOhQuNSvSQbxA1teeq6PuFE,Terumbu karang,Terumbu karang kondisi baik,2
+608,304,B,D3T4,D3T4-7,D3T4 (7).JPG,-0.083216,120.03512,Posona,https://lh3.googleusercontent.com/d/1N9z-9vxITLm7NR3vzxU204VPmnw4bTx1,Terumbu karang,Terumbu karang kondisi baik,2
+609,305,B,D3T4,D3T4-8,D3T4 (8).JPG,-0.08321,120.035085,Posona,https://lh3.googleusercontent.com/d/1sbMbEoW-Mh-YFo0Gcb_CR8_z3BTQP6b_,Substrat terbuka,Substrat terbuka,2
+610,306,B,D3T4,D3T4-9,D3T4 (9).JPG,-0.083203,120.035049,Posona,https://lh3.googleusercontent.com/d/17Hmxbk3oZZNMKFAngxbwXZHMzbn38pdR,Substrat terbuka,Substrat terbuka,2
+611,307,B,D3T4,D3T4-10,D3T4 (10).JPG,-0.083197,120.035014,Posona,https://lh3.googleusercontent.com/d/16vv8HBH8l-0M9gtu2iVgmrn6rNjK-01q,Substrat terbuka,Substrat terbuka,2
+612,308,B,D3T4,D3T4-11,D3T4 (11).JPG,-0.083191,120.034979,Posona,https://lh3.googleusercontent.com/d/15zYkMtsXpl1ywRCPp-Xq0QlIQr36pcj9,Substrat terbuka,Double,2
+613,309,B,D3T4,D3T4-12,D3T4 (12).JPG,-0.083185,120.034943,Posona,https://lh3.googleusercontent.com/d/1uW9oho-oRN6DHDu59kin0mWseNMwtIK_,Substrat terbuka,Substrat terbuka,2
+614,310,B,D3T4,D3T4-13,D3T4 (13).JPG,-0.083178,120.034908,Posona,https://lh3.googleusercontent.com/d/1mUVLSX8tr6wsrLbv8zu3M88dzjmPQuhH,Substrat terbuka,Substrat terbuka,2
+615,311,B,D3T4,D3T4-14,D3T4 (14).JPG,-0.083172,120.034873,Posona,https://lh3.googleusercontent.com/d/18gcV7KgST3OaWXbIEcvm_XhCHO9R0CIl,Substrat terbuka,Substrat terbuka,2
+616,312,B,D3T4,D3T4-15,D3T4 (15).JPG,-0.083166,120.034837,Posona,https://lh3.googleusercontent.com/d/1u5D30vMBCeQPcsEC7Xo4bDpwoHEL1Kxn,Terumbu karang,Terumbu karang kondisi baik,2
+617,313,B,D3T4,D3T4-16,D3T4 (16).JPG,-0.083159,120.034802,Posona,https://lh3.googleusercontent.com/d/1zh68zdAk6CfcjF--Sa55EilxnJGWfyqI,Padang lamun,Lamun,2
+618,314,B,D3T4,D3T4-17,D3T4 (17).JPG,-0.083153,120.034767,Posona,https://lh3.googleusercontent.com/d/1WCRioJR-Cpm-Iufwcog3MqlujXBjL6vt,Terumbu karang,Terumbu karang kondisi baik,2
+619,315,B,D3T4,D3T4-18,D3T4 (18).JPG,-0.083147,120.034731,Posona,https://lh3.googleusercontent.com/d/1iq-qsfXfZdHMcRVlYn5KNvgQcwJnF_ss,Terumbu karang,Terumbu karang kondisi baik,2
+620,316,B,D3T4,D3T4-19,D3T4 (19).JPG,-0.083141,120.034696,Posona,https://lh3.googleusercontent.com/d/171Wl6U6TotHx2bVtLb7uwN47LnTRykzh,Padang lamun,Low-visibility,2
+621,317,B,D3T4,D3T4-20,D3T4 (20).JPG,-0.083137,120.034678,Posona,https://lh3.googleusercontent.com/d/17b4UDkBb6FwkhWuhWuYmS0ig_p9yh8zZ,Substrat terbuka,Low-visibility,2
+622,318,B,D3T4,D3T4-21,D3T4 (21).JPG,-0.083134,120.034661,Posona,https://lh3.googleusercontent.com/d/1PdyPB0kOza7uiMnLdwQUooym_b9TSRl5,Substrat terbuka,Low-visibility,2
+623,319,B,D3T4,D3T4-22,D3T4 (22).JPG,-0.083131,120.034643,Posona,https://lh3.googleusercontent.com/d/1URNqHAodu86iuhMQekjBB9EfdYR3B3ki,Substrat terbuka,Low-visibility,2
+624,320,B,D3T4,D3T4-23,D3T4 (23).JPG,-0.083128,120.034625,Posona,https://lh3.googleusercontent.com/d/18_rj502QeOaARaQ6qSLdL5WRM8HljIWh,Substrat terbuka,Low-visibility,2
+625,321,B,D3T4,D3T4-24,D3T4 (24).JPG,-0.083125,120.034607,Posona,https://lh3.googleusercontent.com/d/1R3NA4g1sfKypZZ86lvj8vsVEJg3oW9p8,Substrat terbuka,Low-visibility,2
+626,322,B,D3T4,D3T4-25,D3T4 (25).JPG,-0.083122,120.03459,Posona,https://lh3.googleusercontent.com/d/1bHFqWaIE5EtaeMNJeYMHq8i-ywWH428M,Substrat terbuka,Low-visibility,2
+627,323,B,D3T4,D3T4-26,D3T4 (26).JPG,-0.083119,120.034572,Posona,https://lh3.googleusercontent.com/d/1EM23FpdKGktYYauXp4kg2mxKuvIuSsE0,Substrat terbuka,Low-visibility,2
+628,324,B,D3T4,D3T4-27,D3T4 (27).JPG,-0.083115,120.034554,Posona,https://lh3.googleusercontent.com/d/1BOTmnq37wSGjUnF0sZiHlElPuWNKZJam,Padang lamun,Low-visibility,2
+629,325,B,D3T4,D3T4-28,D3T4 (28).JPG,-0.083112,120.034537,Posona,https://lh3.googleusercontent.com/d/1ptRJ9_nnOxOwva4Qge4Ysa8UsxaLn5Ok,Substrat terbuka,Substrat terbuka,2
+630,326,B,D3T4,D3T4-29,D3T4 (29).JPG,-0.083109,120.034519,Posona,https://lh3.googleusercontent.com/d/1Rgo7QtQI7pycDaALt7QdtgFl-ShR8du3,Substrat terbuka,Substrat terbuka,2
+631,327,B,D3T4,D3T4-30,D3T4 (30).JPG,-0.083106,120.034501,Posona,https://lh3.googleusercontent.com/d/1UFG7h1oMbMjmAKumRiSomAO6UtyQ_-Zh,Padang lamun,Lamun,2
+632,328,B,D3T4,D3T4-31,D3T4 (31).JPG,-0.083103,120.034484,Posona,https://lh3.googleusercontent.com/d/17Szgt-Bfo2aLUn6eSV-6fND-rmpnsCO0,Padang lamun,Lamun,2
+633,329,B,D3T4,D3T4-32,D3T4 (32).JPG,-0.0831,120.034466,Posona,https://lh3.googleusercontent.com/d/18iNjP29IxA_IffYP3ZUn_PT28M8wQUxW,Substrat terbuka,Low-visibility,2
+634,330,B,D3T4,D3T4-33,D3T4 (33).JPG,-0.083097,120.034448,Posona,https://lh3.googleusercontent.com/d/1BSvBCzD5bvX5-A8f7IlTZXSRS_MyCSBv,Substrat terbuka,Substrat terbuka,2
+635,331,B,D3T4,D3T4-34,D3T4 (34).JPG,-0.083094,120.034431,Posona,https://lh3.googleusercontent.com/d/1Lc6dhidqnBR0b-sv4ci4NFHdslE_koTj,Substrat terbuka,Double,2
+636,332,B,D3T5,D3T5-1,D3T5 (1).JPG,-0.073266,120.034731,Posona,https://lh3.googleusercontent.com/d/19egWtSGvJQZ3dH67ZL6wjEAwvTOM3Keh,Terumbu karang,Bleaching,1
+637,333,B,D3T5,D3T5-2,D3T5 (2).JPG,-0.073266,120.034695,Posona,https://lh3.googleusercontent.com/d/1LCAbaoaDpCDTBFoaQNRzoLD1MG9ZYtLk,Padang lamun,Padang lamun campur rumput laut,1
+638,334,B,D3T5,D3T5-3,D3T5 (3).JPG,-0.073266,120.034659,Posona,https://lh3.googleusercontent.com/d/1KaHRDPjE_sDx1H5dwvVgB8Q7Lj7CZFAp,Padang lamun,Padang lamun campur rumput laut,1
+639,335,B,D3T5,D3T5-4,D3T5 (4).JPG,-0.073266,120.034623,Posona,https://lh3.googleusercontent.com/d/1weuuNdKfis6Bj1hi56dBZyxAcC_jY_M6,Padang lamun,Padang lamun campur rumput laut,1
+640,336,B,D3T5,D3T5-5,D3T5 (5).JPG,-0.073266,120.034587,Posona,https://lh3.googleusercontent.com/d/1w-mtnwL_J1VL9QYgj78EDdy_VjD2-kHj,Terumbu karang,Bleaching,1
+641,337,B,D3T5,D3T5-6,D3T5 (6).JPG,-0.073266,120.034552,Posona,https://lh3.googleusercontent.com/d/1FTDb4lw2iNcf7ORrT9jNtoKQFZSOdXVh,Terumbu karang,Bleaching,1
+642,338,B,D3T5,D3T5-7,D3T5 (7).JPG,-0.073266,120.034516,Posona,https://lh3.googleusercontent.com/d/1hGlSuioU2AOAFnRixJoA3m4tY6k3zKVh,Padang lamun,Lamun,1
+643,339,B,D3T5,D3T5-8,D3T5 (8).JPG,-0.073266,120.03448,Posona,https://lh3.googleusercontent.com/d/1OZ6tvbQcBRit9-xC5nq5PM8T_UxaIBVV,Terumbu karang,Bleaching,1
+644,340,B,D3T5,D3T5-9,D3T5 (9).JPG,-0.073266,120.034444,Posona,https://lh3.googleusercontent.com/d/135fnUxCNBPBfXTl4Aosu8wUiRZQgyyo9,Terumbu karang,Bleaching,1
+645,341,B,D3T5,D3T5-10,D3T5 (10).JPG,-0.073266,120.034408,Posona,https://lh3.googleusercontent.com/d/1oDILuDWjGeKorOb7_nz0WIcYqPy_ZdMx,Makroalga,Rumput laut,1
+646,342,B,D3T5,D3T5-11,D3T5 (11).JPG,-0.073266,120.034372,Posona,https://lh3.googleusercontent.com/d/1c6JGa8g4Pl6emlbjhgqHfTnlZp4vUBQR,Terumbu karang,Bleaching,1
+647,343,B,D3T5,D3T5-12,D3T5 (12).JPG,-0.073266,120.034336,Posona,https://lh3.googleusercontent.com/d/18aFD4Yd04JP8jL_4gM-LAdg7z3hXg4Kl,Substrat terbuka,Substrat terbuka,1
+648,344,B,D3T5,D3T5-13,D3T5 (13).JPG,-0.073266,120.0343,Posona,https://lh3.googleusercontent.com/d/18iyY8dCBJUVHjLvzhR5onjRf1sXV-D8-,Terumbu karang,Bleaching,1
+649,345,B,D3T5,D3T5-14,D3T5 (14).JPG,-0.073266,120.034264,Posona,https://lh3.googleusercontent.com/d/1I5L1iazU6wORLag01lAzgSi--Qt32NHt,Terumbu karang,Bleaching,1
+650,346,B,D3T5,D3T5-15,D3T5 (15).JPG,-0.073266,120.034228,Posona,https://lh3.googleusercontent.com/d/1S26rdRIJ2wTV2v_UkZkQSgaK7s4tKXAp,Terumbu karang,Terumbu karang kondisi baik,1
+651,347,B,D3T5,D3T5-16,D3T5 (16).JPG,-0.073266,120.034193,Posona,https://lh3.googleusercontent.com/d/1zxaXq5qYypu6G2CEvnmV27cWXDNeP9xd,Terumbu karang,Terumbu karang kondisi baik,1
+652,348,B,D3T5,D3T5-17,D3T5 (17).JPG,-0.073266,120.034157,Posona,https://lh3.googleusercontent.com/d/1MtIsx6pfwNmB57TtTvgEgira9Z39Nzj_,Terumbu karang,Terumbu karang kondisi baik,1
+653,349,B,D3T5,D3T5-18,D3T5 (18).JPG,-0.073266,120.034121,Posona,https://lh3.googleusercontent.com/d/15aM8Sx7yyfviHm5I2d1Pc4aBydMZCqYB,Terumbu karang,Bleaching,1
+654,350,B,D3T5,D3T5-19,D3T5 (19).JPG,-0.073266,120.034085,Posona,https://lh3.googleusercontent.com/d/1IoC36wVZuNexwuQvk2IlUKhhU9q6ngFW,Terumbu karang,Bleaching,1
+655,351,B,D3T5,D3T5-20,D3T5 (20).JPG,-0.073266,120.034049,Posona,https://lh3.googleusercontent.com/d/1GZdqsi9zJYYwRBkEUDdQb6HAJkNvISKY,Terumbu karang,Bleaching,1
+656,352,B,D3T5,D3T5-21,D3T5 (21).JPG,-0.073266,120.034013,Posona,https://lh3.googleusercontent.com/d/1ryKgkXFQgZvtcACas_qMRX__qIpZfMED,Makroalga,Rumput laut,1
+657,353,B,D3T6,D3T6-1,D3T6 (1).JPG,-0.072697,120.034396,Posona,https://lh3.googleusercontent.com/d/1cLhzVwNq82kI9LR8XXq8GZfAEAzhOntM,Padang lamun,Lamun,1
+658,354,B,D3T6,D3T6-2,D3T6 (2).JPG,-0.072697,120.034431,Posona,https://lh3.googleusercontent.com/d/1FbdouH7gIpdRafGMEfPLk-B5L1V8QgQs,Padang lamun,Lamun,1
+659,355,B,D3T6,D3T6-3,D3T6 (3).JPG,-0.072697,120.034467,Posona,https://lh3.googleusercontent.com/d/1hwKJE9P6tKlccfzWWxbO4Q8kkDqbPauy,Padang lamun,Lamun,1
+660,356,B,D3T6,D3T6-4,D3T6 (4).JPG,-0.072697,120.034503,Posona,https://lh3.googleusercontent.com/d/1pGuu6MuWd8b4pmw78OQX---qZyrtCzWO,Terumbu karang,Bleaching,1
+661,357,B,D3T6,D3T6-5,D3T6 (5).JPG,-0.072697,120.034539,Posona,https://lh3.googleusercontent.com/d/14fr1rXloBJfc15vGJMh_y3g0asjj792L,Padang lamun,Padang lamun campur rumput laut,1
+662,358,B,D3T6,D3T6-6,D3T6 (6).JPG,-0.072697,120.034575,Posona,https://lh3.googleusercontent.com/d/15d0bM99bMdohBIpTPAMgjg9uxhQ4NfMI,Padang lamun,Lamun,1
+663,359,B,D3T6,D3T6-7,D3T6 (7).JPG,-0.072697,120.034611,Posona,https://lh3.googleusercontent.com/d/1ItHH4JOYDafg57WsIIZnZK_6ExL63qsf,Padang lamun,Padang lamun campur rumput laut,1
+664,360,B,D3T6,D3T6-8,D3T6 (8).JPG,-0.072697,120.034647,Posona,https://lh3.googleusercontent.com/d/1mfg7Cb_ZFUC5RvBhGKuVOEn8i9hXNpQQ,Substrat terbuka,Pecahan karang,1
+665,361,B,D3T6,D3T6-9,D3T6 (9).JPG,-0.072697,120.034683,Posona,https://lh3.googleusercontent.com/d/1_JP0WN_-jzIWfhn-6cIOaP_sEKl3zdD7,Substrat terbuka,Pecahan karang,1
+666,362,B,D3T6,D3T6-10,D3T6 (10).JPG,-0.072697,120.034719,Posona,https://lh3.googleusercontent.com/d/19URveozt5lJ_-nbTtHA37BqxnLs6r95J,Padang lamun,Padang lamun campur rumput laut,1
+667,363,B,D3T6,D3T6-11,D3T6 (11).JPG,-0.072697,120.034755,Posona,https://lh3.googleusercontent.com/d/1ZmHmmFLsTDEUJb96AXY2SJKhjpxQaiFU,Padang lamun,Padang lamun campur rumput laut,1
+668,364,B,D3T6,D3T6-12,D3T6 (12).JPG,-0.072697,120.03479,Posona,https://lh3.googleusercontent.com/d/1g0gReD7rCI-lKlNl8hJqhgjjmyGZd5WR,Padang lamun,Padang lamun campur rumput laut,1
+669,365,B,D3T6,D3T6-13,D3T6 (13).JPG,-0.072697,120.034826,Posona,https://lh3.googleusercontent.com/d/13k65AARM2o3QRHFxNeatmoQWO7g1cTUl,Padang lamun,Padang lamun campur rumput laut,1
+670,366,B,D3T6,D3T6-14,D3T6 (14).JPG,-0.072697,120.034862,Posona,https://lh3.googleusercontent.com/d/1de-nxtQSAwlAAYp_SIb5BKK01FeCBBAW,Padang lamun,Padang lamun campur rumput laut,1
+671,367,B,D3T6,D3T6-15,D3T6 (15).JPG,-0.072697,120.034898,Posona,https://lh3.googleusercontent.com/d/1QQ1e5qxGe1AMQnjdwXuD8wPJEiRGq17L,Padang lamun,Padang lamun campur rumput laut,1
+672,368,B,D3T6,D3T6-16,D3T6 (16).JPG,-0.072697,120.034934,Posona,https://lh3.googleusercontent.com/d/1sgLEJ0HEzIh0naPNIhdEv2V6NMAR_Btr,Padang lamun,Padang lamun campur rumput laut,1
+673,369,B,D3T6,D3T6-17,D3T6 (17).JPG,-0.072697,120.03497,Posona,https://lh3.googleusercontent.com/d/105USf1oWAuYjYWQuUbB28DelcbfiWTfx,Padang lamun,Padang lamun campur rumput laut,1
+674,370,B,D3T6,D3T6-18,D3T6 (18).JPG,-0.072697,120.035006,Posona,https://lh3.googleusercontent.com/d/1jaAWrdl-GTJYqZPH2hX0ogfwqdBO97t_,Padang lamun,Lamun,1
+675,371,B,D3T6,D3T6-19,D3T6 (19).JPG,-0.072697,120.035042,Posona,https://lh3.googleusercontent.com/d/1_dbw7K0n0pe5qvzZwfGGb15MhMYQwW_8,Padang lamun,Padang lamun campur rumput laut,1
+676,372,B,D3T6,D3T6-20,D3T6 (20).JPG,-0.072697,120.035078,Posona,https://lh3.googleusercontent.com/d/15BOCod4n4hGlBPKG-Yi_NC0I1OYr_CnI,Padang lamun,Padang lamun campur rumput laut,1
+677,373,B,D3T6,D3T6-21,D3T6 (21).JPG,-0.072697,120.035114,Posona,https://lh3.googleusercontent.com/d/1dopqdX7zi5vsk6GNiqhmghZP7P_pPJAu,Padang lamun,Padang lamun campur rumput laut,1
+678,374,B,D3T7,D3T7-1,D3T7 (1).JPG,-0.072597,120.035174,Posona,https://lh3.googleusercontent.com/d/1S1LUBVqvVaetzODWdA-1P6UstbY7UoOo,Padang lamun,Padang lamun campur rumput laut,1
+679,375,B,D3T7,D3T7-2,D3T7 (2).JPG,-0.07257,120.035197,Posona,https://lh3.googleusercontent.com/d/118KFe3p1J4qxvsB-CdIqyxL3BbGi-26F,Padang lamun,Padang lamun campur rumput laut,1
+680,376,B,D3T7,D3T7-3,D3T7 (3).JPG,-0.072542,120.03522,Posona,https://lh3.googleusercontent.com/d/1UchJzMzj1cTlslat-6OUqy-jhA2Oprmq,Padang lamun,Padang lamun campur rumput laut,1
+681,377,B,D3T7,D3T7-4,D3T7 (4).JPG,-0.072514,120.035243,Posona,https://lh3.googleusercontent.com/d/1Phjml3MTkqIwBT6e3V1g-JczxDaxYavs,Padang lamun,Padang lamun campur rumput laut,1
+682,378,B,D3T7,D3T7-5,D3T7 (5).JPG,-0.072486,120.035266,Posona,https://lh3.googleusercontent.com/d/15qqjIOg4y4zY-DwyRMWaiqiFH7b-cSBH,Terumbu karang,Bleaching,1
+683,379,B,D3T7,D3T7-6,D3T7 (6).JPG,-0.072459,120.035289,Posona,https://lh3.googleusercontent.com/d/1wa6g0wQKc7e8tRummWdhhGGUqqH-nfTg,Padang lamun,Padang lamun campur rumput laut,1
+684,380,B,D3T7,D3T7-7,D3T7 (7).JPG,-0.072431,120.035312,Posona,https://lh3.googleusercontent.com/d/1-leJVv-Lyy0kIj-WLmA2VBrgDWWAAhyp,Padang lamun,Padang lamun campur rumput laut,1
+685,381,B,D3T7,D3T7-8,D3T7 (8).JPG,-0.072403,120.035335,Posona,https://lh3.googleusercontent.com/d/1i-ARn-dB5Xylv_fCfzYE1F1_xPalm2he,Padang lamun,Padang lamun campur rumput laut,1
+686,382,B,D3T7,D3T7-9,D3T7 (9).JPG,-0.072376,120.035358,Posona,https://lh3.googleusercontent.com/d/1EXUeVChLJ-WwwiEUVsM1oRf95vC7sTPg,Padang lamun,Padang lamun campur rumput laut,1
+687,383,B,D3T7,D3T7-10,D3T7 (10).JPG,-0.072348,120.035381,Posona,https://lh3.googleusercontent.com/d/1nwMB_RQfCvu640dZwnyFeahYIWqI32_g,Padang lamun,Padang lamun campur rumput laut,1
+688,384,B,D3T7,D3T7-11,D3T7 (11).JPG,-0.07232,120.035404,Posona,https://lh3.googleusercontent.com/d/1FS1RbmqWGLHrrhNXZWLbtYib34P7HyEO,Padang lamun,Padang lamun campur rumput laut,1
+689,385,B,D3T7,D3T7-12,D3T7 (12).JPG,-0.072293,120.035428,Posona,https://lh3.googleusercontent.com/d/1VB-Qj31LNx_zOdSrP7zdPP1bqbgI1W-j,Padang lamun,Padang lamun campur rumput laut,1
+690,386,B,D3T7,D3T7-13,D3T7 (13).JPG,-0.072265,120.035451,Posona,https://lh3.googleusercontent.com/d/11Xa-2ar-kw0VHDLJLWw3qHJLTm6B-IT_,Padang lamun,Padang lamun campur rumput laut,1
+691,387,B,D3T7,D3T7-14,D3T7 (14).JPG,-0.072237,120.035474,Posona,https://lh3.googleusercontent.com/d/1GRLgsBk5AOcCcNtsNzYWKwdD6zM5qoQm,Padang lamun,Padang lamun campur rumput laut,1
+692,388,B,D3T7,D3T7-15,D3T7 (15).JPG,-0.07221,120.035497,Posona,https://lh3.googleusercontent.com/d/11RacQvu2IgNJ-OJdBee-E9jav7uu6tnG,Padang lamun,Padang lamun campur rumput laut,1
+693,389,B,D3T7,D3T7-16,D3T7 (16).JPG,-0.072182,120.03552,Posona,https://lh3.googleusercontent.com/d/1T8slmVG-PQoe9z4Bvo9hgYgUACQbnRVp,Terumbu karang,Bleaching,1
+694,390,B,D3T7,D3T7-17,D3T7 (17).JPG,-0.072154,120.035543,Posona,https://lh3.googleusercontent.com/d/1f4EAVzjXi46TDvL1DGSEk1Pz7Q7roDfO,Padang lamun,Padang lamun campur rumput laut,1
+695,391,B,D3T7,D3T7-18,D3T7 (18).JPG,-0.072127,120.035566,Posona,https://lh3.googleusercontent.com/d/1vvsmtk0bfLQu-0idjUXBgsTmKz-rJ9-v,Padang lamun,Padang lamun campur rumput laut,1
+696,392,B,D3T7,D3T7-19,D3T7 (19).JPG,-0.072099,120.035589,Posona,https://lh3.googleusercontent.com/d/1GwFwC0ov3SJAb6FRmR57qgh25T8TFZji,Padang lamun,Padang lamun campur rumput laut,1
+697,393,B,D3T7,D3T7-20,D3T7 (20).JPG,-0.072071,120.035612,Posona,https://lh3.googleusercontent.com/d/1gaZV4Kqi_RdSOeTJM3fPtn74CxK7NsT2,Terumbu karang,Bleaching,1
+698,394,B,D3T7,D3T7-21,D3T7 (21).JPG,-0.072044,120.035635,Posona,https://lh3.googleusercontent.com/d/1a_v1QA50kyOqhODY_oyrUfSuEzBoJWHL,Terumbu karang,Bleaching,1
+699,395,B,D3T7,D3T7-22,D3T7 (22).JPG,-0.072016,120.035658,Posona,https://lh3.googleusercontent.com/d/19D-CK_dTl3rLrr1IHrPdxNlKyGx_v-vv,Terumbu karang,Bleaching,1
+700,396,B,D3T7,D3T7-23,D3T7 (23).JPG,-0.071988,120.035681,Posona,https://lh3.googleusercontent.com/d/1NAirz0cOmRHZ_VxmIjwVhh2cIrfT77cI,Terumbu karang,Bleaching,1
+701,397,B,D3T7,D3T7-24,D3T7 (24).JPG,-0.07196,120.035704,Posona,https://lh3.googleusercontent.com/d/1Fkwj3yA8Az9aaqKSc57fLmExs8X5Atv4,Padang lamun,Padang lamun campur rumput laut,1
+702,398,B,D3T7,D3T7-25,D3T7 (25).JPG,-0.071933,120.035728,Posona,https://lh3.googleusercontent.com/d/16eYkd8R5nIZK50j_h01HBP7TC3sxPX-F,Terumbu karang,Bleaching,1
+703,399,B,D3T7,D3T7-26,D3T7 (26).JPG,-0.071905,120.035751,Posona,https://lh3.googleusercontent.com/d/1uDR1ZuBLjYUKewWhxFmqtXNADtGWrDZg,Terumbu karang,Bleaching,1
+704,400,B,D4T1,D4T1-1,D4T1 (1).JPG,-0.111278,120.042787,Posona,https://lh3.googleusercontent.com/d/11uxyRnqehq_ezcC3SHW3nPEaSLSjK7aU,Padang lamun,Lamun,4
+705,401,B,D4T1,D4T1-2,D4T1 (2).JPG,-0.111314,120.042793,Posona,https://lh3.googleusercontent.com/d/1HeJuXOKeW2GKc-t9uYAsMCplTIPlpTwH,Padang lamun,Lamun,4
+706,402,B,D4T1,D4T1-3,D4T1 (3).JPG,-0.11135,120.042799,Posona,https://lh3.googleusercontent.com/d/1VESp7tvV02eVf24BHVuCLoLLH-YROv-s,Padang lamun,Lamun,4
+707,403,B,D4T1,D4T1-4,D4T1 (4).JPG,-0.111385,120.042805,Posona,https://lh3.googleusercontent.com/d/1LkEQIxngrnPRCwRAfEriWawA5Jlj-_yQ,Padang lamun,Lamun,4
+708,404,B,D4T1,D4T1-5,D4T1 (5).JPG,-0.111421,120.042812,Posona,https://lh3.googleusercontent.com/d/1wZlDBiTjDehAeDwZB4VnNTOQARfW6xIw,Padang lamun,Lamun,4
+709,405,B,D4T1,D4T1-6,D4T1 (6).JPG,-0.111456,120.042818,Posona,https://lh3.googleusercontent.com/d/1sJR_-uHRqn1my2IRq4a2JAEyXpENmRTo,Padang lamun,Lamun,4
+710,406,B,D4T1,D4T1-7,D4T1 (7).JPG,-0.111492,120.042824,Posona,https://lh3.googleusercontent.com/d/1tHMzwWyWJPgREN79aXl9aoand6qXzFJS,Padang lamun,Lamun,4
+711,407,B,D4T1,D4T1-8,D4T1 (8).JPG,-0.111527,120.04283,Posona,https://lh3.googleusercontent.com/d/1xpCpywWotqj0nhFCRGfnaWmjZ2bJ6IjY,Padang lamun,Lamun,4
+712,408,B,D4T1,D4T1-9,D4T1 (9).JPG,-0.111563,120.042837,Posona,https://lh3.googleusercontent.com/d/1KwEyshiD-63A3RZLu63RfD5i2eR493nt,Terumbu karang,Bleaching,4
+713,409,B,D4T1,D4T1-10,D4T1 (10).JPG,-0.111599,120.042843,Posona,https://lh3.googleusercontent.com/d/1DwtK0-DTeVZqLuDEVAdUzvMs_FDiZN1T,Substrat terbuka,Pecahan karang,4
+714,410,B,D4T1,D4T1-11,D4T1 (11).JPG,-0.111634,120.042849,Posona,https://lh3.googleusercontent.com/d/1WDl_6s-ZkjhwK1YlnZS5zNDLtOmULk9_,Terumbu karang,Bleaching,4
+715,411,B,D4T1,D4T1-12,D4T1 (12).JPG,-0.11167,120.042855,Posona,https://lh3.googleusercontent.com/d/1af7AsRLoSeA58dJ6eaksQubSYlRXag3i,Padang lamun,Lamun,4
+716,412,B,D4T1,D4T1-13,D4T1 (13).JPG,-0.111705,120.042861,Posona,https://lh3.googleusercontent.com/d/1Kxe84Cxn9Ny4E_PPP15pYwFWL6NTnu1O,Padang lamun,Lamun,4
+717,413,B,D4T1,D4T1-14,D4T1 (14).JPG,-0.111741,120.042868,Posona,https://lh3.googleusercontent.com/d/1T96H0YIJFVBTTL1CKP2Zsju6TIToHTrT,Substrat terbuka,Substrat terbuka,4
+718,414,B,D4T1,D4T1-15,D4T1 (15).JPG,-0.111777,120.042874,Posona,https://lh3.googleusercontent.com/d/1JbWZ7JxHQ32smRGwt9yRiBHuMP-IvF8d,Substrat terbuka,Substrat terbuka,4
+719,415,B,D4T1,D4T1-16,D4T1 (16).JPG,-0.111812,120.04288,Posona,https://lh3.googleusercontent.com/d/1_GKQ4d_V_palvrV_4qtMrpv3hXBcd-jb,Substrat terbuka,Substrat terbuka,4
+720,416,B,D4T1,D4T1-17,D4T1 (17).JPG,-0.111848,120.042886,Posona,https://lh3.googleusercontent.com/d/1T4cS5bPiZaAX_uJ6s9dr0Jv_cyZvF9De,Substrat terbuka,Substrat terbuka,4
+721,417,B,D4T1,D4T1-18,D4T1 (18).JPG,-0.111883,120.042893,Posona,https://lh3.googleusercontent.com/d/1YX2ai8eaqbAkzhgCW19BxLTTxXGG6iZd,Substrat terbuka,Substrat terbuka,4
+722,418,B,D4T1,D4T1-19,D4T1 (19).JPG,-0.111919,120.042899,Posona,https://lh3.googleusercontent.com/d/1uL-OOg1JbL5nYF4OxMshvWZWR9pmjG6K,Substrat terbuka,Substrat terbuka,4
+723,419,B,D4T1,D4T1-20,D4T1 (20).JPG,-0.111955,120.042905,Posona,https://lh3.googleusercontent.com/d/1R_2EFnUD6jslntPQEIT9Mq4_2Nfieh2Y,Substrat terbuka,Substrat terbuka,4
+724,420,B,D4T1,D4T1-21,D4T1 (21).JPG,-0.11199,120.042911,Posona,https://lh3.googleusercontent.com/d/1MGebLrrAeei6EPo8n-qJcDcuft8TEgrV,Substrat terbuka,Substrat terbuka,4
+725,421,B,D4T1,D4T1-22,D4T1 (22).JPG,-0.112026,120.042917,Posona,https://lh3.googleusercontent.com/d/1rYtrnosGqJpw9CUB2ONBGBkPmgsQKnjV,Substrat terbuka,Substrat terbuka,4
+726,422,B,D4T1,D4T1-23,D4T1 (23).JPG,-0.112061,120.042924,Posona,https://lh3.googleusercontent.com/d/1AwZTYg1U-q0uHMUdCeUuIs1Jdo3-Ulup,Terumbu karang,Terumbu karang kondisi baik,4
+727,423,B,D4T1,D4T1-24,D4T1 (24).JPG,-0.112097,120.04293,Posona,https://lh3.googleusercontent.com/d/1SWUtXe8nkwebuEfYQ3iIY9-VOQeyiffY,Terumbu karang,Terumbu karang kondisi baik,4
+728,424,B,D4T1,D4T1-25,D4T1 (25).JPG,-0.112133,120.042936,Posona,https://lh3.googleusercontent.com/d/1zAXh9Kkmi59Pw9pOpJOGC954KmwXjhVf,Terumbu karang,Terumbu karang kondisi baik,4
+729,425,B,D4T1,D4T1-26,D4T1 (26).JPG,-0.112168,120.042942,Posona,https://lh3.googleusercontent.com/d/111arVc34xdWztSA6r6C21YzXjl7_najU,Terumbu karang,Terumbu karang kondisi baik,4
+730,426,B,D4T1,D4T1-27,D4T1 (27).JPG,-0.112204,120.042949,Posona,https://lh3.googleusercontent.com/d/1I1GyRr-cbOuJLAmHXpkXGir8mGV9b-UW,Terumbu karang,Terumbu karang kondisi baik,4
+731,427,B,D4T2,D4T2-1,D4T2 (1).JPG,-0.113077,120.04338,Posona,https://lh3.googleusercontent.com/d/12s4khkNI6_cycP9cSJZTxjZX8hy2d3CX,Terumbu karang,Terumbu karang kondisi baik,4
+732,428,B,D4T2,D4T2-2,D4T2 (2).JPG,-0.113045,120.043362,Posona,https://lh3.googleusercontent.com/d/1hI5qedIKpHnSK_9iKU6tScS2VRnHVt2F,Terumbu karang,Bleaching,4
+733,429,B,D4T2,D4T2-3,D4T2 (3).JPG,-0.113014,120.043344,Posona,https://lh3.googleusercontent.com/d/1M2oA_Yv7JZQjjVQxgGUq7N-FxZgOjdbM,Terumbu karang,Bleaching,4
+734,430,B,D4T2,D4T2-4,D4T2 (4).JPG,-0.112983,120.043326,Posona,https://lh3.googleusercontent.com/d/1WDiFa6F3hxdDs9-9M8s9cgD51R9dnUzX,Terumbu karang,Bleaching,4
+735,431,B,D4T2,D4T2-5,D4T2 (5).JPG,-0.112951,120.043308,Posona,https://lh3.googleusercontent.com/d/1soEQzYq8zx6hcgxL7YOeDgAYkVeHsDLO,Terumbu karang,Bleaching,4
+736,432,B,D4T2,D4T2-6,D4T2 (6).JPG,-0.11292,120.04329,Posona,https://lh3.googleusercontent.com/d/1Xv1RZsCAzCkhF91f3EJEZuQy5tXm0rgi,Substrat terbuka,Pecahan karang,4
+737,433,B,D4T2,D4T2-7,D4T2 (7).JPG,-0.112889,120.043272,Posona,https://lh3.googleusercontent.com/d/1_KOMtzad2iHcObeuyOH1j46nUZEFWYVs,Substrat terbuka,Pecahan karang,4
+738,434,B,D4T2,D4T2-8,D4T2 (8).JPG,-0.112858,120.043254,Posona,https://lh3.googleusercontent.com/d/1YEdG0v6QgyLPr5GLZuIILiq9bv0g0taF,Terumbu karang,Terumbu karang kondisi baik,4
+739,435,B,D4T2,D4T2-9,D4T2 (9).JPG,-0.112826,120.043236,Posona,https://lh3.googleusercontent.com/d/1Zbk_xbTo0OOvOPh7D9GXsGKyco4VbjUn,Substrat terbuka,Pecahan karang,4
+740,436,B,D4T2,D4T2-10,D4T2 (10).JPG,-0.112795,120.043218,Posona,https://lh3.googleusercontent.com/d/1TSLv3_08VzB03PjWirNV8T0B5Lmz6hMR,Substrat terbuka,Pecahan karang,4
+741,437,B,D4T2,D4T2-11,D4T2 (11).JPG,-0.112764,120.043201,Posona,https://lh3.googleusercontent.com/d/1yrd3clqTnsFp9Ck1mq9EGHzYF2g9NUKf,Substrat terbuka,Pecahan karang,4
+742,438,B,D4T2,D4T2-12,D4T2 (12).JPG,-0.112732,120.043183,Posona,https://lh3.googleusercontent.com/d/1oPCqHGErUWS4jD2E9cX7eBYGD70Cv0yj,Terumbu karang,Bleaching,4
+743,439,B,D4T2,D4T2-13,D4T2 (13).JPG,-0.112701,120.043165,Posona,https://lh3.googleusercontent.com/d/1NdxzOacFTd6MRqK9rJW7IBNc3gHBWyVI,Terumbu karang,Bleaching,4
+744,440,B,D4T2,D4T2-14,D4T2 (14).JPG,-0.11267,120.043147,Posona,https://lh3.googleusercontent.com/d/1wwtIpCsm-UlOODeN2a88oC9tEf-ORAiF,Terumbu karang,Bleaching,4
+745,441,B,D4T2,D4T2-15,D4T2 (15).JPG,-0.112638,120.043129,Posona,https://lh3.googleusercontent.com/d/1f81TH-QyEZjDjXTzFaLJ8OWgh8SkFNi3,Substrat terbuka,Pecahan karang,4
+746,442,B,D4T2,D4T2-16,D4T2 (16).JPG,-0.112607,120.043111,Posona,https://lh3.googleusercontent.com/d/1sDEwa_g5uL2btZMV827FDllfXpLOyl-j,Terumbu karang,Bleaching,4
+747,443,B,D4T2,D4T2-17,D4T2 (17).JPG,-0.112576,120.043093,Posona,https://lh3.googleusercontent.com/d/1gtaK0i3bGrqYwe-_bErA4N6oQkN7CEqe,Terumbu karang,Bleaching,4
+748,444,B,D4T2,D4T2-18,D4T2 (18).JPG,-0.112545,120.043075,Posona,https://lh3.googleusercontent.com/d/1js4nznM5NYRj0kaZnLzL51imRPqhv3fW,Terumbu karang,Bleaching,4
+749,445,B,D4T2,D4T2-19,D4T2 (19).JPG,-0.112513,120.043057,Posona,https://lh3.googleusercontent.com/d/1si3S9hy5TLQBakXf6YXegjT10YKW0F6j,Terumbu karang,Bleaching,4
+750,446,B,D4T2,D4T2-20,D4T2 (20).JPG,-0.112482,120.043039,Posona,https://lh3.googleusercontent.com/d/1Y0e2qTF7vqrUXjW8W8XB8yscneIBChdj,Makroalga,Rumput laut,4
+751,447,B,D4T2,D4T2-21,D4T2 (21).JPG,-0.112451,120.043021,Posona,https://lh3.googleusercontent.com/d/1dX6gFZwr6GhHvPembSmudgBcBO3H1c-P,Substrat terbuka,Pecahan karang,4
+752,448,B,D4T2,D4T2-22,D4T2 (22).JPG,-0.112419,120.043003,Posona,https://lh3.googleusercontent.com/d/1uwaD45w9X2oHUGLa0wnpKtWhtMmT3Aaj,Terumbu karang,Bleaching,4
+753,449,B,D4T2,D4T2-23,D4T2 (23).JPG,-0.112388,120.042985,Posona,https://lh3.googleusercontent.com/d/1NEoprNfZiDq3NUIMkaOv67Uf-wuaQjB3,Makroalga,Rumput laut,4
+754,450,B,D4T2,D4T2-24,D4T2 (24).JPG,-0.112357,120.042967,Posona,https://lh3.googleusercontent.com/d/1nGntS5LOJ4Ix0P8MoJPHAkIfkumF1Ran,Makroalga,Rumput laut,4
+755,451,B,D4T2,D4T2-25,D4T2 (25).JPG,-0.112325,120.042949,Posona,https://lh3.googleusercontent.com/d/1uRw41sWxUFNla2n-TOvIK9jiO5OeW6qK,Terumbu karang,Bleaching,4
+756,452,B,D4T2,D4T2-26,D4T2 (26).JPG,-0.112294,120.042931,Posona,https://lh3.googleusercontent.com/d/1n-5itv6uaLm8knBRISbUeVtNd9eHzr0p,Makroalga,Rumput laut,4
+757,453,B,D4T3,D4T3-1,D4T3 (1).JPG,-0.11183,120.041407,Posona,https://lh3.googleusercontent.com/d/1AuV4xpFjoc-R9DSsIxlOThzy7LYSirCc,Padang lamun,Lamun,4
+758,454,B,D4T3,D4T3-2,D4T3 (2).JPG,-0.111866,120.041407,Posona,https://lh3.googleusercontent.com/d/19QPsh_OlT1wAxwGeYD_7a9kmbaoSvXEe,Padang lamun,Lamun,4
+759,455,B,D4T3,D4T3-3,D4T3 (3).JPG,-0.111902,120.041407,Posona,https://lh3.googleusercontent.com/d/1yQdBGHfPxdDsZnpMKgIso6_crRWm7tRb,Padang lamun,Lamun,4
+760,456,B,D4T3,D4T3-4,D4T3 (4).JPG,-0.111938,120.041407,Posona,https://lh3.googleusercontent.com/d/1uL16plLdEg1hxi4c28DYNt2ztpirdloe,Padang lamun,Lamun,4
+761,457,B,D4T3,D4T3-5,D4T3 (5).JPG,-0.111975,120.041407,Posona,https://lh3.googleusercontent.com/d/1tktViJ7XXmuSCA7XPCVYYdvVOHkbdj7S,Padang lamun,Lamun,4
+762,458,B,D4T3,D4T3-6,D4T3 (6).JPG,-0.112011,120.041407,Posona,https://lh3.googleusercontent.com/d/1L46GptZjuWiMYPgM4NcAWPlkOKCQUlg-,Padang lamun,Lamun,4
+763,459,B,D4T3,D4T3-7,D4T3 (7).JPG,-0.112047,120.041407,Posona,https://lh3.googleusercontent.com/d/1whQlE10tv9TKA7eRL0vnPOhWJDXXZdHY,Padang lamun,Lamun,4
+764,460,B,D4T3,D4T3-8,D4T3 (8).JPG,-0.112083,120.041407,Posona,https://lh3.googleusercontent.com/d/1jorXmnR0JXkY298Ft8CuCaV-eh__QlCp,Padang lamun,Lamun,4
+765,461,B,D4T3,D4T3-9,D4T3 (9).JPG,-0.112119,120.041407,Posona,https://lh3.googleusercontent.com/d/1B4rXdx2l_uZAwcgVoilvD5qfkQZ3geD1,Padang lamun,Lamun,4
+766,462,B,D4T3,D4T3-10,D4T3(10).JPG,-0.112155,120.041407,Posona,https://lh3.googleusercontent.com/d/1vM5wKcNSaRePkqDBw1yo9FhjoZOepl0k,Padang lamun,Lamun,4
+767,463,B,D4T3,D4T3-11,D4T3 (11).JPG,-0.112191,120.041407,Posona,https://lh3.googleusercontent.com/d/1wfNrdBjSUaz4bkUgj8eWoDFm-Nzwn18w,Padang lamun,Lamun,4
+768,464,B,D4T3,D4T3-12,D4T3 (12).JPG,-0.112228,120.041407,Posona,https://lh3.googleusercontent.com/d/1bC-7pbWOIik9BDKB9QDZYSfQ-fIHfrZZ,Padang lamun,Lamun,4
+769,465,B,D4T3,D4T3-13,D4T3 (13).JPG,-0.112264,120.041407,Posona,https://lh3.googleusercontent.com/d/1hNZWveN7tC_oi68fuu2j3BiIjMu42yx-,Padang lamun,Lamun,4
+770,466,B,D4T3,D4T3-14,D4T3(14).JPG,-0.1123,120.041407,Posona,https://lh3.googleusercontent.com/d/1vEybG5fuziLResXZGuz0cGH4MpucGhAP,Padang lamun,Lamun,4
+771,467,B,D4T3,D4T3-15,D4T3(15).JPG,-0.112336,120.041407,Posona,https://lh3.googleusercontent.com/d/1W7QxUyuitxBfOHGBl-u502PvQCIu3Sc7,Padang lamun,Lamun,4
+772,468,B,D4T3,D4T3-16,D4T3 (16).JPG,-0.112372,120.041407,Posona,https://lh3.googleusercontent.com/d/1SyVNH6uv_Yxj6izZhGVFeRE2WCLSho-z,Padang lamun,Lamun,4
+773,469,B,D4T3,D4T3-17,D4T3 (17).JPG,-0.112408,120.041407,Posona,https://lh3.googleusercontent.com/d/1H2tznf0llZdw7vZueSdzcDxpeT5SqmuA,Padang lamun,Lamun,4
+774,470,B,D4T3,D4T3-18,D4T3 (18).JPG,-0.112444,120.041407,Posona,https://lh3.googleusercontent.com/d/154_aWjT9jcYZ30AmpJPC5qA3gAuPMcM0,Padang lamun,Lamun,4
+775,471,B,D4T3,D4T3-19,D4T3 (19).JPG,-0.11248,120.041407,Posona,https://lh3.googleusercontent.com/d/1aji-poMSFtcXbeSTObevo9xweBNGGF7u,Padang lamun,Lamun,4
+776,472,B,D4T3,D4T3-20,D4T3(20).JPG,-0.112517,120.041407,Posona,https://lh3.googleusercontent.com/d/16mF5pJJsr81YwJAF62WCv3dZGyhY2s_q,Padang lamun,Lamun,4
+777,473,B,D4T3,D4T3-21,D4T3 (21).JPG,-0.112553,120.041407,Posona,https://lh3.googleusercontent.com/d/1nJMkEaX4rAxYXfkdWh20GnB-LQEQktx7,Padang lamun,Lamun,4
+778,474,B,D4T3,D4T3-22,D4T3 (22).JPG,-0.112589,120.041407,Posona,https://lh3.googleusercontent.com/d/13XaiX2oDwGwFsC548tghMDtXdZ2t_fKj,Padang lamun,Lamun,4
+779,475,B,D4T3,D4T3-23,D4T3 (23).JPG,-0.112625,120.041407,Posona,https://lh3.googleusercontent.com/d/1FLJae2BIXT1B6JBH9imD5IPyuj7yD-iW,Padang lamun,Lamun,4
+780,476,B,D4T3,D4T3-24,D4T3 (24).JPG,-0.112661,120.041407,Posona,https://lh3.googleusercontent.com/d/1d6skYoBW6lr1SMKaYd27Dz5v1mob7VpZ,Padang lamun,Lamun,4
+781,477,B,D4T3,D4T3-25,D4T3 (25).JPG,-0.112697,120.041407,Posona,https://lh3.googleusercontent.com/d/1bCBQc2N2kbchJK88casobiOG33OZPA2P,Padang lamun,Lamun,4
+782,478,B,D4T3,D4T3-26,D4T3 (26).JPG,-0.112733,120.041407,Posona,https://lh3.googleusercontent.com/d/1A5t7uTVztfSwIcc2q3mrb2hiPNt7yRro,Padang lamun,Lamun,4
+783,479,B,D4T4,D4T4-1,D4T4 (1).JPG,-0.113328,120.040833,Posona,https://lh3.googleusercontent.com/d/1FrTWgwbWtszn4Tc9SSrnt_jcv9oc7E72,Substrat terbuka,Substrat terbuka,4
+784,480,B,D4T4,D4T4-2,D4T4 (2).JPG,-0.113297,120.040851,Posona,https://lh3.googleusercontent.com/d/1HrTVe8eWGQHKvQhiCywPVK-mP5rh1_8N,Padang lamun,Lamun,4
+785,481,B,D4T4,D4T4-3,D4T4 (3).JPG,-0.113266,120.040869,Posona,https://lh3.googleusercontent.com/d/1HxDnW4fdA8ME76xoAq3G68sPpNmrcZaA,Padang lamun,Lamun,4
+786,482,B,D4T4,D4T4-4,D4T4 (4).JPG,-0.113234,120.040887,Posona,https://lh3.googleusercontent.com/d/1wCOwmlWzP0xVUwAHuKAp8iK8XbTEdyFi,Padang lamun,Lamun,4
+787,483,B,D4T4,D4T4-5,D4T4 (5).JPG,-0.113203,120.040905,Posona,https://lh3.googleusercontent.com/d/1JjKmvw8qhtQ4KGeilq4QPQlcpR0TyjI7,Padang lamun,Lamun,4
+788,484,B,D4T4,D4T4-6,D4T4 (6).JPG,-0.113172,120.040923,Posona,https://lh3.googleusercontent.com/d/1KtxnV4oXFXXCz_bMyVB3DoOgRLzyOMzq,Padang lamun,Lamun,4
+789,485,B,D4T4,D4T4-7,D4T4 (7).JPG,-0.113141,120.040941,Posona,https://lh3.googleusercontent.com/d/1WxyxjzECnpRGUSb3uxXa2jXKZWD4tFGe,Padang lamun,Lamun,4
+790,486,B,D4T4,D4T4-8,D4T4 (8).JPG,-0.113109,120.040959,Posona,https://lh3.googleusercontent.com/d/1JKl4SM_p0eV1D1ZioPbOQs8SxRb0f6M1,Padang lamun,Lamun,4
+791,487,B,D4T4,D4T4-9,D4T4 (9).JPG,-0.113078,120.040977,Posona,https://lh3.googleusercontent.com/d/1shh7NVcRaKLTqFt01dSE_fvIvlGyoYfV,Padang lamun,Lamun,4
+792,488,B,D4T4,D4T4-10,D4T4 (10).JPG,-0.113047,120.040995,Posona,https://lh3.googleusercontent.com/d/1690IJPMNepQkpuAE6xRNTzuY3NbJTLF2,Padang lamun,Lamun,4
+793,489,B,D4T4,D4T4-11,D4T4 (11).JPG,-0.113015,120.041013,Posona,https://lh3.googleusercontent.com/d/1mRzt1iBV2QaK5D0OVEuMhv-2P-9qNKyR,Padang lamun,Lamun,4
+794,490,B,D4T4,D4T4-12,D4T4 (12).JPG,-0.112984,120.041031,Posona,https://lh3.googleusercontent.com/d/1qSVCvUQi8t4hkp4U6olKUtoUOP9aq8Up,Padang lamun,Lamun,4
+795,491,B,D4T4,D4T4-13,D4T4 (13).JPG,-0.112953,120.041049,Posona,https://lh3.googleusercontent.com/d/1NWSV13gsusD1LIdpbXhBZ3EI9T-jTtix,Padang lamun,Lamun,4
+796,492,B,D4T4,D4T4-14,D4T4 (14).JPG,-0.112921,120.041067,Posona,https://lh3.googleusercontent.com/d/1se1wtJZR1bjFETQNt-sxtjHAFHVcLDqA,Padang lamun,Lamun,4
+797,493,B,D4T4,D4T4-15,D4T4 (15).JPG,-0.11289,120.041085,Posona,https://lh3.googleusercontent.com/d/1spLK0G8ntViZX2zIh-qhgRI-Ey0svca0,Padang lamun,Lamun,4
+798,494,B,D4T4,D4T4-16,D4T4 (16).JPG,-0.112859,120.041103,Posona,https://lh3.googleusercontent.com/d/1-x8NyABfxsfJUVplH4Fi2tWWGM4RczZp,Padang lamun,Lamun,4
+799,495,B,D4T4,D4T4-17,D4T4 (17).JPG,-0.112828,120.041121,Posona,https://lh3.googleusercontent.com/d/1lcLQ2F6h_GIVioYHZ5RPjPwi4Al3f9II,Padang lamun,Lamun,4
+800,496,B,D4T4,D4T4-18,D4T4 (18).JPG,-0.112796,120.041138,Posona,https://lh3.googleusercontent.com/d/1qEo_jNIQ3AnuFT66rSY2BHW8DwHvEUja,Padang lamun,Lamun,4
+801,497,B,D4T4,D4T4-19,D4T4 (19).JPG,-0.112765,120.041156,Posona,https://lh3.googleusercontent.com/d/1-WfvpBZlvY9D7HzEFjUX9aDjdqcMAQyy,Padang lamun,Lamun,4
+802,498,B,D4T4,D4T4-20,D4T4 (20).JPG,-0.112734,120.041174,Posona,https://lh3.googleusercontent.com/d/1u4drhDT7OZw2oLYHepJOE8TEFh0_r9HM,Padang lamun,Lamun,4
+803,499,B,D4T4,D4T4-21,D4T4 (21).JPG,-0.112702,120.041192,Posona,https://lh3.googleusercontent.com/d/1fLy5II9AsoYmtnnyLn_XF0_4cH048p7B,Padang lamun,Lamun,4
+804,500,B,D4T4,D4T4-22,D4T4 (22).JPG,-0.112671,120.04121,Posona,https://lh3.googleusercontent.com/d/1ERsFm-4CAy7wAbzRj6_eePns5pTnEK9s,Padang lamun,Lamun,4
+805,501,B,D4T4,D4T4-23,D4T4 (23).JPG,-0.11264,120.041228,Posona,https://lh3.googleusercontent.com/d/1JsMrmErKFcvR_LrU_BjVGqp0QspgPIAi,Padang lamun,Lamun,4
+806,502,B,D4T4,D4T4-24,D4T4 (24).JPG,-0.112608,120.041246,Posona,https://lh3.googleusercontent.com/d/1Zy_RNcdGMmdPISX5G5O75cDl9_ayExvB,Padang lamun,Lamun,4
+807,503,B,D4T4,D4T4-25,D4T4 (25).JPG,-0.112577,120.041264,Posona,https://lh3.googleusercontent.com/d/1hDtfpFVxi7mYj4x3npjwtiAhmXLFScUb,Padang lamun,Lamun,4
+808,504,B,D4T4,D4T4-26,D4T4 (26).JPG,-0.112546,120.041282,Posona,https://lh3.googleusercontent.com/d/14q2TCzfsITP6Z1hjy6aGR2yj-nQ_rz3E,Padang lamun,Lamun,4
+809,505,B,D4T4,D4T4-27,D4T4 (27).JPG,-0.112515,120.0413,Posona,https://lh3.googleusercontent.com/d/1ButrVnoUaL9lamz7zKzvA5v3inj_odb1,Padang lamun,Lamun,4
+810,506,B,D4T4,D4T4-28,D4T4 (28).JPG,-0.112483,120.041318,Posona,https://lh3.googleusercontent.com/d/1DnU3A5Bk6YmiqfU5793ACDzVENYRdP5f,Padang lamun,Lamun,4
+811,507,B,D4T4,D4T4-29,D4T4 (29).JPG,-0.112452,120.041336,Posona,https://lh3.googleusercontent.com/d/1IfcsHpISKcwTQl9-3ZFs2COd18sbPig-,Padang lamun,Lamun,4
+812,508,B,D4T5,D4T5-1,D4T5 (1). JPG,-0.095748,120.034388,Posona,https://lh3.googleusercontent.com/d/1_P8xcWWWBH0TrXFry6fhbN0Hz7IuWzUY,Substrat terbuka,Substrat terbuka,3
+813,509,B,D4T5,D4T5-2,D4T5 (2). JPG,-0.095742,120.034424,Posona,https://lh3.googleusercontent.com/d/1Cmfm7Mkj64iq5jDN5wIosxzTOXEJs-RX,Substrat terbuka,Substrat terbuka,3
+814,510,B,D4T5,D4T5-3,D4T5 (3). JPG,-0.095736,120.034459,Posona,https://lh3.googleusercontent.com/d/1-_CYtrBJdnvpklFwK7HycA4lS-493YcW,Padang lamun,Lamun,3
+815,511,B,D4T5,D4T5-4,D4T5 (4). JPG,-0.09573,120.034494,Posona,https://lh3.googleusercontent.com/d/1hbUrek7FT1fkdS2xxQepfSwvCGPRIqnQ,Padang lamun,Lamun,3
+816,512,B,D4T5,D4T5-5,D4T5 (5). JPG,-0.095723,120.03453,Posona,https://lh3.googleusercontent.com/d/1QsO6BKaAAmj_Hi2Q647nfNXlDx-nK-bR,Padang lamun,Lamun,3
+817,513,B,D4T5,D4T5-6,D4T5 (6). JPG,-0.095717,120.034565,Posona,https://lh3.googleusercontent.com/d/1pM7qryJdEmWmdmFZNYz8q7IOTgJ_bkUT,Padang lamun,Lamun,3
+818,514,B,D4T5,D4T5-7,D4T5 (7). JPG,-0.095711,120.0346,Posona,https://lh3.googleusercontent.com/d/1148S7arCOhaIiUijbhvOeb5gVCQaqRhi,Substrat terbuka,Substrat terbuka,3
+819,515,B,D4T5,D4T5-8,D4T5 (8). JPG,-0.095704,120.034636,Posona,https://lh3.googleusercontent.com/d/1tZRaF9Npye-HWSX_qDLKYOG9uGjPbsu8,Substrat terbuka,Substrat terbuka,3
+820,516,B,D4T5,D4T5-9,D4T5 (9). JPG,-0.095698,120.034671,Posona,https://lh3.googleusercontent.com/d/1IJsnphDh-79JRt-JyLhJozxNcQozSdoH,Terumbu karang,Bleaching,3
+821,517,B,D4T5,D4T5-10,D4T5 (10). JPG,-0.095692,120.034707,Posona,https://lh3.googleusercontent.com/d/1obCjH80QBBCDjMSLkA23yVFYjZJasRlA,Terumbu karang,Bleaching,3
+822,518,B,D4T5,D4T5-11,D4T5 (11). JPG,-0.095686,120.034742,Posona,https://lh3.googleusercontent.com/d/1zOKr3zfTEMyzL4XBO5e9UUeoWtMu6oDU,Terumbu karang,Bleaching,3
+823,519,B,D4T5,D4T5-12,D4T5 (12). JPG,-0.095679,120.034777,Posona,https://lh3.googleusercontent.com/d/1GT1ZtJAixt6dyzj1YZ7ft5WaXLGdRBAS,Terumbu karang,Bleaching,3
+824,520,B,D4T5,D4T5-13,D4T5 (13). JPG,-0.095673,120.034813,Posona,https://lh3.googleusercontent.com/d/16X7Hf45aOEohUzd4ba0GpIh7uyjxSwQD,Terumbu karang,Bleaching,3
+825,521,B,D4T5,D4T5-14,D4T5 (14). JPG,-0.095667,120.034848,Posona,https://lh3.googleusercontent.com/d/1Bxi1qS5RYZlUfpCGQihyikzL4C03I9-J,Terumbu karang,Bleaching,3
+826,522,B,D4T5,D4T5-15,D4T5 (15). JPG,-0.095661,120.034883,Posona,https://lh3.googleusercontent.com/d/1kHP7Yk9Z-vikfj9ypap1Jf1N9rGvjyEq,Terumbu karang,Bleaching,3
+827,523,B,D4T5,D4T5-16,D4T5 (16). JPG,-0.095654,120.034919,Posona,https://lh3.googleusercontent.com/d/1xXmVCY5XfTh_7pVq3TYN3K0H3gsfmNwM,Terumbu karang,Bleaching,3
+828,524,B,D4T5,D4T5-17,D4T5 (17). JPG,-0.095648,120.034954,Posona,https://lh3.googleusercontent.com/d/1A7g38qLv7AGe23-UJG8jfU9gYc2n0Z_9,Terumbu karang,Bleaching,3
+829,525,B,D4T5,D4T5-18,D4T5 (18). JPG,-0.095642,120.034989,Posona,https://lh3.googleusercontent.com/d/1kDZsuJdjtdGPAccZazxz0XwcmLgXjci5,Terumbu karang,Bleaching,3
+830,526,B,D4T5,D4T5-19,D4T5 (19). JPG,-0.095635,120.035025,Posona,https://lh3.googleusercontent.com/d/1Lk0z0fC_gFdiH_GBbVd2dYYJXr_h6zoJ,Terumbu karang,Bleaching,3
+831,527,B,D4T5,D4T5-20,D4T5 (20). JPG,-0.095629,120.03506,Posona,https://lh3.googleusercontent.com/d/1rgmNp43-S1qoDZujgm_WbS4K7Y9Xtp6D,Terumbu karang,Bleaching,3
+832,528,B,D4T5,D4T5-21,D4T5 (21). JPG,-0.095623,120.035095,Posona,https://lh3.googleusercontent.com/d/1tQ2DLfHSufoYmetAqZf6bMAbgo7jrcY1,Terumbu karang,Bleaching,3
+833,529,B,D4T5,D4T5-22,D4T5 (22). JPG,-0.095617,120.035131,Posona,https://lh3.googleusercontent.com/d/1Xme8SmcVNCN_YjmwhqNnRN7DUafH_PkO,Terumbu karang,Bleaching,3
+834,530,B,D4T5,D4T5-23,D4T5 (23). JPG,-0.09561,120.035166,Posona,https://lh3.googleusercontent.com/d/1H-ON7BTxgtvblyckFTfYvIsE1uI0Iqc3,Terumbu karang,Bleaching,3
+835,531,B,D4T5,D4T5-24,D4T5 (24). JPG,-0.095604,120.035201,Posona,https://lh3.googleusercontent.com/d/1_Rmzo7FS9s2IfaYk-QgwfFtG-lP-7JsP,Terumbu karang,Bleaching,3
+836,532,B,D4T5,D4T5-25,D4T5 (25). JPG,-0.095598,120.035237,Posona,https://lh3.googleusercontent.com/d/12CLvfcBvF_ozOTqnD8x7D95I7JwMC-P9,Terumbu karang,Bleaching,3
+837,533,B,D4T5,D4T5-26,D4T5 (26). JPG,-0.095592,120.035272,Posona,https://lh3.googleusercontent.com/d/1biJRaef5yNngKGu7V4nqW6SJ0OUXji_U,Terumbu karang,Bleaching,3
+838,534,B,D4T5,D4T6-1,D4T6 (1). JPG,-0.095349,120.034647,Posona,https://lh3.googleusercontent.com/d/1RHAaomlKsBoUPtoyI4OGZw-iXzkYFoU0,Terumbu karang,Bleaching,3
+839,535,B,D4T5,D4T6-2,D4T6 (2). JPG,-0.095313,120.034641,Posona,https://lh3.googleusercontent.com/d/1ifs6AX5IVMamIqQxGbTG1i7LcbJXrUir,Terumbu karang,Bleaching,3
+840,536,B,D4T5,D4T6-3,D4T6 (3). JPG,-0.095278,120.034635,Posona,https://lh3.googleusercontent.com/d/1onXyMiuMdFJIk8L8P4bAoH9-7Km6mP86,Terumbu karang,Bleaching,3
+841,537,B,D4T5,D4T6-4,D4T6 (4). JPG,-0.095242,120.034629,Posona,https://lh3.googleusercontent.com/d/14OTSY0qcnzaTgsqtQwUXr_8HJwTfMcvq,Terumbu karang,Bleaching,3
+842,538,B,D4T5,D4T6-5,D4T6 (5). JPG,-0.095206,120.034623,Posona,https://lh3.googleusercontent.com/d/13Z3ctZXAhETLJ984h22A3j1y3OP_Z7Rk,Terumbu karang,Bleaching,3
+843,539,B,D4T5,D4T6-6,D4T6 (6). JPG,-0.095171,120.034616,Posona,https://lh3.googleusercontent.com/d/1FknVTJ9YVwQ1Ny3XRnYHPRj4m2hPpX9U,Terumbu karang,Bleaching,3
+844,540,B,D4T5,D4T6-7,D4T6 (7). JPG,-0.095135,120.03461,Posona,https://lh3.googleusercontent.com/d/1fTilIzWLuH0iCF-q4YHRlYw9wMr7Qyyy,Terumbu karang,Bleaching,3
+845,541,B,D4T5,D4T6-8,D4T6 (8). JPG,-0.0951,120.034604,Posona,https://lh3.googleusercontent.com/d/1QZOlmGXSu8ziBnOilhLkd38GibBpVhxg,Terumbu karang,Bleaching,3
+846,542,B,D4T5,D4T6-9,D4T6 (9). JPG,-0.095064,120.034598,Posona,https://lh3.googleusercontent.com/d/1Hrnt_XQZSH-44iSMk4NrOK2zUaPM4M1O,Terumbu karang,Bleaching,3
